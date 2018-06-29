@@ -1,544 +1,551 @@
-,Account,Text,Date,compound,neg,neu,pos
-0,BBC North America,"Han Solo 'blaster' fetches $550,000 in New York https://t.co/5excvDy4PI",2018-06-24,0.0,0.0,1.0,0.0
-1,BBC North America,Woman 'humiliated' by Walgreens over drugs to end pregnancy https://t.co/wRB5pTZqzA,2018-06-24,0.0,0.0,1.0,0.0
-2,BBC North America,What impact has Donald Trump had on illegal immigration? https://t.co/9XpVTcBc6L,2018-06-23,-0.5574,0.286,0.714,0.0
-3,BBC North America,"Obituary: Suman Virk, the mother who forgave her daughter's killer https://t.co/SjSr2n7qme",2018-06-23,-0.4404,0.274,0.573,0.153
-4,BBC North America,French jogger detained after crossing US-Canada border https://t.co/zEkqAlpZkd,2018-06-23,-0.4019,0.278,0.722,0.0
-5,BBC North America,Sarah Sanders kicked out of restaurant because of work for Trump https://t.co/sdaMrXXVRV,2018-06-23,0.0,0.0,1.0,0.0
-6,BBC North America,RT @HaleyThomas09: Cisary and his eight-year-old daughter fled from Honduras after receiving death threats. They were detained when they en…,2018-06-23,-0.8555,0.356,0.644,0.0
-7,BBC North America,Pantera drummer Vinnie Paul dies aged 54 https://t.co/TNRljgVgQg,2018-06-23,0.0,0.0,1.0,0.0
-8,BBC North America,US military plans migrant tent camps amid Trump crackdown https://t.co/kEHpucjh1n,2018-06-23,0.0,0.0,1.0,0.0
-9,BBC North America,Anthony Bourdain: Chef's mother plans memorial tattoo https://t.co/F0oWKDszFz,2018-06-22,0.0,0.0,1.0,0.0
-10,BBC North America,Undocumented migrant families embark on chaotic reunion process https://t.co/YNdA8GhvVe,2018-06-22,-0.4939,0.286,0.714,0.0
-11,BBC North America,Trump highlights victims of migrants amid family separations row https://t.co/5Q0ZiV1O6H,2018-06-22,-0.3182,0.204,0.796,0.0
-12,BBC North America,Koko: Gorilla death coverage rekindles language debate https://t.co/pR4cpwIyBR,2018-06-22,-0.5994,0.358,0.642,0.0
-13,BBC North America,"RT @BBCWorld: Drone footage offers a unique look at a 'tent city' built to house migrant children in Texas 
+,Account,Text,Date,datetime,compound,neg,neu,pos
+0,BBC North America,Maryland shooting: Gazette staff publish Friday edition https://t.co/2ZF96p6BuP,2018-06-29,2018-06-29 03:21:11-04:00,0.0,0.0,1.0,0.0
+1,BBC North America,Annapolis shooting: How journalists tweeted their ordeal https://t.co/ko8lM3blnF,2018-06-28,2018-06-28 18:49:24-04:00,0.0,0.0,1.0,0.0
+2,BBC North America,"RT @BBCBreaking: Several people dead in shooting at newspaper building in US city of Annapolis in Maryland, officials confirm https://t.co/…",2018-06-28,2018-06-28 16:44:03-04:00,-0.6486,0.185,0.815,0.0
+3,BBC North America,Police confirm 'shooting incident' at Maryland newspaper office https://t.co/QWxFyO8K3V,2018-06-28,2018-06-28 15:41:53-04:00,0.0,0.0,1.0,0.0
+4,BBC North America,Women fear abortion rights under threat https://t.co/0KvjaZG3su,2018-06-28,2018-06-28 14:58:10-04:00,-0.765,0.569,0.431,0.0
+5,BBC North America,"RT @Tara_Mckelvey: Here at Foxconn in Wisconsin, I asked the president about his Putin meeting. The president smiled and a moment later sai…",2018-06-28,2018-06-28 14:42:19-04:00,0.5423,0.0,0.851,0.149
+6,BBC North America,Charlottesville car attack suspect charged with hate crime https://t.co/sJ9KsshuoC,2018-06-28,2018-06-28 12:41:49-04:00,-0.9231,0.781,0.219,0.0
+7,BBC North America,RT @BBCRajiniV: My goal for this #worldcup2018 - see how many pics I can get of fans from different countries. It’s like a real life @Offic…,2018-06-28,2018-06-28 12:16:04-04:00,0.3612,0.0,0.898,0.102
+8,BBC North America,"ICYMI, this four-year-old's paintings are worth thousands of dollars https://t.co/G9wKyal49O https://t.co/gf8sZD4xTB",2018-06-28,2018-06-28 12:10:16-04:00,0.2263,0.0,0.84,0.16
+9,BBC North America,Benghazi attack: Libyan militant jailed for 22 years in US https://t.co/bDRdh3syGz,2018-06-28,2018-06-28 06:56:06-04:00,-0.743,0.412,0.588,0.0
+10,BBC North America,XXXTentacion fans queue to pay respects at Florida service https://t.co/WU2yrBQWsq,2018-06-28,2018-06-28 01:05:38-04:00,0.2263,0.12,0.684,0.197
+11,BBC North America,Trump begins Supreme Court search to replace Anthony Kennedy https://t.co/8ey1YLP0XR,2018-06-28,2018-06-28 00:22:01-04:00,0.5574,0.0,0.714,0.286
+12,BBC North America,"RT @sam_granville: ""Congressman Crowley knows 20,000 people. He could have won.""- @theabstoddard on #Beyond100Days w/@trowynt and @Christia…",2018-06-27,2018-06-27 18:28:43-04:00,0.0,0.0,1.0,0.0
+13,BBC North America,Supreme Court: Why a fight over US abortion law now looms https://t.co/4Z76AmvAWq,2018-06-27,2018-06-27 18:11:28-04:00,0.1027,0.266,0.506,0.228
+14,BBC North America,Five attempts to make toys more inclusive https://t.co/F6ENo98IxO,2018-06-27,2018-06-27 17:36:13-04:00,0.0,0.0,1.0,0.0
+15,BBC North America,Flamingo that escaped a zoo in 2005 spotted in Texas https://t.co/1zLq80fM5e,2018-06-27,2018-06-27 15:52:46-04:00,0.0,0.0,1.0,0.0
+16,BBC North America,Antwon Rose: Pittsburgh officer charged with criminal homicide https://t.co/jXylvU2AnH,2018-06-27,2018-06-27 15:26:20-04:00,-0.6369,0.426,0.574,0.0
+17,BBC North America,RT @BBCJonSopel: Surreal discussion going on in Oval Office right now between Portugese President and @realDonaldTrump on how good a player…,2018-06-27,2018-06-27 15:06:31-04:00,0.4404,0.0,0.868,0.132
+18,BBC North America,RT @awzurcher: Your daily “elections have consequences” reminder. If Hillary Clinton had won we’d be looking at a 6-3 liberal majority on t…,2018-06-27,2018-06-27 14:52:27-04:00,0.5719,0.0,0.85,0.15
+19,BBC North America,Trump Supreme Court pick: Why is the US top court so important? https://t.co/IYs39xG0rJ,2018-06-27,2018-06-27 14:45:57-04:00,0.7574,0.0,0.572,0.428
+20,BBC North America,Trump-Putin summit agreed by US and Russia in principle https://t.co/Vyv0Fo4Jqn,2018-06-27,2018-06-27 14:35:23-04:00,0.2732,0.0,0.811,0.189
+21,BBC North America,"RT @awzurcher: Without Anthony Kennedy on the US Supreme Court, there really won't be a swing justice. Whoever replaces him will move the C…",2018-06-27,2018-06-27 14:27:41-04:00,0.2081,0.101,0.767,0.132
+22,BBC North America,"RT @BBCBreaking: A Supreme Court justice is to retire, giving President Trump the chance to reshape the top US court https://t.co/OC80dTFbCL",2018-06-27,2018-06-27 14:19:01-04:00,0.9042,0.0,0.532,0.468
+23,BBC North America,US Supreme Court judge to retire https://t.co/XExux0wvjX,2018-06-27,2018-06-27 14:17:21-04:00,0.5574,0.0,0.625,0.375
+24,BBC North America,Joe Jackson: Patriarch of Jackson family dies aged 89 https://t.co/3BOQ5lKedG,2018-06-27,2018-06-27 12:44:17-04:00,0.0,0.0,1.0,0.0
+25,BBC North America,RT @HarryLow49: Mexico City erupts as South Korea's second goal goes in https://t.co/CSTADxowPG,2018-06-27,2018-06-27 11:59:13-04:00,0.0,0.0,1.0,0.0
+26,BBC North America,RT @HarryLow49: Lots of worried faces inside this bar in Mexico City #MEXSWE https://t.co/RfWxHQEa0s,2018-06-27,2018-06-27 11:39:05-04:00,-0.296,0.145,0.855,0.0
+27,BBC North America,Alexandria Ocasio-Cortez: Millennial beats veteran Democrat https://t.co/xakzGLRAW3,2018-06-27,2018-06-27 05:06:17-04:00,0.0,0.0,1.0,0.0
+28,BBC North America,Deadly explosion at Texas hospital leaves one dead https://t.co/gUcNdS0wAK,2018-06-26,2018-06-26 20:56:27-04:00,-0.6486,0.35,0.65,0.0
+29,BBC North America,"RT @sam_granville: ""The President does what the president wants to do.""
+@emilyjanefox on #Beyond100Days talking about her new book Born Tru…",2018-06-26,2018-06-26 16:27:14-04:00,0.0,0.0,1.0,0.0
+30,BBC North America,"RT @Tara_Mckelvey: In the East Room, I watched President Trump help Pauline Lyda Wells Conner, the widow of a World War II hero, First Lt G…",2018-06-26,2018-06-26 16:17:38-04:00,0.5267,0.121,0.621,0.258
+31,BBC North America,Canadian tycoon's son Blake Leibel gets life for 'savage' murder https://t.co/XvKYl8Fbnd,2018-06-26,2018-06-26 16:09:10-04:00,-0.6908,0.32,0.68,0.0
+32,BBC North America,NSA contractor Reality Winner admits leak https://t.co/6TJTuLc2I1,2018-06-26,2018-06-26 16:06:29-04:00,0.5574,0.194,0.323,0.484
+33,BBC North America,Migrant family separations: States sue Trump administration https://t.co/H5LgMqJ3cC,2018-06-26,2018-06-26 15:40:34-04:00,0.0,0.0,1.0,0.0
+34,BBC North America,US college quarterback 'had brain disorder' before suicide https://t.co/7vDdLkcCCg,2018-06-26,2018-06-26 14:10:23-04:00,-0.802,0.507,0.493,0.0
+35,BBC North America,"RT @colleenhagerty: It's #ElectionDay in Oklahoma, and an unprecedented number of teachers are on the ballot. Here's why: https://t.co/kBlR…",2018-06-26,2018-06-26 12:23:52-04:00,0.0772,0.0,0.933,0.067
+36,BBC North America,"RT @awzurcher: Outside the Supreme Court, a crowd is chanting “no ban, no wall.” https://t.co/flVUOA7USb",2018-06-26,2018-06-26 12:23:44-04:00,-0.296,0.284,0.539,0.176
+37,BBC North America,"RT @awzurcher: The latest from outside the Supreme Court. There's a small rally here right now that is a grab-bag of abortion, gay rights a…",2018-06-26,2018-06-26 11:42:50-04:00,0.5574,0.0,0.859,0.141
+38,BBC North America,Teenager helps deaf and blind man to communicate on flight https://t.co/QLwJ0nNBPi,2018-06-26,2018-06-26 11:32:04-04:00,-0.0258,0.189,0.629,0.182
+39,BBC North America,Ottawa Bluesfest preparations obstructed by nesting bird https://t.co/dL0yHBXtR0,2018-06-26,2018-06-26 11:22:41-04:00,0.0,0.0,1.0,0.0
+40,BBC North America,New Zealand man shot after 'flying to US to attack teenager' https://t.co/b0Jo6hXdKY,2018-06-26,2018-06-26 11:03:19-04:00,-0.4767,0.22,0.78,0.0
+41,BBC North America,Trump travel ban: What does this ruling mean? https://t.co/Qe1M3TC6JU,2018-06-26,2018-06-26 10:50:00-04:00,-0.5574,0.31,0.69,0.0
+42,BBC North America,RT @hannahlonghiggs: What are the alternatives to detention and what's the cost difference? I took a look. Here's what I found: https://t.c…,2018-06-26,2018-06-26 10:39:28-04:00,-0.3612,0.122,0.878,0.0
+43,BBC North America,"RT @awzurcher: The ban - on Iran, Yemen, Somalia, Syria, Libya, North Korea and Venezuela - had already been allowed to go into effect. Whi…",2018-06-26,2018-06-26 10:38:14-04:00,-0.5574,0.141,0.859,0.0
+44,BBC North America,US Supreme Court upholds Trump's travel ban https://t.co/f69RfkGpmH,2018-06-26,2018-06-26 10:26:09-04:00,0.0,0.273,0.455,0.273
+45,BBC North America,Donald Trump criticises Harley-Davidson for decision over tariffs https://t.co/gTdAWMjdQt,2018-06-25,2018-06-25 20:39:26-04:00,-0.3182,0.223,0.777,0.0
+46,BBC North America,US astronaut Buzz Aldrin sues his two children for 'misuse of finances' https://t.co/F1Uq9ASPDI,2018-06-25,2018-06-25 20:31:53-04:00,0.0,0.0,1.0,0.0
+47,BBC North America,Oscars awards body acts to boost diversity with 928 member invitations https://t.co/M8P5N99u3v,2018-06-25,2018-06-25 20:04:43-04:00,0.6908,0.0,0.637,0.363
+48,BBC North America,US border agents halt migrant family prosecutions https://t.co/BVBKJ4BZnQ,2018-06-25,2018-06-25 17:56:34-04:00,0.0,0.0,1.0,0.0
+49,BBC North America,Is it fair for a politician to use Tinder to win votes? https://t.co/V6s6iTmpq7,2018-06-25,2018-06-25 17:54:02-04:00,0.7269,0.0,0.621,0.379
+50,BBC North America,Trump to Waters: 'Be careful what you wish for Max' https://t.co/0YV8h5SQXv,2018-06-25,2018-06-25 16:01:30-04:00,0.5106,0.0,0.677,0.323
+51,BBC North America,California scientist shot dead while camping with daughters https://t.co/I3VJ1J7bgX,2018-06-25,2018-06-25 14:05:10-04:00,-0.6486,0.35,0.65,0.0
+52,BBC North America,Pentagon: Two military bases to house migrants https://t.co/IlZSwUP4A8,2018-06-25,2018-06-25 12:57:16-04:00,0.0,0.0,1.0,0.0
+53,BBC North America,Laura Ingalls Wilder removed from book award over racist language https://t.co/6B5K4oRvM0,2018-06-25,2018-06-25 12:31:05-04:00,-0.128,0.242,0.545,0.212
+54,BBC North America,Former Nato chief Javier Solana denied US visa waiver https://t.co/rUQj5xU2sO,2018-06-25,2018-06-25 11:17:27-04:00,-0.4404,0.244,0.756,0.0
+55,BBC North America,Woman 'calls police' on eight-year-old for selling water #PermitPatty https://t.co/ZZ2f8xuOAR,2018-06-25,2018-06-25 09:32:15-04:00,0.0,0.0,1.0,0.0
+56,BBC North America,"RT @Tara_Mckelvey: I spoke with @williamcrawley on BBC Radio 4’s Sunday programme about President Trump, Attorney General Jeff Sessions and…",2018-06-25,2018-06-25 09:21:45-04:00,0.0,0.0,1.0,0.0
+57,BBC North America,"RT @ImAidenJohnson: At the U.S. Supreme Court with BBC’s @csbuckler waiting for a possible ruling on the president’s travel ban, which rest…",2018-06-25,2018-06-25 09:19:31-04:00,0.0,0.137,0.725,0.137
+58,BBC North America,Roseanne Barr regrets becoming 'hate magnet' https://t.co/8nkcZQ1T6p,2018-06-25,2018-06-25 03:11:17-04:00,-0.7351,0.554,0.446,0.0
+59,BBC North America,Police geeks trying to win over old-school cops https://t.co/j6CdXGuJaK,2018-06-24,2018-06-24 20:40:34-04:00,0.5267,0.115,0.574,0.311
+60,BBC North America,Trump calls for deportations without judicial process https://t.co/GujfWGBgyb,2018-06-24,2018-06-24 15:18:36-04:00,0.0,0.0,1.0,0.0
+61,BBC North America,"Han Solo 'blaster' fetches $550,000 in New York https://t.co/5excvDy4PI",2018-06-24,2018-06-24 05:08:14-04:00,0.0,0.0,1.0,0.0
+62,BBC North America,Woman 'humiliated' by Walgreens over drugs to end pregnancy https://t.co/wRB5pTZqzA,2018-06-24,2018-06-24 02:28:34-04:00,0.0,0.0,1.0,0.0
+63,BBC North America,What impact has Donald Trump had on illegal immigration? https://t.co/9XpVTcBc6L,2018-06-23,2018-06-23 21:14:34-04:00,-0.5574,0.286,0.714,0.0
+64,BBC North America,"Obituary: Suman Virk, the mother who forgave her daughter's killer https://t.co/SjSr2n7qme",2018-06-23,2018-06-23 20:48:55-04:00,-0.4404,0.274,0.573,0.153
+65,BBC North America,French jogger detained after crossing US-Canada border https://t.co/zEkqAlpZkd,2018-06-23,2018-06-23 18:17:37-04:00,-0.4019,0.278,0.722,0.0
+66,BBC North America,Sarah Sanders kicked out of restaurant because of work for Trump https://t.co/sdaMrXXVRV,2018-06-23,2018-06-23 17:24:13-04:00,0.0,0.0,1.0,0.0
+67,BBC North America,RT @HaleyThomas09: Cisary and his eight-year-old daughter fled from Honduras after receiving death threats. They were detained when they en…,2018-06-23,2018-06-23 10:35:44-04:00,-0.8555,0.356,0.644,0.0
+68,BBC North America,Pantera drummer Vinnie Paul dies aged 54 https://t.co/TNRljgVgQg,2018-06-23,2018-06-23 06:24:54-04:00,0.0,0.0,1.0,0.0
+69,BBC North America,US military plans migrant tent camps amid Trump crackdown https://t.co/kEHpucjh1n,2018-06-23,2018-06-23 04:04:07-04:00,0.0,0.0,1.0,0.0
+70,BBC North America,Anthony Bourdain: Chef's mother plans memorial tattoo https://t.co/F0oWKDszFz,2018-06-22,2018-06-22 21:10:17-04:00,0.0,0.0,1.0,0.0
+71,BBC North America,Undocumented migrant families embark on chaotic reunion process https://t.co/YNdA8GhvVe,2018-06-22,2018-06-22 19:04:17-04:00,-0.4939,0.286,0.714,0.0
+72,BBC North America,Trump highlights victims of migrants amid family separations row https://t.co/5Q0ZiV1O6H,2018-06-22,2018-06-22 16:42:37-04:00,-0.3182,0.204,0.796,0.0
+73,BBC North America,Koko: Gorilla death coverage rekindles language debate https://t.co/pR4cpwIyBR,2018-06-22,2018-06-22 11:50:15-04:00,-0.5994,0.358,0.642,0.0
+74,BBC North America,"RT @BBCWorld: Drone footage offers a unique look at a 'tent city' built to house migrant children in Texas 
 
-https://t.co/7NOMpSb8Mv https:…",2018-06-22,0.0,0.0,1.0,0.0
-14,BBC North America,Migrant families separation poster girl 'not taken from mum' https://t.co/YpO7YEAWtb,2018-06-22,0.0,0.0,1.0,0.0
-15,BBC North America,Melania jacket: Five things 'I don't care' could mean https://t.co/lJJubuLZtl,2018-06-22,-0.3875,0.226,0.774,0.0
-16,BBC North America,Kate Spade's father dies night before designer's funeral https://t.co/dAhl91hWQL,2018-06-22,-0.3612,0.238,0.762,0.0
-17,BBC North America,Migrant children: Pentagon asked to house migrant minors https://t.co/xIdBz9OYpn,2018-06-21,0.0,0.0,1.0,0.0
-18,BBC North America,"RT @sam_granville: ""These immigrants don't want to come here. They have to come here.""- @jmarczak on #Beyond100Days @BBCWorld https://t.co/…",2018-06-21,-0.0572,0.064,0.936,0.0
-19,BBC North America,Melania wears 'I don't really care do u?' coat on migrant visit https://t.co/XnhcPazj15,2018-06-21,-0.43,0.192,0.808,0.0
-20,BBC North America,Canadian tycoon's son Blake Leibel convicted of brutal murder https://t.co/6pcRDnQBNw,2018-06-21,-0.8689,0.524,0.476,0.0
-21,BBC North America,Confusion reigns over fate of detained migrant children https://t.co/AOPky5IjLq,2018-06-21,-0.5994,0.412,0.588,0.0
-22,BBC North America,"RT @BBCBreaking: I would like to ask how I can help reunite the children with their families ""as quickly as possible"" - @FLOTUS visits bord…",2018-06-21,0.6369,0.0,0.794,0.206
-23,BBC North America,Pittsburgh officer in fatal shooting of Antwon Rose 'just sworn in' https://t.co/4Ktyk53Uma,2018-06-21,-0.5423,0.241,0.759,0.0
-24,BBC North America,Confusion reigns over fate of detained migrant children https://t.co/B4UA4BWHNM,2018-06-21,-0.5994,0.412,0.588,0.0
-25,BBC North America,"RT @sam_granville: ""Since the 2016 election, there will not be a day in my life that goes by that I'm not nervous about politics.""
-@danpfei…",2018-06-21,0.2057,0.0,0.927,0.073
-26,BBC North America,RT @AngelicaMCasas: This is the sound of migrant children NOT separated from their parents. https://t.co/NBgVoh1pS8,2018-06-21,0.0,0.0,1.0,0.0
-27,BBC North America,Suspect arrested over XXXTentacion killing https://t.co/yqm84G03Lr,2018-06-21,-0.8658,0.764,0.236,0.0
-28,BBC North America,Koko the famously social gorilla dies in California https://t.co/tN3HEAEzVp,2018-06-21,0.0,0.0,1.0,0.0
-29,BBC North America,Migrant children: US battle moves to Congress https://t.co/qhldMsr9f7,2018-06-21,-0.3818,0.271,0.729,0.0
-30,BBC North America,Charlottesville organiser plans Washington DC rally https://t.co/VUJD7yeTin,2018-06-20,0.0,0.0,1.0,0.0
-31,BBC North America,Donald Trump 'lacks character' for hotel liquor licence https://t.co/ktHvQZ2Zqw,2018-06-20,0.0,0.0,1.0,0.0
-32,BBC North America,US envoy Nikki Haley berates human rights groups https://t.co/NMMyFy8iEZ,2018-06-20,0.0,0.0,1.0,0.0
-33,BBC North America,US migrant children: The bigger picture explained https://t.co/iKbcqZSQ0R,2018-06-20,0.0,0.0,1.0,0.0
-34,BBC North America,Hollywood v Fox News: Why a Fox walkout over migrants unlikely https://t.co/1eJPLluPqi,2018-06-20,-0.3182,0.204,0.796,0.0
-35,BBC North America,Peter Fonda apologises for 'vulgar' Barron Trump tweet https://t.co/7oZ3mddl2Q,2018-06-20,0.2023,0.0,0.816,0.184
-36,BBC North America,"RT @BBCWorld: ""It's about keeping families together, while at the same time ensuring we have a very powerful, strong border""
+https://t.co/7NOMpSb8Mv https:…",2018-06-22,2018-06-22 10:02:10-04:00,0.0,0.0,1.0,0.0
+75,BBC North America,Migrant families separation poster girl 'not taken from mum' https://t.co/YpO7YEAWtb,2018-06-22,2018-06-22 09:43:26-04:00,0.0,0.0,1.0,0.0
+76,BBC North America,Melania jacket: Five things 'I don't care' could mean https://t.co/lJJubuLZtl,2018-06-22,2018-06-22 07:09:35-04:00,-0.3875,0.226,0.774,0.0
+77,BBC North America,Kate Spade's father dies night before designer's funeral https://t.co/dAhl91hWQL,2018-06-22,2018-06-22 04:41:44-04:00,-0.3612,0.238,0.762,0.0
+78,BBC North America,Migrant children: Pentagon asked to house migrant minors https://t.co/xIdBz9OYpn,2018-06-21,2018-06-21 19:30:56-04:00,0.0,0.0,1.0,0.0
+79,BBC North America,"RT @sam_granville: ""These immigrants don't want to come here. They have to come here.""- @jmarczak on #Beyond100Days @BBCWorld https://t.co/…",2018-06-21,2018-06-21 15:27:32-04:00,-0.0572,0.064,0.936,0.0
+80,BBC North America,Melania wears 'I don't really care do u?' coat on migrant visit https://t.co/XnhcPazj15,2018-06-21,2018-06-21 15:24:33-04:00,-0.43,0.192,0.808,0.0
+81,BBC North America,Canadian tycoon's son Blake Leibel convicted of brutal murder https://t.co/6pcRDnQBNw,2018-06-21,2018-06-21 13:36:33-04:00,-0.8689,0.524,0.476,0.0
+82,BBC North America,Confusion reigns over fate of detained migrant children https://t.co/AOPky5IjLq,2018-06-21,2018-06-21 13:07:11-04:00,-0.5994,0.412,0.588,0.0
+83,BBC North America,"RT @BBCBreaking: I would like to ask how I can help reunite the children with their families ""as quickly as possible"" - @FLOTUS visits bord…",2018-06-21,2018-06-21 12:34:28-04:00,0.6369,0.0,0.794,0.206
+84,BBC North America,Pittsburgh officer in fatal shooting of Antwon Rose 'just sworn in' https://t.co/4Ktyk53Uma,2018-06-21,2018-06-21 11:57:42-04:00,-0.5423,0.241,0.759,0.0
+85,BBC North America,Confusion reigns over fate of detained migrant children https://t.co/B4UA4BWHNM,2018-06-21,2018-06-21 11:31:11-04:00,-0.5994,0.412,0.588,0.0
+86,BBC North America,"RT @sam_granville: ""Since the 2016 election, there will not be a day in my life that goes by that I'm not nervous about politics.""
+@danpfei…",2018-06-21,2018-06-21 09:26:34-04:00,0.2057,0.0,0.927,0.073
+87,BBC North America,RT @AngelicaMCasas: This is the sound of migrant children NOT separated from their parents. https://t.co/NBgVoh1pS8,2018-06-21,2018-06-21 09:23:00-04:00,0.0,0.0,1.0,0.0
+88,BBC North America,Suspect arrested over XXXTentacion killing https://t.co/yqm84G03Lr,2018-06-21,2018-06-21 09:02:09-04:00,-0.8658,0.764,0.236,0.0
+89,BBC North America,Koko the famously social gorilla dies in California https://t.co/tN3HEAEzVp,2018-06-21,2018-06-21 07:37:01-04:00,0.0,0.0,1.0,0.0
+90,BBC North America,Migrant children: US battle moves to Congress https://t.co/qhldMsr9f7,2018-06-21,2018-06-21 05:06:27-04:00,-0.3818,0.271,0.729,0.0
+91,BBC North America,Charlottesville organiser plans Washington DC rally https://t.co/VUJD7yeTin,2018-06-20,2018-06-20 23:12:34-04:00,0.0,0.0,1.0,0.0
+92,BBC North America,Donald Trump 'lacks character' for hotel liquor licence https://t.co/ktHvQZ2Zqw,2018-06-20,2018-06-20 22:09:27-04:00,0.0,0.0,1.0,0.0
+93,BBC North America,US envoy Nikki Haley berates human rights groups https://t.co/NMMyFy8iEZ,2018-06-20,2018-06-20 20:02:16-04:00,0.0,0.0,1.0,0.0
+94,BBC North America,US migrant children: The bigger picture explained https://t.co/iKbcqZSQ0R,2018-06-20,2018-06-20 19:11:54-04:00,0.0,0.0,1.0,0.0
+95,BBC North America,Hollywood v Fox News: Why a Fox walkout over migrants unlikely https://t.co/1eJPLluPqi,2018-06-20,2018-06-20 18:47:58-04:00,-0.3182,0.204,0.796,0.0
+96,BBC North America,Peter Fonda apologises for 'vulgar' Barron Trump tweet https://t.co/7oZ3mddl2Q,2018-06-20,2018-06-20 18:20:39-04:00,0.2023,0.0,0.816,0.184
+97,BBC North America,"RT @BBCWorld: ""It's about keeping families together, while at the same time ensuring we have a very powerful, strong border""
 
-Donald Trump…",2018-06-20,0.8304,0.0,0.672,0.328
-37,BBC North America,Former WWE wrester star Vader dies at 63 https://t.co/OocAqNIwMs,2018-06-20,0.0,0.0,1.0,0.0
-38,BBC North America,Canadians able to buy recreational cannabis in October https://t.co/tXY04RYXVr,2018-06-20,0.0,0.0,1.0,0.0
-39,BBC North America,Bullying: New Jersey school sued over girl's suicide https://t.co/G3tJNJcPZr,2018-06-20,-0.8555,0.545,0.455,0.0
-40,BBC North America,"RT @BBCNewsGraphics: As Canada legalises recreational use, which countries consume the most cannabis? https://t.co/gI1n4p8UhZ https://t.co/…",2018-06-20,0.0,0.0,1.0,0.0
-41,BBC North America,RT @Tara_Mckelvey: The president’s full of surprises. He made an announcement about family separations - and postponed the congressional pi…,2018-06-20,0.0258,0.087,0.821,0.092
-42,BBC North America,Migrant children: Who said what about US border crisis https://t.co/2LpuXnyNiu,2018-06-20,-0.6249,0.313,0.687,0.0
-43,BBC North America,Trump speaks of plan to halt migrant separations https://t.co/KZMucFJ0nN,2018-06-20,0.0,0.0,1.0,0.0
-44,BBC North America,"RT @Tara_Mckelvey: I’m here at the White House, and the president’s made an announcement about the problem of family separations at the bor…",2018-06-20,-0.4019,0.109,0.891,0.0
-45,BBC North America,Why did the US leave the UN Human Rights Council? https://t.co/XEQV2ipl2E,2018-06-20,-0.0516,0.107,0.893,0.0
-46,BBC North America,"RT @Tara_Mckelvey: When I asked a WH spokesman whether Nielsen’s choice of Mexican for a work dinner was tone deaf, he said that was “silly…",2018-06-20,0.0,0.0,1.0,0.0
-47,BBC North America,Migrant children: Global outcry rises over US border separations https://t.co/S1dJvHXfAA,2018-06-20,-0.5106,0.268,0.732,0.0
-48,BBC North America,Homeland Secretary Kirstjen Nielsen booed at Mexican restaurant https://t.co/jryXryq7yl,2018-06-20,0.0,0.0,1.0,0.0
-49,BBC North America,"RT @BBCNews: US family separations are wrong, says Theresa May https://t.co/ntP3oBORWB",2018-06-20,-0.4767,0.237,0.763,0.0
-50,BBC North America,Migrant family separations: Republicans scramble as border crisis grows https://t.co/37atdmipgN,2018-06-19,-0.6249,0.313,0.687,0.0
-51,BBC North America,Canada legalises recreational marijuana https://t.co/WNxnaRBQzF,2018-06-19,0.0,0.0,1.0,0.0
-52,BBC North America,RT @BBCBreaking: 'A cesspool of political bias' - US announces withdrawal from UN Human Rights Council https://t.co/COdiLwtzY7,2018-06-19,-0.0772,0.085,0.848,0.067
-53,BBC North America,Vault 7: CIA engineer Joshua Schulte charged with data leak https://t.co/EPzkaamNyN,2018-06-19,-0.4939,0.318,0.682,0.0
-54,BBC North America,"RT @sam_granville: @SalenaZito on #Beyond100Days w/ @KattyKayBBC &amp; @ChristianFraser 
-""The important thing to remember about this coalition,…",2018-06-19,0.2023,0.0,0.899,0.101
-55,BBC North America,US 'to quit UN human rights council' https://t.co/JJP14KJpm6,2018-06-19,0.0,0.0,1.0,0.0
-56,BBC North America,"RT @Lussenpop: ""[It's as] if children were being fed poison and we asked, 'What's the best treatment for the poison they're getting?' The l…",2018-06-19,-0.4215,0.217,0.652,0.13
-57,BBC North America,RT @BBCDanahar: I’m not going to give him publicity by naming him but this chap on Facebook in Nicaragua does NOT work for BBC News in any…,2018-06-19,0.0,0.0,1.0,0.0
-58,BBC North America,"RT @BBCBlindGazza: Keeping out prying eyes: construction workers at the country's largest immigration processing centre in McAllen, Texas h…",2018-06-19,0.0,0.0,1.0,0.0
-59,BBC North America,West Point graduate who wore Che Guevara T-shirt discharged https://t.co/zKAvVkXiWK,2018-06-19,0.0,0.0,1.0,0.0
-60,BBC North America,What is Donald Trump's family-separation endgame? https://t.co/FepwFU45ej,2018-06-19,0.0,0.0,1.0,0.0
-61,BBC North America,The health impacts of separating migrant children from parents https://t.co/1hGyAJOAKL,2018-06-19,0.0,0.0,1.0,0.0
-62,BBC North America,Mechanic 'posed as general with helicopter to impress date' https://t.co/HMzJGuSxlS,2018-06-19,0.4404,0.0,0.756,0.244
-63,BBC North America,"RT @Tara_Mckelvey: Here’s our rundown of the administration’s erratic immigration policy, the topsy-turvy White House messaging centre, and…",2018-06-19,0.0,0.0,1.0,0.0
-64,BBC North America,RT @BBCWorld: Pogba and more: World Cup haircuts to watch https://t.co/l5pMKdVCqH,2018-06-19,0.0,0.0,1.0,0.0
-65,BBC North America,"RT @BBCWorld: Don't call me 'Manu' - French President reprimands teen
+Donald Trump…",2018-06-20,2018-06-20 17:07:48-04:00,0.8304,0.0,0.672,0.328
+98,BBC North America,Former WWE wrester star Vader dies at 63 https://t.co/OocAqNIwMs,2018-06-20,2018-06-20 16:11:40-04:00,0.0,0.0,1.0,0.0
+99,BBC North America,Canadians able to buy recreational cannabis in October https://t.co/tXY04RYXVr,2018-06-20,2018-06-20 16:09:03-04:00,0.0,0.0,1.0,0.0
+100,CBS News,"Only on @CBSThisMorning, CBS News' Chip Reid spoke to Brennan McCarthy, the attorney who represented the woman Jarr… https://t.co/iipuyDcSDg",2018-06-29,2018-06-29 08:11:41-04:00,0.0,0.0,1.0,0.0
+101,CBS News,"As the last of the Toys ""R"" Us stores ready for final closure this week, workers are saying they shouldn't be left… https://t.co/zKE9uGV4L9",2018-06-29,2018-06-29 08:00:46-04:00,0.3612,0.0,0.898,0.102
+102,CBS News,"""This is a travesty that these parents have been separated from their children and vice-versa, and there does not a… https://t.co/bkXyLPNFJZ",2018-06-29,2018-06-29 07:49:01-04:00,-0.5719,0.163,0.837,0.0
+103,CBS News,“I saw that the kids would start automatically crying because they didn’t have the opportunity to speak to their pa… https://t.co/cgbSCkI9AD,2018-06-29,2018-06-29 07:44:54-04:00,-0.0772,0.124,0.763,0.112
+104,CBS News,"Activists want to fly this giant ""Trump Baby"" balloon over London to protest President Trump's UK visit:… https://t.co/PSTE50lsv6",2018-06-29,2018-06-29 07:43:52-04:00,-0.1779,0.104,0.829,0.067
+105,CBS News,"On Wednesday, @CBSThisMorning showed videos from inside the Cayuga Centers in New York. Pamela Baez is the former e… https://t.co/m1WbQbaXUm",2018-06-29,2018-06-29 07:39:19-04:00,0.0,0.0,1.0,0.0
+106,CBS News,President Trump hosted a bipartisan group of six senators at the White House on Thursday to discuss the Supreme Cou… https://t.co/DZSMCTu1qp,2018-06-29,2018-06-29 07:34:46-04:00,0.5574,0.0,0.841,0.159
+107,CBS News,Anne Arundel County police chief Timothy Altomare on the weapon used in the Capital Gazette shooting: “It is a shot… https://t.co/btYUnHwIpk,2018-06-29,2018-06-29 07:33:26-04:00,-0.296,0.104,0.896,0.0
+108,CBS News,Police chief Timothy Altomare says there was one documented incident with the Capital Gazette shooting suspect: “Th… https://t.co/xjKNAB6fwA,2018-06-29,2018-06-29 07:30:29-04:00,-0.296,0.115,0.885,0.0
+109,CBS News,"“We are not getting too far on cooperation … [He’s] not saying much,” Anne Arundel County police chief Timothy Alto… https://t.co/o97YUGNikk",2018-06-29,2018-06-29 07:26:17-04:00,0.0,0.0,1.0,0.0
+110,CBS News,Anne Arundel County police chief Timothy Altomare joins @CBSThisMorning. He says police have searched at the suspec… https://t.co/kpUesGVwJ2,2018-06-29,2018-06-29 07:25:01-04:00,0.0,0.0,1.0,0.0
+111,CBS News,RT @CBSThisMorning: Law enforcement sources tell @CBSNews the shooter was hiding under a desk and had damaged his fingertips to make it har…,2018-06-29,2018-06-29 07:21:43-04:00,-0.6249,0.203,0.797,0.0
+112,CBS News,Brennan McCarthy is the attorney who represented the woman Jarrod Ramos harassed. He said Ramos tormented his clien… https://t.co/pLDe6zB2Qq,2018-06-29,2018-06-29 07:20:41-04:00,-0.5423,0.163,0.837,0.0
+113,CBS News,"Sen. Jeff Merkley suggests Supreme Court nominee could ""lock in an anti-American majority"" https://t.co/LjsYAlivek https://t.co/91m7vAkJk7",2018-06-29,2018-06-29 07:19:38-04:00,0.5574,0.0,0.795,0.205
+114,CBS News,"The suspect in The Capital newspaper shooting, Jarrod Ramos​, had tried suing the paper for defamation. It publishe… https://t.co/v6T6iUzeor",2018-06-29,2018-06-29 07:18:04-04:00,-0.5106,0.202,0.798,0.0
+115,CBS News,"Hours after Thursday’s massacre in Annapolis, police confirmed the identities of the employees who died: Gerald Fis… https://t.co/XnPrdBXEED",2018-06-29,2018-06-29 07:13:55-04:00,-0.5574,0.175,0.825,0.0
+116,CBS News,"The suspect in the Capital Gazette shooting will be in court Friday, @NorahODonnell reports. The police chief tells… https://t.co/NoKSZyzmxq",2018-06-29,2018-06-29 07:11:00-04:00,-0.296,0.109,0.891,0.0
+117,CBS News,"Just hours after a gunman rampaged through their newsroom, the dedicated staff at the the Capital Gazette published… https://t.co/fb7Z9EC6hD",2018-06-29,2018-06-29 07:08:20-04:00,0.4588,0.0,0.85,0.15
+118,CBS News,"""Today, we are speechless"": The Capital Gazette's opinion page is left blank after Thursday's deadly shooting… https://t.co/nyUqTXv4XJ",2018-06-29,2018-06-29 07:00:12-04:00,0.0,0.0,1.0,0.0
+119,CBS News,Ahead only on @CBSThisMorning: A former worker recorded scenes inside a facility for immigrant children. She'll tal… https://t.co/X6wcGNuapw,2018-06-29,2018-06-29 06:49:32-04:00,0.0,0.0,1.0,0.0
+120,CBS News,Ahead on @CBSThisMorning: We'talk with two New York Times journalists about how life has changed for the accusers w… https://t.co/OPvVbVVMAO,2018-06-29,2018-06-29 06:44:38-04:00,0.0,0.0,1.0,0.0
+121,CBS News,"SpaceX boosts station cargo -- and a ""floating brain"" -- to orbit https://t.co/mtWIW50nIJ https://t.co/8T6CynMJvB",2018-06-29,2018-06-29 06:39:43-04:00,0.3182,0.0,0.839,0.161
+122,CBS News,"RT @CBSThisMorning: AHEAD on @CBSThisMorning:  @NorahODonnell leads our coverage from Annapolis, Maryland of the Capital Gazette shooting.…",2018-06-29,2018-06-29 06:36:21-04:00,0.0,0.0,1.0,0.0
+123,CBS News,"RT @CBSThisMorning: THIS MORNING:
+🔜@NorahODonnell is in Annapolis with the latest on the #CapitalGazette shooting
+🔜@MichaelAvenatti and for…",2018-06-29,2018-06-29 06:33:24-04:00,0.0,0.0,1.0,0.0
+124,CBS News,European Union leaders say they've reached a breakthrough deal on how to deal with the pressures of migration… https://t.co/Opc9lS40ar,2018-06-29,2018-06-29 06:20:05-04:00,-0.2263,0.117,0.812,0.071
+125,CBS News,Alaska volcano shows signs of eruption https://t.co/796AbG6cFj https://t.co/N0FWOHbHQb,2018-06-29,2018-06-29 06:03:03-04:00,0.0,0.0,1.0,0.0
+126,CBS News,Feds charge 600 in opioid fraud that bilked $2B from government and insurers https://t.co/Va0ugDBh5I https://t.co/7ofgSpdcK3,2018-06-29,2018-06-29 05:48:04-04:00,-0.5859,0.213,0.787,0.0
+127,CBS News,Melania Trump makes second solo trip to border https://t.co/t5Br9nZMI0 https://t.co/7CWpdZTt3e,2018-06-29,2018-06-29 05:33:03-04:00,0.0,0.0,1.0,0.0
+128,CBS News,"Jamberry, the nail wrap seller, shuts down, leaves thousands of sales reps in a jam https://t.co/SjrAnizN7e https://t.co/aFFQG4IzZR",2018-06-29,2018-06-29 05:18:04-04:00,0.0,0.0,1.0,0.0
+129,CBS News,"Walgreens' Dow entrance is a bust, thanks to Amazon https://t.co/CqoYud1Uih https://t.co/q3NkcyEqJ6",2018-06-29,2018-06-29 05:03:03-04:00,0.5574,0.0,0.635,0.365
+130,CBS News,"After father's mysterious slaying at campsite, stories emerge of past shooting incidents https://t.co/iZxJxiD5Ni https://t.co/68MxKUMQy3",2018-06-29,2018-06-29 04:48:03-04:00,0.0,0.0,1.0,0.0
+131,CBS News,German police investigate 21 deaths linked to poisoned sandwich case https://t.co/qAqzFqn5CL https://t.co/RB7i1m8AA9,2018-06-29,2018-06-29 04:33:04-04:00,-0.4939,0.225,0.775,0.0
+132,CBS News,Portland ICE facility protesters moved by Homeland Security agents https://t.co/JrS6Pmdy9o https://t.co/7Z2xKZEV7s,2018-06-29,2018-06-29 04:18:04-04:00,0.128,0.143,0.677,0.18
+133,CBS News,U.S. Steel expansions touted by President Trump not happening https://t.co/IXW0RiHtsE https://t.co/VM3rezRwTF,2018-06-29,2018-06-29 04:03:04-04:00,-0.0516,0.107,0.893,0.0
+134,CBS News,New details on death on father shot at a California campground https://t.co/xJVKHILPHT https://t.co/DQ15ZBrZPU,2018-06-29,2018-06-29 03:48:03-04:00,-0.5994,0.262,0.738,0.0
+135,CBS News,A look back at Joe Jackson's complicated relationship with his children https://t.co/8aQRTqj7FS https://t.co/ulwSuVn1Mz,2018-06-29,2018-06-29 03:33:03-04:00,0.0,0.0,1.0,0.0
+136,CBS News,"""That's a child"": Video shows dramatic rescue of missing 2-year-old in the woods https://t.co/slw6IbYDy9 https://t.co/mg2Y05Sn2v",2018-06-29,2018-06-29 03:18:03-04:00,0.2732,0.126,0.686,0.189
+137,CBS News,Utah doomsday cult leader gets at least 15 years for sodomizing child https://t.co/JUza29QiNZ https://t.co/a1JzQJWyzy,2018-06-29,2018-06-29 03:03:04-04:00,-0.5859,0.226,0.774,0.0
+138,CBS News,"Woman dubbed ""Pool Patrol Paula"" charged with assaulting black teen at swimming pool https://t.co/Px4xUM2wAj https://t.co/Macu3liW6a",2018-06-29,2018-06-29 02:48:03-04:00,-0.6249,0.282,0.718,0.0
+139,CBS News,Cause of death determined for woman found dismembered in Brooklyn park https://t.co/5jKSGp8csJ https://t.co/Ft4ZqieHy7,2018-06-29,2018-06-29 02:33:04-04:00,-0.3612,0.225,0.636,0.139
+140,CBS News,"""Breaking Bad"" cast reunites for 10th anniversary https://t.co/9Hq3NuPSrY https://t.co/tKsIaHEqvS",2018-06-29,2018-06-29 02:18:04-04:00,-0.5423,0.304,0.696,0.0
+141,CBS News,"Photo of Geoffrey the Giraffe leaving an empty Toys ""R"" Us store goes viral https://t.co/4ZlxkucMvG https://t.co/ss4MY6QKEf",2018-06-29,2018-06-29 02:03:04-04:00,-0.2023,0.107,0.893,0.0
+142,CBS News,Wynonna Judd's daughter Grace Pauline Kelley sentenced to 8 years in prison https://t.co/lkSedTgURc https://t.co/a3ubwmwCJk,2018-06-29,2018-06-29 01:48:05-04:00,-0.1531,0.256,0.581,0.163
+143,CBS News,"Woman dubbed ""Pool Patrol Paula"" charged with assaulting black teen at swimming pool https://t.co/cw9KyXs8NI https://t.co/Ss8kMe454S",2018-06-29,2018-06-29 01:33:03-04:00,-0.6249,0.282,0.718,0.0
+144,CBS News,Man shot in head drives 20 miles in wrong direction for help https://t.co/esmGe3dCSo https://t.co/gIzdX59iFH,2018-06-29,2018-06-29 01:18:03-04:00,-0.1027,0.174,0.674,0.152
+145,CBS News,"Trump calls Foxconn ""8th wonder of the world"" despite its cost https://t.co/gPTSdm91mx https://t.co/TKXhe157ty",2018-06-29,2018-06-29 01:03:04-04:00,0.0,0.0,1.0,0.0
+146,CBS News,"Jamberry, the nail wrap seller, shuts down, leaves thousands of sales reps in a jam https://t.co/mEtgwsfsYd https://t.co/Fyf79vDNN5",2018-06-29,2018-06-29 00:48:03-04:00,0.0,0.0,1.0,0.0
+147,CBS News,Man shot in head drives 20 miles in wrong direction for help https://t.co/MEeRxWN4XD https://t.co/rDT28ZfOfz,2018-06-29,2018-06-29 00:33:03-04:00,-0.1027,0.174,0.674,0.152
+148,CBS News,"""That's a child"": Video shows dramatic rescue of missing 2-year-old in the woods https://t.co/GfVKABjR1u https://t.co/amkAV2EEwP",2018-06-29,2018-06-29 00:18:03-04:00,0.2732,0.126,0.686,0.189
+149,CBS News,Portland ICE facility protesters moved by Homeland Security agents https://t.co/CNiJBW8lGr https://t.co/cJuIM19WyG,2018-06-29,2018-06-29 00:03:03-04:00,0.128,0.143,0.677,0.18
+150,CBS News,"""Smelly"" airline passenger who caused emergency landing dies of tissue necrosis, reports say https://t.co/3cx58S12RO https://t.co/xhHNsjHGms",2018-06-28,2018-06-28 23:48:04-04:00,-0.3818,0.157,0.843,0.0
+151,CBS News,New details on death on father shot at a California campground https://t.co/sNgkjAI5rq https://t.co/x8AHB7NUnj,2018-06-28,2018-06-28 23:33:03-04:00,-0.5994,0.262,0.738,0.0
+152,CBS News,Heat wave to hit northeastern U.S. ahead of the July 4th holiday https://t.co/F3YuMB0Lu5 https://t.co/M9yOnjmSdP,2018-06-28,2018-06-28 23:18:03-04:00,0.4019,0.0,0.828,0.172
+153,CBS News,"""Controlled burn"" in Florida accidentally torches dozens of homes across 800 acres https://t.co/WFb3ncvH3e https://t.co/Cwov8m4CxP",2018-06-28,2018-06-28 23:05:23-04:00,-0.34,0.156,0.844,0.0
+154,CBS News,UPDATE: The names of the Maryland newspaper shooting victims have been released. Police say they were all employees… https://t.co/Cscq0lLPft,2018-06-28,2018-06-28 22:35:02-04:00,-0.3182,0.113,0.887,0.0
+155,CBS News,HAPPENING NOW: Police release the names of the 5 victims of the Maryland Newspaper shooting during press conference… https://t.co/DXfL9bbPe3,2018-06-28,2018-06-28 22:15:31-04:00,-0.3182,0.119,0.881,0.0
+156,CBS News,Who are the top 5 people being considered to replace Justice Anthony Kennedy? These are the possible front-runners:… https://t.co/aSH4fd1Txs,2018-06-28,2018-06-28 21:39:56-04:00,0.6369,0.0,0.755,0.245
+157,CBS News,Good Samaritan jumps into action to help a 67-year-old woman stranded in her wheelchair after it broke down on a Ge… https://t.co/oTAz7VeYHB,2018-06-28,2018-06-28 21:19:30-04:00,0.4215,0.11,0.669,0.22
+158,CBS News,Suspect in the deadly shooting at a Maryland newspaper building has been identified as a 38-year-old man… https://t.co/kRgP3Sdz9D,2018-06-28,2018-06-28 21:05:05-04:00,-0.296,0.128,0.872,0.0
+159,CBS News,"Real-life Lassie: A heroic husky saved a deaf hiker in the Alaskan backcountry last week and went viral. Then, his… https://t.co/oQFQTMQZKk",2018-06-28,2018-06-28 20:59:38-04:00,0.7506,0.0,0.726,0.274
+160,CBS News,"In his first television interview, ICE whistleblower James Schwab opened up about why he abruptly resigned as ICE's… https://t.co/xJ3EWOe7HW",2018-06-28,2018-06-28 20:40:01-04:00,-0.25,0.1,0.9,0.0
+161,CBS News,NEW: Suspect in #CapitalGazette shooting identified as a 38-year-old Maryland resident https://t.co/Cc5uAoLqGW https://t.co/qVwKhWBZok,2018-06-28,2018-06-28 20:36:23-04:00,-0.296,0.167,0.833,0.0
+162,CBS News,"Maryland shooting witness says door to newspaper offices was ""blown to pieces"" by gunman https://t.co/hNACmLLbp6 https://t.co/ruvT4kdRdb",2018-06-28,2018-06-28 20:19:57-04:00,0.0,0.0,1.0,0.0
+163,CBS News,"Law enforcement to reporters: ""We are here and we are invested and we will get this investigation right""… https://t.co/OD8wD4EzQ7",2018-06-28,2018-06-28 20:18:10-04:00,0.0,0.0,1.0,0.0
+164,CBS News,Maryland newspaper shooting: Police say the suspect lives in Maryland and that law enforcement is securing his resi… https://t.co/EMlHkXD3jc,2018-06-28,2018-06-28 20:11:40-04:00,0.0258,0.102,0.791,0.107
+165,CBS News,"HAPPENING NOW: Police provide updates on Maryland newspaper shooting, calling it a ""targeted attack.""… https://t.co/qEzjBJwJEL",2018-06-28,2018-06-28 20:07:20-04:00,0.0,0.0,1.0,0.0
+166,CBS News,WATCH: CBS News interview with ICE whistleblower interrupted by surprise visit from government agents… https://t.co/1edxrGX5ev,2018-06-28,2018-06-28 20:00:20-04:00,-0.0258,0.127,0.751,0.121
+167,CBS News,Rapper XXXTentacion attends his own funeral in music video released after his death https://t.co/hSQWE6dN8J https://t.co/WHUNcpWHMQ,2018-06-28,2018-06-28 19:39:35-04:00,-0.7506,0.33,0.67,0.0
+168,CBS News,"NYPD, Chicago police deploy to media outlets out of caution after Maryland #CapitalGazette shooting… https://t.co/iFoOnGxklb",2018-06-28,2018-06-28 19:19:54-04:00,0.0,0.0,1.0,0.0
+169,CBS News,"After finding 67-year-old Belinda Whitaker stranded in her broken down wheelchair on his way to the gym, Bilal Quin… https://t.co/U8C09kWJfk",2018-06-28,2018-06-28 19:04:34-04:00,-0.4767,0.14,0.86,0.0
+170,CBS News,Maryland shooting suspect damaged his finger tips to thwart identification. Police are now turning to facial recogn… https://t.co/4DyztNFGaF,2018-06-28,2018-06-28 18:59:41-04:00,-0.6249,0.242,0.758,0.0
+171,CBS News,"It was supposed to be a ""controlled burn,"" a fire deliberately set to prevent future wildfires. It ended up burning… https://t.co/e9fUE8JlkF",2018-06-28,2018-06-28 18:54:43-04:00,-0.3182,0.117,0.829,0.054
+172,CBS News,"""They know it's a lie. It was just shocking to me that no one wanted to fix that."" ICE whistleblower opens up to… https://t.co/QmHcBzICIK",2018-06-28,2018-06-28 18:52:01-04:00,-0.5994,0.189,0.811,0.0
+173,CBS News,"For the next week, much of the country is expected to be smothered under what forecasters are calling a ""heat dome""… https://t.co/lf2mcOlI6g",2018-06-28,2018-06-28 18:45:37-04:00,-0.2263,0.087,0.913,0.0
+174,CBS News,There's a looming battle over the Supreme Court seat that's about to open up when Justice Anthony Kennedy retires a… https://t.co/h2TuA7fIfQ,2018-06-28,2018-06-28 18:43:05-04:00,0.5994,0.151,0.59,0.258
+175,CBS News,"""CBS News sources say the suspect has been uncooperative... Not only did he not have an I.D. on him, but sources sa… https://t.co/Zd6ZjKmexU",2018-06-28,2018-06-28 18:40:14-04:00,-0.1531,0.068,0.932,0.0
+176,CBS News,"Five people are dead, multiple people wounded in shooting at #CapitalGazette. 
 
-https://t.co/aRdGe4plUh https://t.co/pqf5wxJcKY",2018-06-19,0.0,0.0,1.0,0.0
-66,BBC North America,Mixed messages on US migrant separation policy https://t.co/36owyIFjqI,2018-06-19,0.0,0.0,1.0,0.0
-67,BBC North America,Sessions: Child migrant camps 'not like Nazi concentration camps' https://t.co/UKzRX7AWnc,2018-06-19,-0.2755,0.19,0.81,0.0
-68,BBC North America,Convicted US felon arrested with more than 500 guns in California home https://t.co/kvYBscWsnz,2018-06-19,-0.4767,0.205,0.795,0.0
-69,BBC North America,Tennant to star in learning disability comedy https://t.co/aLH9r4IuCj,2018-06-19,0.3612,0.0,0.737,0.263
-70,BBC North America,"RT @BBCWorld: This is the sound of crying migrant children after being separated from their parents in the US
+Chip Reid has more from Annapolis,… https://t.co/nPFhSHGAl0",2018-06-28,2018-06-28 18:36:36-04:00,-0.6486,0.202,0.798,0.0
+177,CBS News,"Capitol Police charge nearly 600 people, including one congresswoman, of unlawfully demonstrating during a protest… https://t.co/hB9nHvGpZl",2018-06-28,2018-06-28 18:26:06-04:00,0.0,0.0,1.0,0.0
+178,CBS News,"""Clearly we need universal background checks and need to get rid of the military style assault weapons and private… https://t.co/mg5WeGZh1u",2018-06-28,2018-06-28 18:23:49-04:00,-0.6124,0.254,0.644,0.102
+179,CBS News,"""So Annapolis is a small, very tightly knit community. People know each other here. People know the reporters that… https://t.co/Z4vTOzCxyx",2018-06-28,2018-06-28 18:12:45-04:00,0.0,0.0,1.0,0.0
+180,CBS News,"""As a precaution, police in New York and Chicago have also been deployed to media organizations while the nature of… https://t.co/7oBSMfDQn3",2018-06-28,2018-06-28 18:07:18-04:00,0.0,0.0,1.0,0.0
+181,CBS News,CBS News has learned alleged gunman damaged his fingertips so law enforcement cannot identify him.… https://t.co/8dYRHu9JBW,2018-06-28,2018-06-28 17:52:15-04:00,-0.4404,0.162,0.838,0.0
+182,CBS News,"Latest on #CapitalGazette shooting:
+-5 confirmed dead
+-3 believed to be injured
+-Approximately 170 people were evac… https://t.co/Xx19laueQj",2018-06-28,2018-06-28 17:50:44-04:00,-0.7906,0.304,0.696,0.0
+183,CBS News,"@CBSNews ""So the building as we speak is now tactically secured... It is secure as far as there are no more persons… https://t.co/ocrjyOPZyr",2018-06-28,2018-06-28 17:45:49-04:00,0.0516,0.086,0.82,0.094
+184,CBS News,"@CBSNews ""It could have been a lot worse,"" Anne Arundel County Executive Steve Schuh credits rapid emergency respon… https://t.co/WEn9EOFQkz",2018-06-28,2018-06-28 17:42:01-04:00,-0.0258,0.123,0.758,0.118
+185,CBS News,"Capital Gazette reporter tweets about deadly Maryland shooting: ""There is nothing more terrifying than hearing mult… https://t.co/poLzyxSAdA",2018-06-28,2018-06-28 17:39:40-04:00,0.4964,0.0,0.833,0.167
+186,CBS News,WATCH NOW: Officials give update on investigation into deadly #CapitalGazette shooting. https://t.co/eWjaC4dGlq https://t.co/X5s0gefbdr,2018-06-28,2018-06-28 17:39:34-04:00,0.0,0.0,1.0,0.0
+187,CBS News,"""My thoughts and prayers are with the victims and their families"": President Trump tweets response to shooting at M… https://t.co/6drDSwHGr9",2018-06-28,2018-06-28 17:35:49-04:00,-0.3182,0.108,0.892,0.0
+188,CBS News,"""Just last week on Thursday they completed an active assailant exercise at a local school campus for this exact typ… https://t.co/GDHVaP43pi",2018-06-28,2018-06-28 17:35:11-04:00,0.4019,0.0,0.876,0.124
+189,CBS News,"""Devastated &amp; heartbroken. Numb...Just know that our reporters give all that they have every day,"" @adrianasdiaz re… https://t.co/uGXHDn08Af",2018-06-28,2018-06-28 17:30:46-04:00,-0.8519,0.342,0.658,0.0
+190,CBS News,"As the shooting began unfolding today at the Capital Gazette in Annapolis, some of the most chilling details came i… https://t.co/oYxLoVH3DB",2018-06-28,2018-06-28 17:16:35-04:00,-0.101,0.065,0.935,0.0
+191,CBS News,"MARYLAND NEWSPAPER SHOOTING: 5 dead, many others wounded after gunman opened fire on employees… https://t.co/sdGDt6NKza",2018-06-28,2018-06-28 17:07:16-04:00,-0.7717,0.358,0.642,0.0
+192,CBS News,"""My thoughts and prayers are with the victims and their families."" President Trump tweets on #CapitalGazette shooti… https://t.co/LfBms5KjxQ",2018-06-28,2018-06-28 17:00:02-04:00,-0.3182,0.119,0.881,0.0
+193,CBS News,"William Krampf, acting chief of police for Anne Arundel County, says five people dead in #CapitalGazette shooting a… https://t.co/RjUneDDr4s",2018-06-28,2018-06-28 16:53:46-04:00,-0.6486,0.193,0.807,0.0
+194,CBS News,"@CBSNews ""The shooter is in custody. I want to commend the public safety professionals who were very quick to the s… https://t.co/JlaLCsHhAG",2018-06-28,2018-06-28 16:44:09-04:00,0.7184,0.0,0.72,0.28
+195,CBS News,"@CBSNews ""There are several people who have died from this incident, and several others are injured. Those who are… https://t.co/hDR5DYUvDK",2018-06-28,2018-06-28 16:42:39-04:00,-0.743,0.259,0.741,0.0
+196,CBS News,"WATCH NOW: Authorities in Annapolis, Maryland, give briefing on shooting at #CapitalGazette. https://t.co/eWjaC4dGlq https://t.co/AliBbgtxBz",2018-06-28,2018-06-28 16:38:45-04:00,0.0,0.0,1.0,0.0
+197,CBS News,"""We have just learned from CBS News law enforcement sources that the suspect is refusing to identify himself,""… https://t.co/JfPycufXYL",2018-06-28,2018-06-28 16:35:30-04:00,-0.5994,0.224,0.776,0.0
+198,CBS News,"Q: What does the use of a shotgun indicate to you?
 
-https://t.co/plGeuIJJgD http…",2018-06-19,-0.4767,0.134,0.866,0.0
-71,BBC North America,Reality Check: Who decided to take away children at the US border? https://t.co/6sRGi0b2Ay,2018-06-19,0.0,0.0,1.0,0.0
-72,BBC North America,Reality Check: Who decided to take away children at the US border? https://t.co/zb56XEggKw,2018-06-19,0.0,0.0,1.0,0.0
-73,BBC North America,Texas cop 'abused migrant girl and threatened to deport mum' https://t.co/DOGxRMzF11,2018-06-19,-0.743,0.412,0.588,0.0
-74,BBC North America,Beyonce and Jay-Z's joint album was finished hours before it was released https://t.co/3ttFKXydlh,2018-06-19,0.0,0.0,1.0,0.0
-75,BBC North America,Tesla chief Elon Musk accuses worker of sabotage https://t.co/QCHy9uKAhq,2018-06-19,-0.7003,0.453,0.547,0.0
-76,BBC North America,Will Ferrell to star in a film based on Eurovision https://t.co/xvLbmLbOoP,2018-06-19,0.0,0.0,1.0,0.0
-77,BBC North America,US migrant family separation: Crying children audio released https://t.co/HTh1iIjqrv,2018-06-19,-0.4767,0.279,0.721,0.0
-78,BBC North America,Immigration rows: US and Germany compared https://t.co/Ab25ZEka4t,2018-06-19,0.0,0.0,1.0,0.0
-79,BBC North America,XXXTentacion: Rapper's volatile life made compelling music https://t.co/QRvTyOCHrO,2018-06-19,0.2263,0.0,0.787,0.213
-80,BBC North America,The sound of migrant children separated from parents https://t.co/SOsg7KxM8P,2018-06-18,0.0,0.0,1.0,0.0
-81,BBC North America,XXXTentacion: Controversial rapper shot dead in Florida https://t.co/T1BD2xz1ef,2018-06-18,-0.7269,0.504,0.496,0.0
-82,BBC North America,"RT @Tara_Mckelvey: While homeland security’s Kirstjen Nielsen defended the separation of children from their parents at the border, someone…",2018-06-18,0.0,0.0,1.0,0.0
-83,BBC North America,Former US footballer Landon Donovan has come under fire for supporting Mexico in the #WorldCup. Americans -- who ar… https://t.co/VOaHFD1tEF,2018-06-18,0.128,0.103,0.773,0.124
-84,BBC North America,World Cup: Landon Donovan defends support for Mexico https://t.co/c9FCbQRkrE,2018-06-18,0.4019,0.0,0.748,0.252
-85,BBC North America,Turkey issues warrant for NBA player Enes Kanter's father https://t.co/R8o7FW2eyA,2018-06-18,0.0,0.0,1.0,0.0
-86,BBC North America,Trump space force: US to set up sixth military branch https://t.co/AafOMHDUVg,2018-06-18,0.0,0.0,1.0,0.0
-87,BBC North America,"RT @BBCWorld: Five things to know about US child migrant separations
+CBS News security analyst Paul Violis: ""Violent disdain. A shot… https://t.co/vH5rcZsqzj",2018-06-28,2018-06-28 16:30:57-04:00,-0.6808,0.265,0.644,0.091
+199,CBS News,CBS News has learned gunman used a shotgun in #CapitalGazette shooting. https://t.co/eWjaC4dGlq https://t.co/E1pcTWRx1w,2018-06-28,2018-06-28 16:27:15-04:00,0.0,0.0,1.0,0.0
+200,CNN,"IUDs are more than 99% effective in preventing pregnancy, and some can work up to 12 years, but a 2016 survey found… https://t.co/T039p7yuad",2018-06-29,2018-06-29 08:04:43-04:00,0.2805,0.045,0.861,0.094
+201,CNN,"Within minutes, it ""was like a war zone."" The Capital Gazette shooting marked the deadliest day for journalism in A… https://t.co/leNyh8Aqx3",2018-06-29,2018-06-29 07:53:14-04:00,-0.34,0.16,0.738,0.102
+202,CNN,"The suspect in the shooting at the Capital Gazette newspaper in Annapolis, Maryland, is being charged with five cou… https://t.co/Rae2amml3L",2018-06-29,2018-06-29 07:42:24-04:00,-0.4588,0.182,0.818,0.0
+203,CNN,Thousands of kids still haven't been reunited with their parents. Protesters ask: Where are the children?… https://t.co/umFY4lB6E6,2018-06-29,2018-06-29 07:31:46-04:00,-0.2263,0.106,0.894,0.0
+204,CNN,"Two writers from the Capital Gazette said ""thoughts and prayers"" aren't enough after a gunman attacked their newsro… https://t.co/k4VORRLcBZ",2018-06-29,2018-06-29 07:21:32-04:00,-0.4588,0.15,0.85,0.0
+205,CNN,"""Just be a kid, OK?"": Inside children's immigration hearings https://t.co/hWbycOkH4u https://t.co/lypG1alu4g",2018-06-29,2018-06-29 07:11:20-04:00,0.0,0.0,1.0,0.0
+206,CNN,"An oil tanker exploded during rush hour traffic in Lagos, Nigeria, killing at least nine people and injuring at lea… https://t.co/X0F1NTxB7G",2018-06-29,2018-06-29 07:00:01-04:00,-0.6597,0.18,0.82,0.0
+207,CNN,"Capital Gazette shooting | What we know
 
-https://t.co/MPudb4AXJx https://t.co/hynyrL1cT4",2018-06-18,0.0,0.0,1.0,0.0
-88,BBC North America,"RT @hugobachega: President Trump has claimed that ""mothers and fathers"" of soldiers who went missing in the Korean war (1950-53) called him…",2018-06-18,-0.7269,0.234,0.766,0.0
-89,BBC North America,Facebook cuts out gun-accessory ads for children https://t.co/YFeMtuJicJ,2018-06-18,-0.296,0.239,0.761,0.0
-90,BBC North America,Five things to know about US child migrant separations https://t.co/Mzhif0BRHo,2018-06-18,0.0,0.0,1.0,0.0
-91,BBC North America,Amanda Lindhout's kidnapper gets 15-year sentence https://t.co/qo9kB6CRhX,2018-06-18,0.0772,0.0,0.822,0.178
-92,BBC North America,US homeland security: No apology for immigrant separations https://t.co/mKAHCYHJtf,2018-06-18,0.1027,0.186,0.508,0.305
-93,BBC North America,Trump wades into German migration row https://t.co/Trt6OuFlRq,2018-06-18,0.0,0.0,1.0,0.0
-94,BBC North America,Texas cop 'abused migrant girl and threatened to deport mum' https://t.co/dDsRQ2IDIN,2018-06-18,-0.743,0.412,0.588,0.0
-95,BBC North America,Walmart shopper shoots dead carjacking gunman https://t.co/2Fxwo4nW8A,2018-06-18,-0.6486,0.417,0.583,0.0
-96,BBC North America,Trump-Kim summit: Korea war veteran's question for US president https://t.co/8ZUdfu5q00,2018-06-18,-0.5994,0.302,0.698,0.0
-97,BBC North America,Trump separation policy: Children 'in cages' in Texas https://t.co/wFSJZl6UWR,2018-06-18,0.0,0.0,1.0,0.0
-98,BBC North America,US immigration: Five die after high-speed chase by border agents https://t.co/XRF5Yr8vUT,2018-06-18,-0.5994,0.281,0.719,0.0
-99,BBC North America,Beyonce and Jay-Z release a joint album: Everything is Love https://t.co/VOm60Cfxxj,2018-06-18,0.6369,0.0,0.682,0.318
-100,CBS News,"""Everybody has a right to assert an asylum request"": Rep. Elijah Cummings discusses the criminalization of Central… https://t.co/Jf9DsGYeY4",2018-06-24,0.0,0.0,1.0,0.0
-101,CBS News,"Ominous UFO-like cloud spotted in the sky near Memphis. It has been identified as a ""roll cloud"" -- but what causes… https://t.co/mWrdhRAjO0",2018-06-24,-0.1779,0.078,0.922,0.0
-102,CBS News,"""It was that close to passing, so let's focus on that"": Rep. Jim Jordan said that a failure to ""whip"" Republican la… https://t.co/Wg5VKKS5OI",2018-06-24,-0.5106,0.136,0.864,0.0
-103,CBS News,"""We want to make sure that these families are reunited after the president created this false crisis"": Rep. Elijah… https://t.co/FBNgAAQc8v",2018-06-24,0.5574,0.0,0.752,0.248
-104,CBS News,"""Set the children free"": Dozens of protesters blocked a bus full of migrant children, temporarily preventing it fro… https://t.co/VRljuRY4FD",2018-06-24,-0.4767,0.254,0.746,0.0
-105,CBS News,"""It's up to us in congress to work with them to come up with a longer-term solution"": Sen. Bob Corker discusses imm… https://t.co/A1OjgJwrLU",2018-06-24,0.0,0.0,1.0,0.0
-106,CBS News,"WATCH: This California teen stepped up to help a man who was not only blind, but also deaf, and alone on a flight.… https://t.co/wTcLDP8vsl",2018-06-24,-0.0054,0.1,0.761,0.139
-107,CBS News,A California teen's random act of kindness for a blind and deaf man on an airplane has gone viral… https://t.co/5QcwqWykBC,2018-06-24,0.0772,0.124,0.737,0.138
-108,CBS News,"CBS News Battleground Tracker: Family separation reveals deep divisions over not just immigration as an issue, but… https://t.co/v5sFKvakN0",2018-06-24,-0.4019,0.137,0.863,0.0
-109,CBS News,"CBS News Battleground Tracker: With upcoming senate races, here's where Arizona, Florida, and Texas sit on the hot… https://t.co/qH8bhkSczy",2018-06-24,-0.4019,0.13,0.87,0.0
-110,CBS News,"2018 World Cup: Follow here for Sunday's schedule, scores and updates on today's matches https://t.co/3KT2O33Lor https://t.co/SrAD3Knc4B",2018-06-24,0.0,0.0,1.0,0.0
-111,CBS News,"Feds detail plan on reuniting over 2,000 separated children in custody https://t.co/NsmeybBCTn https://t.co/bOE9Gvx8k2",2018-06-24,0.0,0.0,1.0,0.0
-112,CBS News,"Jared Kushner says Mideast peace plan happening soon, with or without Palestinian President Mahmoud Abbas… https://t.co/M80CKagXVy",2018-06-24,0.5423,0.0,0.811,0.189
-113,CBS News,"25 injured in building explosion in Germany, police say https://t.co/5r7e11Oshh https://t.co/dciKKjXxgI",2018-06-24,-0.4019,0.213,0.787,0.0
-114,CBS News,"Rat slips inside ATM, eats a load of money https://t.co/32B1lowKYV https://t.co/frCZbzuP4k",2018-06-24,0.0,0.0,1.0,0.0
-115,CBS News,Live Nation apologizes after Shakira’s merchandise features Nazi imagery https://t.co/vD7e2VQx0o https://t.co/Kjfo9k31IQ,2018-06-24,0.3612,0.0,0.8,0.2
-116,CBS News,7 home colors that can help -- or hurt -- your sale price https://t.co/EfW8d8UITM https://t.co/83E63g506D,2018-06-24,-0.1779,0.188,0.663,0.149
-117,CBS News,"Trump critic Tom Arnold tweets photo with Michael Cohen, says they are on ""same side"" https://t.co/42WkZvgd6J https://t.co/BJ8CzKGYK2",2018-06-24,-0.2732,0.116,0.884,0.0
-118,CBS News,"Agency created to fight organized crime on New York, New Jersey docks may be pushed out https://t.co/RwATMVxY03 https://t.co/jH46IOcjCj",2018-06-24,-0.6249,0.264,0.649,0.087
-119,CBS News,Laser pointer burns hole in young boy’s eye https://t.co/D7BOJcymY7 https://t.co/OPrnFbHBJR,2018-06-24,0.0,0.0,1.0,0.0
-120,CBS News,"California couple accused of starving, shackling their kids to face trial https://t.co/490QN6TKg4 https://t.co/5UgYhua7x4",2018-06-24,-0.6124,0.312,0.688,0.0
-121,CBS News,Watch the emotional reunion of a mother and 7-year-old son who were separated at U.S. border https://t.co/CKL2cDzRlI https://t.co/StCuAvY7Wg,2018-06-24,0.1531,0.0,0.909,0.091
-122,CBS News,"This ""Hot Dog Water"" sells for $37.99 a bottle https://t.co/LCRAB8Q54L https://t.co/5aFv5yf5XI",2018-06-24,0.0,0.0,1.0,0.0
-123,CBS News,"Johnny Depp: ""I was as low as I believe I could have gotten"" after money and marital problems… https://t.co/7ZFfTwshtc",2018-06-24,-0.2732,0.116,0.884,0.0
-124,CBS News,"ABC brings back ""Roseanne,"" minus Roseanne Barr, in new spinoff this fall https://t.co/x3uRUhJLga https://t.co/EslarzyfJb",2018-06-24,0.0,0.0,1.0,0.0
-125,CBS News,Paul McCartney brings James Corden to tears on “Carpool Karaoke” https://t.co/VwETSxbw6X https://t.co/koAGY3PQ04,2018-06-24,-0.2263,0.147,0.853,0.0
-126,CBS News,"Police: Man kills ex-wife's lawyer, self hours after divorce is final https://t.co/r4yFKaZXCW https://t.co/xiL6sOdHvO",2018-06-24,-0.5423,0.226,0.774,0.0
-127,CBS News,Disturbing news costs U.S. companies $43.6 million every minute https://t.co/azS5aeb8rp https://t.co/WI9aqsN7vU,2018-06-24,-0.5106,0.248,0.752,0.0
-128,CBS News,"""Shoot them all at the border"": DMV employee investigated for Facebook comment on immigrants https://t.co/cC2FKbF9Fr https://t.co/pFJgXy6tqj",2018-06-24,-0.34,0.138,0.862,0.0
-129,CBS News,Sarah Sanders says she was asked to leave restaurant because she works for Trump https://t.co/3WgNLZvU09 https://t.co/Tog7SUP8Xc,2018-06-24,-0.0516,0.074,0.926,0.0
-130,CBS News,Michelle Obama reveals her life's biggest lessons in new memoir https://t.co/sqHc10tfhJ https://t.co/6mHsN0KRyl,2018-06-24,0.0,0.0,1.0,0.0
-131,CBS News,"Nationwide protests, facility visits held amid immigration confusion https://t.co/004hPXmNCt https://t.co/e5p06ZGdt8",2018-06-24,-0.4767,0.339,0.661,0.0
-132,CBS News,"Bodycam video shows Kansas officer firing on dog, injuring little girl https://t.co/iw0EIFED9G https://t.co/JYylkVFVMq",2018-06-24,-0.34,0.167,0.833,0.0
-133,CBS News,A red state goes green: How Texas became a pioneer in wind energy https://t.co/hpFwd9rsPM https://t.co/DhMZrqMkzK,2018-06-24,0.2732,0.0,0.851,0.149
-134,CBS News,"""He has a gun"": Mom's 911 call released in standoff that left 4 kids dead https://t.co/70RJy6Mo3p https://t.co/qqCkPJPFkM",2018-06-24,-0.6486,0.235,0.765,0.0
-135,CBS News,"At World Cup, Nigeria's stylish soccer jersey wins fans -- and fakes https://t.co/ncWPnFbcpg https://t.co/4ajcPMyDCz",2018-06-24,0.2263,0.151,0.649,0.2
-136,CBS News,Michigan State University's governing board rejects effort to oust school's interim president… https://t.co/z74L4hs2vU,2018-06-24,-0.4939,0.211,0.789,0.0
-137,CBS News,"Artist reimagines Melania Trump's ""I really don't care"" jacket for Statue of Liberty https://t.co/Na6T8SZrkz https://t.co/FGxoWCgEpl",2018-06-24,0.1264,0.151,0.673,0.176
-138,CBS News,Chipotle's comeback bid: avocado tostadas and chocolate shakes https://t.co/Imtvis4Tvo https://t.co/qDj7O7Y8q8,2018-06-24,0.0,0.0,1.0,0.0
-139,CBS News,Monsanto faces its first trial over allegations Roundup ingredient caused cancer https://t.co/pmfl8bvjP4 https://t.co/llZAZhDt9R,2018-06-24,-0.6597,0.268,0.732,0.0
-140,CBS News,"Judd Apatow slams first lady Melania Trump, Fox News and CNN https://t.co/vDJTZ4aRC7 https://t.co/gwiTUvNqvH",2018-06-24,0.0,0.0,1.0,0.0
-141,CBS News,Minnesota GOP chairwoman says she's faced racism from her own party https://t.co/HW9Ney903I https://t.co/yBXPQqsuR5,2018-06-24,-0.34,0.23,0.618,0.152
-142,CBS News,Jogger says she was detained for 2 weeks after accidentally crossing U.S. border from Canada https://t.co/ZNZJptwj5t https://t.co/hMReobd5Ab,2018-06-24,-0.6249,0.267,0.733,0.0
-143,CBS News,"""Fixer Upper"" stars Chip and Joanna Gaines welcome baby number 5 https://t.co/l3rjSlBqU4 https://t.co/ugKLwuEiEJ",2018-06-24,0.5106,0.0,0.699,0.301
-144,CBS News,EU slaps $3.4 billion in reprisal tariffs on U.S. goods https://t.co/ny1h9kZpMj https://t.co/PCkdj82dxz,2018-06-24,0.0,0.0,1.0,0.0
-145,CBS News,"Ava DuVernay becomes first black female director to cross $100M mark with ""A Wrinkle in Time""… https://t.co/oNdPAsl07S",2018-06-24,0.0,0.0,1.0,0.0
-146,CBS News,"""This isn't a suitable place to live"": Many in Puerto Rico under tarps as storm threat looms https://t.co/qm0s2dw0gn https://t.co/yOUeJOICz9",2018-06-24,-0.6124,0.238,0.762,0.0
-147,CBS News,"Lawmaker says judge in UW-Madison sex crime case ""let a serial rapist off the hook"" https://t.co/sHd6TaQQNT https://t.co/5XfAVwRRM5",2018-06-24,-0.8555,0.375,0.625,0.0
-148,CBS News,Activist artists alter billboard near San Francisco to deliver anti-ICE message https://t.co/L2SW0tjMMC https://t.co/OT6nPLmpnq,2018-06-24,0.0,0.0,1.0,0.0
-149,CBS News,U.S. moves 100 coffins to inter-Korean border to prepare return of remains https://t.co/YHHmuntKIA https://t.co/E5tg1JGxaI,2018-06-24,0.0,0.0,1.0,0.0
-150,CBS News,"""The Museum of Lost Art"": Examining the vulnerability of the world's treasures https://t.co/FE5csih46Q https://t.co/ichVnWBYrS",2018-06-24,-0.1027,0.233,0.611,0.156
-151,CBS News,"Man charged in NYC bike path killings invokes ""Allah"" and defends ISIS in court https://t.co/Iumk81qkfO https://t.co/Ms2dTPSSf0",2018-06-23,-0.743,0.31,0.69,0.0
-152,CBS News,Brothers sentenced in $1.4 million grocery store welfare fraud scheme https://t.co/haABucksxh https://t.co/td0kwC2KVo,2018-06-23,-0.5994,0.329,0.671,0.0
-153,CBS News,Mixed-race family asks Blue Bell Ice Cream to change flavor name to be more inclusive https://t.co/uy9Bqxwbuu https://t.co/8pcICHKXMY,2018-06-23,0.0,0.0,1.0,0.0
-154,CBS News,"Dawes frontman Taylor Goldsmith talks new album, romance with Mandy Moore https://t.co/66sA92pqSn https://t.co/xvyOMpu5hh",2018-06-23,0.5574,0.0,0.769,0.231
-155,CBS News,"Netflix communications chief out after ""insensitive"" remark https://t.co/nWd0TeIqH4 https://t.co/LJh7LuHr0j",2018-06-23,0.0,0.0,1.0,0.0
-156,CBS News,Chevy Blazer is coming back -- and it'll be made in Mexico https://t.co/xWbY9bYBcb https://t.co/sRP1l3VVYC,2018-06-23,0.0,0.0,1.0,0.0
-157,CBS News,Illinois teen faces felony charge for recording conversation with school principals https://t.co/wbEgKGUFB5 https://t.co/m0F8YZpYFh,2018-06-23,-0.5423,0.226,0.774,0.0
-158,CBS News,"Crying girl in iconic image was never separated from mother, ICE says https://t.co/Spy8ZjJ0ey https://t.co/KtNDIHSC8B",2018-06-23,-0.4767,0.193,0.807,0.0
-159,CBS News,New details emerging in deadly police shooting of Antwon Rose https://t.co/Kwp7vrE41u https://t.co/o9yrNIUAMx,2018-06-23,0.0,0.0,1.0,0.0
-160,CBS News,Darden-owned restaurant calls police on black sorority in bill dispute https://t.co/RtqbXzM4Gm https://t.co/SwfCiI8FX3,2018-06-23,-0.4019,0.197,0.803,0.0
-161,CBS News,"""Auntie Debra"" doles out a heaping helping of hospitality even after lunch hour ends https://t.co/J6ErwQjbdN https://t.co/NFKPMGNaVL",2018-06-23,0.296,0.0,0.864,0.136
-162,CBS News,Pennsylvania teen survives being sucked into storm drain https://t.co/V0N41AHo6m https://t.co/PilF1LcBcR,2018-06-23,-0.4588,0.25,0.75,0.0
-163,CBS News,"""We'll make s--t up"": Cop fired for unwarranted traffic stop of daughter's boyfriend https://t.co/qXf7Wt7xYY https://t.co/Q4UBSAoq7c",2018-06-23,-0.7003,0.309,0.691,0.0
-164,CBS News,"Carrying a cellphone creates a ""historical log"" of movements, privacy expert says https://t.co/sT1Iv4tZ2C https://t.co/YQm9MUiUqf",2018-06-23,0.2732,0.0,0.84,0.16
-165,CBS News,DOJ hands Congress classified documents on Russia probe https://t.co/RlhdGCaXqr https://t.co/fRKDVNQtuj,2018-06-23,0.0,0.0,1.0,0.0
-166,CBS News,Inside the humble New Orleans sandwich shop hailed as America's best new restaurant https://t.co/hP02815Nrl https://t.co/UCUYvggyk9,2018-06-23,0.7269,0.0,0.681,0.319
-167,CBS News,Disabled veteran hit with $12K bill for life insurance plan he never signed up for https://t.co/3yz0hVTyWg https://t.co/IM3OrD5V1E,2018-06-23,0.0,0.0,1.0,0.0
-168,CBS News,Paul Manafort's attorneys ask judge to bar any mentions of his ties to President Trump https://t.co/vYi55Vu4HN https://t.co/AarICvmy0I,2018-06-23,0.0,0.0,1.0,0.0
-169,CBS News,"Katie Arrington, lawmaker who defeated Rep. Mark Sanford, seriously injured in deadly car collision… https://t.co/NU8aYXee1G",2018-06-23,-0.7579,0.385,0.615,0.0
-170,CBS News,"Missing Florida soldier found dead after intense search, police say https://t.co/qSXyjk7Vz6 https://t.co/i4jJad1w8N",2018-06-23,-0.7351,0.387,0.536,0.077
-171,CBS News,Drug smugglers in Argentina were busted moving cocaine and marijuana in replica World Cup trophies. https://t.co/OggPYj4N6e,2018-06-23,-0.34,0.138,0.862,0.0
-172,CBS News,"Dawes frontman Taylor Goldsmith talks new album, romance with Mandy Moore https://t.co/Vi0shmOkG1 https://t.co/PKjzbfCqnx",2018-06-23,0.5574,0.0,0.769,0.231
-173,CBS News,You can also download the podcast on Robert and Barney Swan’s incredible journey across Antarctica in the Global Go… https://t.co/3uQHH6CasM,2018-06-23,0.0,0.0,1.0,0.0
-174,CBS News,"Meet the environmental warriors, testing out cutting edge renewable energy technologies in the harshest environment… https://t.co/9AFF08HdCb",2018-06-23,-0.5106,0.263,0.634,0.102
-175,CBS News,The Justice Department says it has given House Republicans new classified information related to the Russia investi… https://t.co/CvkQiCYwid,2018-06-23,0.5267,0.0,0.833,0.167
-176,CBS News,"6th ex-NFL cheerleader joins lawsuit against Houston Texans, accusing the team of forcing her to wear duct-tape on… https://t.co/7BSTfqEkp4",2018-06-23,-0.1779,0.167,0.744,0.088
-177,CBS News,"""Obamacare is on its last legs"": President Trump discusses his predecessor's healthcare bill while addressing Nevad… https://t.co/FUeN6ONKWc",2018-06-23,0.0,0.0,1.0,0.0
-178,CBS News,"""Fixer Upper"" stars Chip and Joanna Gaines welcome baby number 5 https://t.co/VfYzjQgFI2 https://t.co/WlEy0yfu0h",2018-06-23,0.5106,0.0,0.699,0.301
-179,CBS News,"""If they see any weakness, they will come by the millions."" President Trump discusses immigration policy and border… https://t.co/c0UCxXnLwS",2018-06-23,-0.4215,0.135,0.865,0.0
-180,CBS News,"""You ever notice how everyone calls it the Democratic Part? It is called the Democrat party. Really is."" President… https://t.co/zeQfpcR38j",2018-06-23,0.4019,0.0,0.876,0.124
-181,CBS News,Scientists at the University of Tokyo are developing robots with living tissue known as biohybrids. A far cry from… https://t.co/nolqWIQ1hA,2018-06-23,-0.4767,0.147,0.853,0.0
-182,CBS News,"""They wanted me to apologize—no . I did though. I did apologize to Pocahontas."" President Trump addresses a crowd o… https://t.co/UCP0i0pIpe",2018-06-23,0.1027,0.0,0.92,0.08
-183,CBS News,"President Trump credits Nevada Senator Dean Heller's assistance in his tax bill, refers to the representative's com… https://t.co/k4rjqtkotD",2018-06-23,0.3612,0.0,0.872,0.128
-184,CBS News,"""Remember I used to say at the rallies what do you have to lose? I meant it."" President Trump discusses his African… https://t.co/iCNVhjiaVD",2018-06-23,-0.4019,0.119,0.881,0.0
-185,CBS News,"While addressing Nevada Republicans, President Trump calls for merit based immigration, specifying the need for mig… https://t.co/jkQpCkJK33",2018-06-23,0.4215,0.0,0.851,0.149
-186,CBS News,"""The fact is we need more Republicans, because the Democrats are obstructionists. They won't vote."" President Trump… https://t.co/zo3bY0xIMj",2018-06-23,0.0,0.0,1.0,0.0
-187,CBS News,"""Leave it for Trump."" The president discusses the America he inherited before a crowd of Nevada Republicans… https://t.co/HhiO1NKvY5",2018-06-23,-0.0516,0.07,0.93,0.0
-188,CBS News,"""A lot of things are happening. The trade stuff is coming along."" President Trump discusses international trade bef… https://t.co/asUlbG5cMp",2018-06-23,0.0,0.0,1.0,0.0
-189,CBS News,"""275 percent tariff. We cannot have that. Basically that is a barrier. They say we don't want your product."" Presid… https://t.co/7JCpRjEzCQ",2018-06-23,-0.1833,0.131,0.869,0.0
-190,CBS News,"""They make a big percentage of our cars. It is not fair."" President Trump talks about trade negotiations, including… https://t.co/TNXCuhqT8v",2018-06-23,0.0,0.0,1.0,0.0
-191,CBS News,"""We haven't had a rocket or tests in seven or eight months. Used to be every week we would have another nuclear tes… https://t.co/wz3D97XAmV",2018-06-23,0.0,0.0,1.0,0.0
-192,CBS News,President Trump discusses relations with North Korea while addressing Nevada Republicans https://t.co/KwJSVhLbbg https://t.co/345u8t0uCl,2018-06-23,0.0,0.0,1.0,0.0
-193,CBS News,"""I do not believe any president or administration has come even close to doing what we have done in the first 500 d… https://t.co/EHf4iIufQT",2018-06-23,0.0,0.0,1.0,0.0
-194,CBS News,A teenager says she was detained for 2 weeks after accidentally crossing the U.S. border from Canada while out for… https://t.co/QXKBRiXNhw,2018-06-23,-0.6249,0.231,0.769,0.0
-195,CBS News,You can also download the podcast on Robert and Barney Swan’s incredible journey across Antarctica in the Global Go… https://t.co/dYiauJGYMb,2018-06-23,0.0,0.0,1.0,0.0
-196,CBS News,"32 years ago, he risked his life trekking to the South Pole. And he just did it again -- with his son.… https://t.co/t8at37dGKV",2018-06-23,-0.2263,0.079,0.921,0.0
-197,CBS News,Minnesota GOP Chairwoman Jennifer Carnahan says she has been the target of racist and sexist attacks from fellow Re… https://t.co/02PwWQNZn0,2018-06-23,-0.7845,0.277,0.723,0.0
-198,CBS News,"As the U.K. marked the second anniversary of its Brexit vote, thousands took to the streets in London to demand a v… https://t.co/zIq15SSd2N",2018-06-23,-0.128,0.067,0.933,0.0
-199,CBS News,"""I've learned that you can have it all, but not all at the same time"": Michelle Obama reveals her life's biggest le… https://t.co/nUgxy2gRpG",2018-06-23,0.0,0.0,1.0,0.0
-200,CNN,"At least five people were injured when an explosion, followed by a fire, tore through an apartment building in Germ… https://t.co/h8jALtiBr0",2018-06-24,-0.6249,0.221,0.779,0.0
-201,CNN,Late Japan equalizer from Keisuke Honda stalls Senegal's surge toward the last-16 of the World Cup to ensure Group… https://t.co/d7U98CLtMv,2018-06-24,0.3818,0.0,0.88,0.12
-202,CNN,This teenager volunteered her skills in sign language to help a blind and deaf man on a cross-country flight https://t.co/lGQN2xAqYD,2018-06-24,0.0,0.126,0.748,0.126
-203,CNN,"""We have been encouraging illegal immigration,"" says Wisconsin GOP Sen. Ron Johnson https://t.co/aykSJGyRQd https://t.co/M0I1EIe7LG",2018-06-24,-0.0516,0.189,0.632,0.179
-204,CNN,Two San Diego Police officers were shot after they breached an apartment that smelled of smoke on Saturday night… https://t.co/o6cB4N2UTd,2018-06-24,0.0,0.0,1.0,0.0
-205,CNN,Preliminary results in Turkey's snap elections show President Recep Tayyip Erdogan in the lead over his nearest riv… https://t.co/SmXwbmzBCv,2018-06-24,0.0,0.0,1.0,0.0
-206,CNN,"Almost 350 migrants are stranded on two boats in the Mediterranean, including a Danish cargo ship, as a standoff be… https://t.co/LVV7sxmR6L",2018-06-24,0.0,0.0,1.0,0.0
-207,CNN,The Trump administration is releasing its plan for putting back together the thousands of families it separated at… https://t.co/rYcluUlagk,2018-06-24,0.0,0.0,1.0,0.0
-208,CNN,At least two people were killed and more than 100 injured in an explosion Saturday at a rally attended by Ethiopian… https://t.co/HHd8ABYtIz,2018-06-24,-0.8158,0.282,0.718,0.0
-209,CNN,Prince William arrived in Jordan on the first stop of a five-day Middle East tour that will also take him to Israel… https://t.co/dJf3LsSkeP,2018-06-24,-0.296,0.095,0.905,0.0
-210,CNN,"The U.S. Navy announced Saturday the death of Lt. Christopher Carey Short, a pilot who died in a plane crash during… https://t.co/NerrjVcbH3",2018-06-24,-0.8807,0.375,0.625,0.0
-211,CNN,"At least five people were injured when an explosion, followed by a fire, tore through an apartment building in Germ… https://t.co/pLCcY2Tfbp",2018-06-24,-0.6249,0.221,0.779,0.0
-212,CNN,Jurassic World sequel crosses $700 million at the global box office https://t.co/IlBYCnKzHy https://t.co/BzWEZ1agSv,2018-06-24,0.0,0.0,1.0,0.0
-213,CNN,England qualified for the last 16 of the World Cup with a thumping 6-1 victory over Panama Sunday in a sweltering N… https://t.co/1JGu5AXkWH,2018-06-24,0.0,0.0,1.0,0.0
-214,CNN,Mo Salah is considering quitting the Egyptian national team due to unhappiness over his #WorldCup Chechnya controve… https://t.co/M0kxmAJXl0,2018-06-24,-0.5267,0.167,0.833,0.0
-215,CNN,Are Canadians really as nice as most Americans think they are? @WKamauell talks to proud Canadian @therealrussellp… https://t.co/U0yeOqBxgK,2018-06-24,0.7334,0.0,0.721,0.279
-216,CNN,England record biggest ever #WorldCup win after putting six goals past Panama https://t.co/pRTqvMtIcm,2018-06-24,0.5859,0.0,0.759,0.241
-217,CNN,"""Thirty years after my brother's death, I still ask why"": @AndersonCooper remembers his brother, Carter, who died b… https://t.co/h93UYhWxo1",2018-06-24,-0.8176,0.319,0.681,0.0
-218,CNN,Democratic Rep. Barbara Lee of California describes her visit to detention facilities on the US-Mexico border and s… https://t.co/nmsKObhh3K,2018-06-24,-0.3612,0.122,0.878,0.0
-219,CNN,"Sen. Bernie Sanders: President Trump needs to ""make it clear that the United States of America is not a nation whic… https://t.co/DZH2lkQ1p6",2018-06-24,0.6597,0.0,0.779,0.221
-220,CNN,"Democratic Sen. Jeff Merkley is ""exploring the possibility"" of throwing his hat in the ring in the 2020 presidentia… https://t.co/cUN7NCn4gg",2018-06-24,0.0,0.0,1.0,0.0
-221,CNN,Sen. Ron Johnson says the most recent information he has from the Department of Homeland Security is that “about 21… https://t.co/8FvQPMeViz,2018-06-24,0.34,0.0,0.893,0.107
-222,CNN,"American Outdoor Brands, the gun maker that owns the iconic Smith &amp; Wesson line of firearms, reported plunging sale… https://t.co/x3lGJgBThv",2018-06-24,-0.34,0.112,0.888,0.0
-223,CNN,This teenager volunteered her skills in sign language to help a blind and deaf man on a cross-country flight https://t.co/HDoL65TKwO,2018-06-24,0.0,0.126,0.748,0.126
-224,CNN,"Former Trump campaign manager Corey Lewandowski has been dropped by his speakers bureau after saying ""womp womp"" re… https://t.co/608JmBtvS9",2018-06-24,0.0,0.0,1.0,0.0
-225,CNN,"New Zealand Prime Minister Jacinda Ardern and her partner Clarke Gayford have revealed the name of their baby girl,… https://t.co/SrBM771oZg",2018-06-24,0.0,0.0,1.0,0.0
-226,CNN,"A Chicago teen, shot in the head, was covered with a sheet by paramedics. He died nearly a day later.… https://t.co/ZRyOiHPkQX",2018-06-24,-0.5574,0.175,0.825,0.0
-227,CNN,Recreational marijuana use will soon be legal in Canada https://t.co/UNVKKJZDuP https://t.co/eTODylDScV,2018-06-24,0.128,0.0,0.87,0.13
-228,CNN,"In the constellation of Sagittarius, three infant planets have been found orbiting a young star 330 light-years fro… https://t.co/01FNZXyuQz",2018-06-24,0.0,0.0,1.0,0.0
-229,CNN,"""We've been waiting for this moment for such a long time, and now finally it's here!"" Saudi women tell @CNN how the… https://t.co/R485BiQFn9",2018-06-24,0.0,0.0,1.0,0.0
-230,CNN,New Zealand Prime Minister Jacinda Ardern became the first world leader in nearly 30 years to have a child while in… https://t.co/3TRRXivoWo,2018-06-24,0.0,0.0,1.0,0.0
-231,CNN,Every single person in charge of law and order in this Georgia town is a black woman https://t.co/kUpZ4JAiXW https://t.co/3PuuRJjkRV,2018-06-24,0.0,0.0,1.0,0.0
-232,CNN,A 9-year-old boy in Greece permanently injured his left eye when he repeatedly gazed into a laser pointer's green b… https://t.co/utAi8QBck9,2018-06-24,-0.4019,0.13,0.87,0.0
-233,CNN,"This major exhibition by renowned glass artist Dale Chihuly marks the first time George Vanderbilt's descendants, w… https://t.co/9Bz4dBcHA5",2018-06-24,0.0,0.0,1.0,0.0
-234,CNN,"Koko, the gorilla who mastered sign language, died in her sleep at age 46, The Gorilla Foundation says. She was sai… https://t.co/044ZrSk44E",2018-06-24,-0.5574,0.146,0.854,0.0
-235,CNN,"""I feel like I'm surprised -- am I really driving in my own country? I feel happy, relieved. I feel like I'm free.""… https://t.co/zjyEr71gKg",2018-06-24,0.9042,0.0,0.548,0.452
-236,CNN,This school in Virginia is switching its name from that of a Confederate general to Barack Obama Elementary School… https://t.co/dL3WAn0N1l,2018-06-24,0.0,0.0,1.0,0.0
-237,CNN,Italian scholars claim they have unearthed the first known piece by Renaissance genius Leonardo Da Vinci… https://t.co/NvoOCFewz8,2018-06-24,0.0,0.0,1.0,0.0
-238,CNN,"First, it was a small bump under her left eye. Five days later, it appeared above the eye. Her upper lip was bulgin… https://t.co/Cbxh6zI03z",2018-06-24,0.0,0.0,1.0,0.0
-239,CNN,"After three years of restoration at Yosemite National Park, some of the world's biggest trees are ready to view aga… https://t.co/vbXfWJgqHH",2018-06-24,0.3612,0.0,0.889,0.111
-240,CNN,What to know about Sunday's BET Awards https://t.co/bgqHsqkyvI https://t.co/W0GuvMBOrW,2018-06-24,0.4588,0.0,0.727,0.273
-241,CNN,"At the stroke of midnight on Sunday, Saudi women were legally allowed to drive for the first time - and they've was… https://t.co/atuQGWYI4R",2018-06-24,0.1027,0.0,0.938,0.062
-242,CNN,"Otzi, a 5,300-year-old glacier mummy found in the Italian Alps, is older than the Giza pyramids and Stonehenge. The… https://t.co/1xh6kxtsa2",2018-06-24,0.0,0.0,1.0,0.0
-243,CNN,Polls have opened across Turkey in a snap vote as President Recep Tayyip Erdogan faces his biggest electoral threat… https://t.co/F9iOxUwkMi,2018-06-24,0.0,0.0,1.0,0.0
-244,CNN,"""Quit trying to make us feel teary-eyed for the children. Yes, I love children a great deal, but to me, it's up to… https://t.co/fcd7L5d2GK",2018-06-24,0.7184,0.0,0.731,0.269
-245,CNN,"A West Virginia couple says a hospital mixed up two newborn babies, after the mother showed off one baby to relativ… https://t.co/2sGbVvE0TM",2018-06-24,0.0,0.0,1.0,0.0
-246,CNN,There's nearly a Nixon 1974 level of public support for impeaching President Trump | Analysis by @zbyronwolf … https://t.co/Jx47eHmlvZ,2018-06-24,0.4019,0.0,0.847,0.153
-247,CNN,"Saudi Arabia has lifted its longstanding ban on women driving, after years of campaigning by activists who have som… https://t.co/kB6LjW67qi",2018-06-24,-0.5574,0.159,0.841,0.0
-248,CNN,"President Trump claims crime in Germany ""is way up."" 
+• 5 people killed in a shooting at Capital Gazette newsroom in Annapolis,… https://t.co/wT8cTPCX5m",2018-06-29,2018-06-29 06:49:06-04:00,-0.6705,0.22,0.78,0.0
+208,CNN,A harrowing parasailing accident left a woman drifting in the wind for 45 minutes https://t.co/gcwxlvMmRE https://t.co/vJtOgi4BMh,2018-06-29,2018-06-29 06:40:42-04:00,-0.4767,0.193,0.807,0.0
+209,CNN,India has been named the most dangerous country in the world to be female. But these women and girls are learning h… https://t.co/rPWEmYBFmC,2018-06-29,2018-06-29 06:30:04-04:00,-0.5256,0.134,0.866,0.0
+210,CNN,Rescuers looking for 12 boys and their soccer coach in Thailand have discovered a hidden opening deep in the jungle… https://t.co/hWQkswfrDy,2018-06-29,2018-06-29 06:23:34-04:00,0.0,0.0,1.0,0.0
+211,CNN,The UK is facing a crumpet crisis https://t.co/qci4XpuTXZ,2018-06-29,2018-06-29 06:07:01-04:00,-0.6249,0.406,0.594,0.0
+212,CNN,"After the shooting in Annapolis, Maryland, staffers at the Capital Gazette are still putting out a newspaper… https://t.co/GNzM94Rfkh",2018-06-29,2018-06-29 05:50:28-04:00,0.0,0.0,1.0,0.0
+213,CNN,"Two writers from the Capital Gazette said ""thoughts and prayers"" aren't enough after a gunman attacked their newsro… https://t.co/FQxk7jRkyA",2018-06-29,2018-06-29 05:44:02-04:00,-0.4588,0.15,0.85,0.0
+214,CNN,Rescuers looking for 12 boys and their soccer coach in Thailand have discovered a hidden opening deep in the jungle… https://t.co/2NlnSxtjqe,2018-06-29,2018-06-29 05:33:02-04:00,0.0,0.0,1.0,0.0
+215,CNN,"Jahi McMath, an Oakland teenager whose brain-death following a routine tonsil surgery in 2013 created national head… https://t.co/turEuV0NWM",2018-06-29,2018-06-29 05:22:51-04:00,0.25,0.0,0.889,0.111
+216,CNN,British defense company BAE Systems secures a $26 billion deal to build new warships for Australia… https://t.co/vAWaEYzIwV,2018-06-29,2018-06-29 05:22:06-04:00,0.3182,0.082,0.71,0.208
+217,CNN,A change in wind direction has allowed Bali's international airport to reopen after it closed temporarily on Friday… https://t.co/hDnxCdUgfb,2018-06-29,2018-06-29 05:06:46-04:00,0.0,0.0,1.0,0.0
+218,CNN,"Within minutes, it ""was like a war zone."" The Capital Gazette shooting marked the deadliest day for journalism in A… https://t.co/SS9CZoQari",2018-06-29,2018-06-29 04:55:04-04:00,-0.34,0.16,0.738,0.102
+219,CNN,"""I stumbled upon yoga to save my life, basically, and I knew that I found something special."" Contemplating suicide… https://t.co/sTZ665CVTm",2018-06-29,2018-06-29 04:48:06-04:00,0.4939,0.0,0.842,0.158
+220,CNN,Ballet dancers showcase Hong Kong in gravity-defying images https://t.co/rFBEzuZaXY via @CNNTravel https://t.co/sNCnJuoV9O,2018-06-29,2018-06-29 04:46:06-04:00,0.0,0.0,1.0,0.0
+221,CNN,"South Korea jails more conscientious objectors than any other country, but that may be about to change https://t.co/A1nWgD7m9w",2018-06-29,2018-06-29 04:42:06-04:00,0.0,0.0,1.0,0.0
+222,CNN,"The suspect in the shooting at the Capital Gazette newspaper in Annapolis, Maryland, is being charged with five cou… https://t.co/VH8JuXyMqU",2018-06-29,2018-06-29 04:30:03-04:00,-0.4588,0.182,0.818,0.0
+223,CNN,"The suspect in the shooting at the Capital Gazette newspaper in Annapolis, Maryland, has been charged with five cou… https://t.co/nxfbOlNYjZ",2018-06-29,2018-06-29 04:18:20-04:00,-0.4588,0.182,0.818,0.0
+224,CNN,Court documents show the man suspected of killing five people at a Maryland newspaper had filed a defamation suit a… https://t.co/hyQNFI4EZk,2018-06-29,2018-06-29 03:40:10-04:00,-0.743,0.27,0.73,0.0
+225,CNN,These are the victims of the Capital Gazette newsroom shooting https://t.co/ygYsJQ5zfx https://t.co/LbcaQBkolS,2018-06-29,2018-06-29 03:29:49-04:00,-0.3182,0.173,0.827,0.0
+226,CNN,"Forget the football, Vladimir Putin is the real World Cup winner | Analysis by Nathan Hodge https://t.co/PIqujcRopT https://t.co/YyLW0GjQo6",2018-06-29,2018-06-29 03:21:05-04:00,0.4404,0.092,0.725,0.184
+227,CNN,State Department has requested that US Marines be sent to Taiwan to help safeguard America's de facto embassy there… https://t.co/Sg1LSrhlkR,2018-06-29,2018-06-29 03:11:53-04:00,0.6486,0.0,0.773,0.227
+228,CNN,Bali has closed its international airport after Mount Agung volcano began spewing volcanic ash and vapor higher tha… https://t.co/DAawssEsEN,2018-06-29,2018-06-29 02:59:06-04:00,0.0,0.0,1.0,0.0
+229,CNN,Australia wins landmark victory at the World Trade Organization -- the country's stringent laws requiring plain pac… https://t.co/6uECXCXciK,2018-06-29,2018-06-29 02:51:03-04:00,0.6124,0.0,0.762,0.238
+230,CNN,"Tiny house living may not be for everyone, but tiny house resorts have popped up all over the country, offering eve… https://t.co/zXphbZpxcC",2018-06-29,2018-06-29 02:31:00-04:00,0.0,0.0,1.0,0.0
+231,CNN,EU leaders have averted the collapse of a key summit with a deal struck on migration in the early hours of Friday m… https://t.co/sKVRgk4Ebb,2018-06-29,2018-06-29 02:23:05-04:00,-0.6705,0.255,0.745,0.0
+232,CNN,Meet Miquela: The CGI Instagram star making brands real money — even though she's not a real human… https://t.co/3xugZa7hbo,2018-06-29,2018-06-29 02:11:09-04:00,0.0,0.0,1.0,0.0
+233,CNN,Amazon has launched a new program that allows you to start your own small business delivering Prime packages — the… https://t.co/gEGg4OEsuM,2018-06-29,2018-06-29 02:01:00-04:00,0.296,0.0,0.842,0.158
+234,CNN,"In a retail industry beset by problems, H&amp;M has a stockpile of unsold clothes worth $4 billion… https://t.co/q7AuPCcgqr",2018-06-29,2018-06-29 01:56:16-04:00,-0.2023,0.145,0.753,0.102
+235,CNN,Sen. @CoryBooker: 'Push pause' on Supreme Court nominee until after Russia probe https://t.co/hpAxte7ZTH https://t.co/cUSnJEd89B,2018-06-29,2018-06-29 01:51:41-04:00,0.5574,0.0,0.783,0.217
+236,CNN,Ballet dancers showcase Hong Kong in gravity-defying images https://t.co/8hRdCIsKGw via @CNNTravel https://t.co/fn6yaCdx4s,2018-06-29,2018-06-29 01:46:08-04:00,0.0,0.0,1.0,0.0
+237,CNN,"RT @CNNTonight: Rep. Jayapal was arrested while protesting Trump's immigration policy
 
-But data from the German government shows that 2017 saw the… https://t.co/A4VJolafXM",2018-06-24,-0.5423,0.149,0.851,0.0
-249,CNN,"Tiny house living may not be for everyone, but tiny house resorts have popped up all over the country, offering eve… https://t.co/FXhieCJ4L4",2018-06-24,0.0,0.0,1.0,0.0
-250,CNN,"The US government might send up to 20,000 undocumented immigrant children to housing on US military bases, two defe… https://t.co/9hValJExkU",2018-06-24,0.0,0.0,1.0,0.0
-251,CNN,"""Black Panther"" star Chadwick Boseman was accepting an MTV award for playing a superhero when he invited James Shaw… https://t.co/OD3nnJZ8Qy",2018-06-24,0.7845,0.0,0.669,0.331
-252,CNN,"American Outdoor Brands, the gun maker that owns the iconic Smith &amp; Wesson line of firearms, reported plunging sale… https://t.co/iLeCrBLt0g",2018-06-24,-0.34,0.112,0.888,0.0
-253,CNN,"83-year-old artist Christo has been creating conceptually challenging, and large-scale work since the late 1950s. N… https://t.co/LydzzGCWIY",2018-06-24,0.4215,0.0,0.798,0.202
-254,CNN,"Americans born into poverty are more likely than ever before to stay that way under the Trump administration, accor… https://t.co/9sqvjBIjtF",2018-06-24,-0.5106,0.148,0.852,0.0
-255,CNN,T-shirt makers are riffing on Melania Trump's jacket and donating the proceeds to refugee services… https://t.co/em0ZXn5nsW,2018-06-24,0.0,0.0,1.0,0.0
-256,CNN,"First, it was a small bump under her left eye. Five days later, it appeared above the eye. Her upper lip was bulgin… https://t.co/gVvXpvRb2x",2018-06-24,0.0,0.0,1.0,0.0
-257,CNN,This is how KitKats are made https://t.co/4EErNERWNW https://t.co/7RQ1knBF7Q,2018-06-24,0.0,0.0,1.0,0.0
-258,CNN,"How soybeans -- yes, soybeans -- could impact the midterm elections https://t.co/TDuL7njBVA https://t.co/GT7laD4Cco",2018-06-24,0.4019,0.0,0.816,0.184
-259,CNN,The introduction of HPV vaccines in England led to an 86% reduction in rates of the cancer-causing infection https://t.co/dMio3f1gf5,2018-06-24,0.0,0.0,1.0,0.0
-260,CNN,New Zealand Prime Minister Jacinda Ardern became the first world leader in nearly 30 years to have a child while in… https://t.co/zvZ4WaPK03,2018-06-24,0.0,0.0,1.0,0.0
-261,CNN,"Jim Davis introduced the world to Garfield on June 19, 1978. Since then the comic strip character has spun off TV s… https://t.co/VRdLrSiA1l",2018-06-24,0.0,0.0,1.0,0.0
-262,CNN,Every single person in charge of law and order in this Georgia town is a black woman https://t.co/O49ppicmkX https://t.co/psgCDVTNrH,2018-06-24,0.0,0.0,1.0,0.0
-263,CNN,Canada becomes the second nation in the world to legalize marijuana https://t.co/hDpMyJpV2r https://t.co/DS8KdRsvnP,2018-06-24,0.0,0.0,1.0,0.0
-264,CNN,Every single person in charge of law and order in this Georgia town is a black woman https://t.co/xvTFHyxybd https://t.co/5SMVe3yHDZ,2018-06-23,0.0,0.0,1.0,0.0
-265,CNN,"The US government might send up to 20,000 undocumented immigrant children to housing on US military bases, two defe… https://t.co/nauartDBjk",2018-06-23,0.0,0.0,1.0,0.0
-266,CNN,"Democratic Sen. Jeff Merkley is ""exploring the possibility"" of throwing his hat in the ring in the 2020 presidentia… https://t.co/3UJ1iiRNPe",2018-06-23,0.0,0.0,1.0,0.0
-267,CNN,There's nearly a Nixon 1974 level of public support for impeaching President Trump | Analysis by @zbyronwolf … https://t.co/GMUkVqRSLy,2018-06-23,0.4019,0.0,0.847,0.153
-268,CNN,"""Quit trying to make us feel teary-eyed for the children. Yes, I love children a great deal, but to me, it's up to… https://t.co/SEaMngzwGk",2018-06-23,0.7184,0.0,0.731,0.269
-269,CNN,"How soybeans -- yes, soybeans -- could impact the midterm elections https://t.co/5sqhbAmTWG https://t.co/oMoqtG4fHM",2018-06-23,0.4019,0.0,0.816,0.184
-270,CNN,"First, it was a small bump under her left eye. Five days later, it appeared above the eye. Her upper lip was bulgin… https://t.co/nqB0DFpxCY",2018-06-23,0.0,0.0,1.0,0.0
-271,CNN,A far-right pundit appointed to a post at the Department of Health and Human Services listed on her resume past wor… https://t.co/70SIM5cI8a,2018-06-23,0.0,0.0,1.0,0.0
-272,CNN,T-shirt makers are riffing on Melania Trump's jacket and donating the proceeds to refugee services… https://t.co/srVAEOXfvq,2018-06-23,0.0,0.0,1.0,0.0
-273,CNN,"About 9,000 bourbon barrels plummeted to the ground at Barton 1792 Distillery, home of the brand 1792 Bourbon… https://t.co/jWjx3ZnEua",2018-06-23,0.0,0.0,1.0,0.0
-274,CNN,"""It's like they're putting a knife in your chest and killing you.""
+ ""What people were doing today is drawing attention…",2018-06-29,2018-06-29 01:36:26-04:00,-0.7096,0.258,0.742,0.0
+238,CNN,Boeing's hypersonic passenger plane could get you from New York to London in 2 hours https://t.co/wnmxeae4Ox https://t.co/QXABxdluHn,2018-06-29,2018-06-29 01:31:09-04:00,0.0,0.0,1.0,0.0
+239,CNN,A Neolithic trackway dating to 2300 BC was uncovered in a nondescript field on the east coast of England… https://t.co/WGiE3fUnFA,2018-06-29,2018-06-29 01:16:03-04:00,0.0,0.0,1.0,0.0
+240,CNN,How the impact of a trade war between the United States and China could spill into other Asian economies… https://t.co/LuhgcowF9w,2018-06-29,2018-06-29 01:01:07-04:00,-0.2732,0.165,0.717,0.118
+241,CNN,"Aston Martin brings back the Superleggera as a powerful new $300,000 supercar https://t.co/9nesdQE6WF https://t.co/9q1PiOhpQ7",2018-06-29,2018-06-29 00:46:00-04:00,0.4215,0.0,0.811,0.189
+242,CNN,"Spider-Man, Captain America, and other superheroes dropped by a children's hospital in Iowa to give the kids a thri… https://t.co/gg0SG7zq29",2018-06-29,2018-06-29 00:31:00-04:00,0.0,0.0,1.0,0.0
+243,CNN,The FDR Library and Museum released rare video of Franklin D. Roosevelt walking https://t.co/xUMKmgw8po https://t.co/zWjFJSdafM,2018-06-29,2018-06-29 00:17:15-04:00,0.0,0.0,1.0,0.0
+244,CNN,"""Korea, brother, you're now Mexican."" Hundreds of jubilant Mexican soccer fans rushed to the South Korean embassy i… https://t.co/9kubkR5PR2",2018-06-29,2018-06-29 00:01:00-04:00,0.6124,0.0,0.818,0.182
+245,CNN,Amazon is buying online pharmacy PillPack -- a move that could disrupt the drug store business https://t.co/DkTdQEI1iT,2018-06-28,2018-06-28 23:46:04-04:00,0.1779,0.0,0.898,0.102
+246,CNN,"""Just be a kid, OK?"": Inside children's immigration hearings https://t.co/YLOaAmNqD9 https://t.co/R5SXXagHUY",2018-06-28,2018-06-28 23:31:04-04:00,0.0,0.0,1.0,0.0
+247,CNN,"RT @CNNTonight: ""This could be a moment where we see a judge in the next few months appointed and states -- one state, five states, ten sta…",2018-06-28,2018-06-28 23:17:56-04:00,0.0,0.0,1.0,0.0
+248,CNN,President Donald Trump met with key senators at the White House as the administration goes into a full-court press… https://t.co/GPAM0su0gb,2018-06-28,2018-06-28 23:16:04-04:00,0.0,0.0,1.0,0.0
+249,CNN,White House puts Supreme Court search on overdrive to announce pick by July 9 https://t.co/uD3i3IBpk8 https://t.co/Tyn9C5ZZrn,2018-06-28,2018-06-28 23:01:06-04:00,0.5574,0.0,0.795,0.205
+250,CNN,"Rep. Luis Gutierrez: ""If you walk away from anything in this hearing it's that (Republicans) want to give the Presi… https://t.co/A9j7Xco9IJ",2018-06-28,2018-06-28 22:57:29-04:00,0.0772,0.0,0.939,0.061
+251,CNN,"The victims in the shooting at the Capital Gazette in Annapolis, Maryland, have been identified. These are their na… https://t.co/1LdsaAaNDZ",2018-06-28,2018-06-28 22:51:38-04:00,-0.3182,0.108,0.892,0.0
+252,CNN,President Donald Trump's frequent jabs at Sen. John McCain on the campaign trail have angered fellow Senate Republi… https://t.co/KR88mXkfcO,2018-06-28,2018-06-28 22:46:06-04:00,-0.5106,0.155,0.845,0.0
+253,CNN,"RT @CuomoPrimeTime: .@ChrisCuomo: Today, another example of a gun violence pandemic our society  is maddeningly willing to accept.
 
-A Guatemalan immigrant was reunited with her so… https://t.co/IKyVlKftoU",2018-06-23,-0.4404,0.184,0.711,0.105
-275,CNN,The Republican nominee for a US House seat in New Jersey has said diversity leads to Muslims killing Christians and… https://t.co/MTVg7TRl3W,2018-06-23,-0.6597,0.188,0.812,0.0
-276,CNN,"Americans born into poverty are more likely than ever before to stay that way under the Trump administration, accor… https://t.co/xwEll4QJ0I",2018-06-23,-0.5106,0.148,0.852,0.0
-277,CNN,"""I see mothers bury their sons. I want my mom to never feel that pain.""
+It is a…",2018-06-28,2018-06-28 22:40:10-04:00,-0.5994,0.249,0.651,0.1
+254,CNN,"After the shooting in Annapolis, Maryland, staffers at the Capital Gazette are still putting out a newspaper… https://t.co/vFsQEv2tva",2018-06-28,2018-06-28 22:36:06-04:00,0.0,0.0,1.0,0.0
+255,CNN,California just passed the nation's toughest data privacy law https://t.co/RIlIZNge4w https://t.co/aCpFLMrL7M,2018-06-28,2018-06-28 22:31:08-04:00,-0.0772,0.115,0.885,0.0
+256,CNN,RT @CuomoPrimeTime: .@ChrisCuomo: “I’ve never seen anger or animus lead to anything but more of the same –– anger is not the antidote to an…,2018-06-28,2018-06-28 22:30:38-04:00,0.7181,0.0,0.793,0.207
+257,CNN,"RT @CNNTonight: ""I feel like I lost members of my own family,"" says journalist @BrianKarem about the deadly shooting at the Capital Gazette…",2018-06-28,2018-06-28 22:28:42-04:00,0.0516,0.093,0.806,0.101
+258,CNN,"Five people were killed in a shooting inside the newsroom at the Capital Gazette newspaper office in Annapolis, Mar… https://t.co/Gjq02dXGtY",2018-06-28,2018-06-28 22:26:18-04:00,-0.6705,0.2,0.8,0.0
+259,CNN,"This woman says she had a normal life in Honduras' capitol -- a home, a job and a son she'd do anything to protect.… https://t.co/Vx2LHsfbyV",2018-06-28,2018-06-28 22:16:02-04:00,0.0,0.0,1.0,0.0
+260,CNN,RT @CNNTonight: HAPPENING NOW: Police give an update on the Maryland newspaper shooting https://t.co/2r5gjzszrA  https://t.co/Eoz2g9rTdF,2018-06-28,2018-06-28 22:15:38-04:00,0.0,0.0,1.0,0.0
+261,CNN,"RT @CuomoPrimeTime: ""They want to give the President a trophy, and the trophy is Rosenstein's head on a platter,"" says Democrat @RepGutierr…",2018-06-28,2018-06-28 22:01:26-04:00,0.0772,0.0,0.936,0.064
+262,CNN,"President Donald Trump finally has an ambassador to South Korea, as the Senate confirmed retired Navy Adm. Harry Ha… https://t.co/XXsUh6eefQ",2018-06-28,2018-06-28 22:01:08-04:00,0.0,0.0,1.0,0.0
+263,CNN,Italy will block a summit of EU countries from issuing a joint statement on a range of important regional issues un… https://t.co/gnUSuCkAZ5,2018-06-28,2018-06-28 21:51:05-04:00,-0.2732,0.134,0.783,0.083
+264,CNN,The attack at the Capital Gazette newspaper is the deadliest day for journalism in America in several years… https://t.co/XTkRcFDC6f,2018-06-28,2018-06-28 21:41:08-04:00,-0.4767,0.147,0.853,0.0
+265,CNN,"The White House insists that chief of staff John Kelly isn't going anywhere, but it's a familiar refrain… https://t.co/TqGpeUWHsn",2018-06-28,2018-06-28 21:31:05-04:00,0.0,0.0,1.0,0.0
+266,CNN,Donald Trump doesn't think Russia meddled in 2016 | Analysis by @CillizzaCNN https://t.co/rw2G5sgulg https://t.co/0xYw7pshec,2018-06-28,2018-06-28 21:21:09-04:00,0.0,0.0,1.0,0.0
+267,CNN,RT @AC360: “I’ve heard that Pres. Trump sent his prayers. I’m not trying to make this political right? But we need more than prayers… I wan…,2018-06-28,2018-06-28 21:20:14-04:00,0.0,0.0,1.0,0.0
+268,CNN,The Senate passes their version of the farm bill before a weeklong recess https://t.co/zsxzhEPCbv https://t.co/gGxZt6VmGT,2018-06-28,2018-06-28 21:11:03-04:00,0.0,0.0,1.0,0.0
+269,CNN,"In 2012, Luke Mickelson was shocked to learn that children in his community slept on the floor. So he quit his high… https://t.co/52c1zx6n7D",2018-06-28,2018-06-28 21:01:00-04:00,-0.3182,0.095,0.905,0.0
+270,CNN,"More than 400 million people use Instagram Stories each day, which makes it twice as popular as Snapchat… https://t.co/OMkXsXLpCe",2018-06-28,2018-06-28 20:59:16-04:00,0.4215,0.0,0.865,0.135
+271,CNN,Amazon could radically change how you get prescriptions https://t.co/eUnwYDk4PM https://t.co/A7hSYSrRKj,2018-06-28,2018-06-28 20:58:37-04:00,0.1779,0.0,0.841,0.159
+272,CNN,"In 2012, Luke Mickelson was shocked to learn that children in his community slept on the floor. So he quit his high… https://t.co/8JSnkW2brc",2018-06-28,2018-06-28 20:53:54-04:00,-0.3182,0.095,0.905,0.0
+273,CNN,Democratic Rep. Maxine Waters canceled two scheduled appearances in Alabama and Texas this weekend after saying she… https://t.co/Mem2RiSqn8,2018-06-28,2018-06-28 20:42:40-04:00,0.0,0.0,1.0,0.0
+274,CNN,Amazon has launched a new program that allows you to start your own small business delivering Prime packages — the… https://t.co/OVfwkmqJAJ,2018-06-28,2018-06-28 20:35:20-04:00,0.296,0.0,0.842,0.158
+275,CNN,"""This was a targeted attack on the Capital Gazette,"" said Anne Arundel County Acting Chief William Krampf, speaking… https://t.co/NWFcFE50zH",2018-06-28,2018-06-28 20:27:35-04:00,-0.4767,0.154,0.846,0.0
+276,CNN,"The crisis in Venezuela poses a threat to the security of the United States and countries in the region, US Vice Pr… https://t.co/ipK4rwBlcs",2018-06-28,2018-06-28 20:11:06-04:00,-0.5106,0.244,0.586,0.169
+277,CNN,"In a retail industry beset by problems, H&amp;M has a stockpile of unsold clothes worth $4 billion… https://t.co/nw5qVhlRZu",2018-06-28,2018-06-28 20:04:22-04:00,-0.2023,0.145,0.753,0.102
+278,CNN,A harrowing parasailing accident left a woman drifting in the wind for 45 minutes https://t.co/PfdOa7TVWd https://t.co/2o6ExXoqdv,2018-06-28,2018-06-28 20:01:06-04:00,-0.4767,0.193,0.807,0.0
+279,CNN,A hedge fund billionaire wants Rupert Murdoch to keep Comcast in the running for 21st Century Fox… https://t.co/6tpDtJTzgE,2018-06-28,2018-06-28 19:52:57-04:00,0.0,0.0,1.0,0.0
+280,CNN,"""Don't get cute with us."" As Trump took a victory lap at the groundbreaking for a $10 billion Foxconn plant in Wisc… https://t.co/ObDPR91jVE",2018-06-28,2018-06-28 19:51:13-04:00,-0.357,0.11,0.89,0.0
+281,CNN,"RT @OutFrontCNN: ""It's a village, and we're devastated,"" says Annapolis Mayor Gavin Buckley of the Capital Gazette shooting, adding ""it's t…",2018-06-28,2018-06-28 19:42:36-04:00,0.0,0.0,1.0,0.0
+282,CNN,"""I wanted to show my support for the folks here today."" Democratic Sen. Tammy Duckworth brought her infant daughter… https://t.co/tDTM28d09r",2018-06-28,2018-06-28 19:39:47-04:00,0.4019,0.0,0.876,0.124
+283,CNN,Thousands of kids still haven't been reunited with their parents. Protesters ask: Where are the children?… https://t.co/bgL0wYzZ1A,2018-06-28,2018-06-28 19:36:08-04:00,-0.2263,0.106,0.894,0.0
+284,CNN,"An oil tanker exploded during rush hour traffic in Lagos, Nigeria, killing at least nine people and injuring at lea… https://t.co/m6wVO5OXtl",2018-06-28,2018-06-28 19:18:50-04:00,-0.6597,0.18,0.82,0.0
+285,CNN,"Asked about whether Donald Trump deserves to be re-elected as President, around 55% of registered voters in Arizona… https://t.co/vLhvF515y2",2018-06-28,2018-06-28 19:01:03-04:00,0.0,0.0,1.0,0.0
+286,CNN,"Spider-Man, Captain America, and other superheroes dropped by a children's hospital in Iowa to give the kids a thri… https://t.co/gKyeOUNsCQ",2018-06-28,2018-06-28 19:01:00-04:00,0.0,0.0,1.0,0.0
+287,CNN,President Donald Trump's nominee to head the IRS owns a stake in two rental units at a Trump-branded hotel in Hawai… https://t.co/mMw2Zw96R3,2018-06-28,2018-06-28 18:51:08-04:00,0.0,0.0,1.0,0.0
+288,CNN,"The suspect in the shooting at the Capital Gazette building in Annapolis, Maryland, was found hiding under a desk,… https://t.co/blWiAwqaC0",2018-06-28,2018-06-28 18:45:52-04:00,-0.5267,0.206,0.794,0.0
+289,CNN,"""Take it from the Terminator, you're only supposed to go back in time to protect future generations."" Arnold Schwar… https://t.co/bxuOvqXPr4",2018-06-28,2018-06-28 18:41:08-04:00,0.3818,0.0,0.88,0.12
+290,CNN,"""Korea, brother, you're now Mexican."" Hundreds of jubilant Mexican soccer fans rushed to the South Korean embassy i… https://t.co/ndR9IFCwuL",2018-06-28,2018-06-28 18:36:00-04:00,0.6124,0.0,0.818,0.182
+291,CNN,"Nearly 60 million people are under some type of heat watch, warning or advisory from the National Weather Service a… https://t.co/RIAW7A5t2q",2018-06-28,2018-06-28 18:31:43-04:00,-0.34,0.107,0.893,0.0
+292,CNN,"IUDs are more than 99% effective in preventing pregnancy, and some can work up to 12 years, but a 2016 survey found… https://t.co/FW4ZmbxqBt",2018-06-28,2018-06-28 18:27:41-04:00,0.2805,0.045,0.861,0.094
+293,CNN,At least five people are dead and several others are injured in the shooting at the Capital Gazette building in Ann… https://t.co/GSNgWCrRwR,2018-06-28,2018-06-28 18:23:31-04:00,-0.7906,0.259,0.741,0.0
+294,CNN,"Aston Martin brings back the Superleggera as a powerful new $300,000 supercar https://t.co/9nesdQE6WF https://t.co/wHhvqkE0dK",2018-06-28,2018-06-28 18:09:47-04:00,0.4215,0.0,0.811,0.189
+295,CNN,"RT @CNNSitRoom: Suspect in the Capital Gazette shooting “has not been particularly cooperative,” Anne Arundel County Executive Steve Schuh…",2018-06-28,2018-06-28 18:06:54-04:00,-0.296,0.109,0.891,0.0
+296,CNN,Guinness is opening its first American brewery in 64 years https://t.co/boi61328Dc https://t.co/2nVwrXGZhp,2018-06-28,2018-06-28 18:03:35-04:00,0.0,0.0,1.0,0.0
+297,CNN,"In key states, voters want to see Trump alternatives in 2020 https://t.co/39YdGEiMhs https://t.co/cY1zaomBPw",2018-06-28,2018-06-28 17:56:38-04:00,0.0772,0.0,0.902,0.098
+298,CNN,Now the Supreme Court will be as polarized as the country | By Barbara A. Perry via @CNNOpinion… https://t.co/Sj03lQ7OmO,2018-06-28,2018-06-28 17:35:29-04:00,0.5574,0.0,0.825,0.175
+299,CNN,"In the final group stage game of this World Cup, England and Belgium faced the bizarre prospect of competing in a m… https://t.co/y2q4WdihZN",2018-06-28,2018-06-28 17:28:58-04:00,-0.0258,0.094,0.816,0.09
+300,Fox News,"RT @FoxBusiness: .@larry_kudlow: ""The war against business is over."" https://t.co/t1373NI1SN",2018-06-29,2018-06-29 08:10:36-04:00,-0.5994,0.302,0.698,0.0
+301,Fox News,"RT @FoxBusiness: .@larry_kudlow: ""Money, capital, investment... for new jobs and better careers, flowing in from all corners of the world.""…",2018-06-29,2018-06-29 08:10:33-04:00,0.4404,0.0,0.868,0.132
+302,Fox News,"RT @FoxBusiness: .@larry_kudlow: ""It's a very healthy economy right now. Folks said it couldn't be done."" https://t.co/y0gBywmq6I",2018-06-29,2018-06-29 08:10:30-04:00,0.4576,0.0,0.834,0.166
+303,Fox News,#CapitalGazette publishes this morning; @GriffJenkins reports. https://t.co/0X1ErTOPe6 https://t.co/KkjCbbnBO4,2018-06-29,2018-06-29 08:08:01-04:00,0.0,0.0,1.0,0.0
+304,Fox News,"Capital Gazette puts out next-day 'damn paper,' as promised https://t.co/qYZjdCKm6m",2018-06-29,2018-06-29 08:00:36-04:00,-0.0516,0.205,0.606,0.189
+305,Fox News,"Moments ago on @foxandfriends, @RealDeanCain praised the first responders who showed up on the scene of the Capital… https://t.co/kzvxxOZs9O",2018-06-29,2018-06-29 07:58:00-04:00,0.4939,0.0,0.849,0.151
+306,Fox News,".@POTUS: ""We have to pick one that's gonna be there for 40 years, 45 years."" https://t.co/l4fCKfVUQ2",2018-06-29,2018-06-29 07:56:36-04:00,0.0,0.0,1.0,0.0
+307,Fox News,Double-amputee Army veteran dies while paddle boarding https://t.co/uezUjElDPa,2018-06-29,2018-06-29 07:53:10-04:00,0.0,0.0,1.0,0.0
+308,Fox News,"RT @FoxBusiness: Capital Gazette puts out next-day 'damn paper,' as promised https://t.co/xnFu9dEhR1 https://t.co/3lGRueN4Mb",2018-06-29,2018-06-29 07:52:54-04:00,-0.0516,0.167,0.679,0.154
+309,Fox News,"RT @FoxBusiness: .@KellyannePolls: ""The president has made very clear that he thinks people who are members of a group like NATO should pay…",2018-06-29,2018-06-29 07:50:45-04:00,0.659,0.0,0.788,0.212
+310,Fox News,COMING UP at 8:30a ET on @foxandfriends: Acting @ICEgov Dir. Thomas Homan - Tune in now! https://t.co/g2Ud9Cbxwf,2018-06-29,2018-06-29 07:49:58-04:00,0.0,0.0,1.0,0.0
+311,Fox News,News Alert: 85 illegals found in stash houses near border. https://t.co/cmE2O8oYMu,2018-06-29,2018-06-29 07:46:10-04:00,0.296,0.0,0.82,0.18
+312,Fox News,"RT @FoxBusiness: .@KellyannePolls on the Supreme Court union ruling: ""You may look it as a blow to unions but it's real buoyancy for freedo…",2018-06-29,2018-06-29 07:43:46-04:00,0.3182,0.0,0.905,0.095
+313,Fox News,"RT @FoxBusiness: .@KellyannePolls on @POTUS: ""He believes in fairness. Equality of opportunity, not equality of outcomes. There's a big dif…",2018-06-29,2018-06-29 07:43:40-04:00,0.4215,0.0,0.865,0.135
+314,Fox News,"RT @FoxBusiness: .@SecretaryAcosta: ""We've never had an economy where we have more open jobs than we have job seekers."" https://t.co/SSDoOK…",2018-06-29,2018-06-29 07:43:37-04:00,0.0,0.0,1.0,0.0
+315,Fox News,"RT @FoxBusiness: .@SecretaryAcosta: ""More and more people are starting to work."" https://t.co/BVFt23xxJP",2018-06-29,2018-06-29 07:43:34-04:00,0.0,0.0,1.0,0.0
+316,Fox News,"RT @FoxBusiness: .@SecretaryAcosta: ""We've had one million new jobs alone since the tax cut... Everyone is winning with these tax cuts."" ht…",2018-06-29,2018-06-29 07:43:31-04:00,0.34,0.079,0.787,0.134
+317,Fox News,Woman met man on 'Farmers Only' then killed him: cops https://t.co/Tdp4yNamJf,2018-06-29,2018-06-29 07:35:40-04:00,-0.6705,0.31,0.69,0.0
+318,Fox News,".@RealDeanCain: ""Law enforcement has to walk that very fine line. It's a really difficult job. They don't get enoug… https://t.co/VMkVhOmnJy",2018-06-29,2018-06-29 07:30:45-04:00,-0.1779,0.128,0.777,0.096
+319,Fox News,.@newtgingrich: We need welfare reform now – Here’s why https://t.co/NvgT3ptcnw,2018-06-29,2018-06-29 07:30:01-04:00,0.0,0.0,1.0,0.0
+320,Fox News,"RT @FoxFriendsFirst: “Justice Kennedy was a titan of the Supreme Court” – Constitutional attorney, Mark W. Smith, on Justice Anthony Kenned…",2018-06-29,2018-06-29 07:29:00-04:00,0.7906,0.0,0.708,0.292
+321,Fox News,"DB Cooper letter reveals hijacker's true identity, sleuths claim https://t.co/TGQyu6mTbZ",2018-06-29,2018-06-29 07:27:56-04:00,0.4215,0.0,0.763,0.237
+322,Fox News,AT&amp;T is raising your phone bill by $1 billion https://t.co/pJBZJFrKI5,2018-06-29,2018-06-29 07:15:00-04:00,0.0,0.0,1.0,0.0
+323,Fox News,".@GovMikeHuckabee: ""Democrats have alienated the Evangelical voters more than they ever have and I don't see it com… https://t.co/9nzDkgCajB",2018-06-29,2018-06-29 06:50:00-04:00,0.0,0.0,1.0,0.0
+324,Fox News,.@mgoodwin_nypost: Lashing out over Trump is nothing new for liberals https://t.co/lw5T6XG22k,2018-06-29,2018-06-29 06:34:00-04:00,0.0,0.0,1.0,0.0
+325,Fox News,.@SenTedCruz: “This could well prove to be the most significant thing President Trump does in his entire time in of… https://t.co/nFZdia67kw,2018-06-29,2018-06-29 06:18:00-04:00,0.4927,0.0,0.819,0.181
+326,Fox News,JUST IN: Suspect in Capital Gazette killings charged with 5 counts of first-degree murder https://t.co/HaqetQoxAg,2018-06-29,2018-06-29 06:07:59-04:00,-0.9217,0.569,0.431,0.0
+327,Fox News,OPINION: Replacing Kennedy on the Supreme Court will set off political warfare https://t.co/oPYKWzc9rM,2018-06-29,2018-06-29 06:04:00-04:00,0.34,0.131,0.655,0.214
+328,Fox News,NASA delays launch of James Webb Space Telescope again — this time to 2021  https://t.co/Cwlr3qVrnl,2018-06-29,2018-06-29 05:45:00-04:00,0.0,0.0,1.0,0.0
+329,Fox News,".@RepDeSantis: ""I think that the folks who come illegally, if they come with minors, they should be reunited with t… https://t.co/kyswHV275g",2018-06-29,2018-06-29 05:30:00-04:00,0.0,0.0,1.0,0.0
+330,Fox News,Pennsylvania homes raided in investigation into mystery explosions https://t.co/0bbVlLkEzc,2018-06-29,2018-06-29 05:15:00-04:00,0.0,0.0,1.0,0.0
+331,Fox News,"Sen. Mike Lee and brother, Thomas Lee, both being considered to replace Kennedy on Supreme Court https://t.co/mT5yVlgoVv",2018-06-29,2018-06-29 05:03:00-04:00,0.5574,0.0,0.816,0.184
+332,Fox News,Ex-Clinton adviser blasts Hillary's 'miserable' outreach to evangelicals https://t.co/OdL0V2OJAL,2018-06-29,2018-06-29 04:45:00-04:00,0.2732,0.0,0.792,0.208
+333,Fox News,Bolton visits Moscow to talk possible US-Russia summit https://t.co/nJn4NnQ6Uw,2018-06-29,2018-06-29 04:20:00-04:00,0.0,0.0,1.0,0.0
+334,Fox News,.@FLOTUS makes trip to border 'on behalf of children and the families' https://t.co/6JBeRkfSrB,2018-06-29,2018-06-29 03:59:00-04:00,0.0,0.0,1.0,0.0
+335,Fox News,"Gorbachev: Putin, Trump should focus on arms control https://t.co/wgLnR1pAu2",2018-06-29,2018-06-29 03:45:00-04:00,0.0,0.0,1.0,0.0
+336,Fox News,".@adamputnam on @POTUS' next Supreme Court justice pick: ""Yes we need a constitutionalist on the bench, someone who… https://t.co/TBcxo0Txwm",2018-06-29,2018-06-29 03:30:00-04:00,0.8658,0.0,0.607,0.393
+337,Fox News,".@RepDeSantis on @POTUS' tariffs: ""He's trying to get concessions on behalf of the American people, and I think we… https://t.co/e87Di6tcsx",2018-06-29,2018-06-29 03:15:00-04:00,0.0,0.0,1.0,0.0
+338,Fox News,Entire California ghost town for sale for under $1 million https://t.co/23V29ES1BD,2018-06-29,2018-06-29 03:00:00-04:00,-0.3182,0.187,0.813,0.0
+339,Fox News,Trump: 'Already started' considering possible replacements for Justice Kennedy https://t.co/9jtHXCRtfo,2018-06-29,2018-06-29 02:45:00-04:00,0.5267,0.0,0.726,0.274
+340,Fox News,Gowdy rips Rosenstein on Russia probe: 'Finish it the hell up' https://t.co/ahRFnTGJO9,2018-06-29,2018-06-29 02:30:00-04:00,-0.6808,0.295,0.705,0.0
+341,Fox News,"NYPD cops probed for not helping slain Bronx teen, report says https://t.co/bEKGJVrbZm",2018-06-29,2018-06-29 02:15:00-04:00,-0.2235,0.146,0.854,0.0
+342,Fox News,"Harsh anti-Trump UN human rights report on US 'extreme poverty' cherry-picks data, assumptions, examination shows https://t.co/s830WO8kcb",2018-06-29,2018-06-29 02:00:00-04:00,-0.7351,0.307,0.693,0.0
+343,Fox News,Science fiction author Harlan Ellison dead at age 84 https://t.co/A0gaHHCN4c,2018-06-29,2018-06-29 01:46:00-04:00,-0.6486,0.323,0.677,0.0
+344,Fox News,"Senate passes its version of farm bill, setting up clash over food stamps https://t.co/0bsSGVdTvH",2018-06-29,2018-06-29 01:30:00-04:00,0.0,0.0,1.0,0.0
+345,Fox News,Dem congresswoman among anti-Trump protesters arrested inside Capitol office building https://t.co/EcxCWUGzlN,2018-06-29,2018-06-29 01:15:01-04:00,-0.6124,0.357,0.643,0.0
+346,Fox News,"In Florida battleground, Puerto Ricans fleeing Maria's destruction reshape electoral landscape. https://t.co/DHk2boykpb",2018-06-29,2018-06-29 00:58:00-04:00,-0.7506,0.39,0.61,0.0
+347,Fox News,"Teen leads police on 135 mph chase, goes airborn. https://t.co/d64yEqPeGq",2018-06-29,2018-06-29 00:38:00-04:00,0.0,0.0,1.0,0.0
+348,Fox News,Annapolis newsroom shooting sparks lawmakers' calls to 'end the violence' https://t.co/RstJ8Oh8PU,2018-06-29,2018-06-29 00:20:00-04:00,-0.6249,0.291,0.709,0.0
+349,Fox News,Judge orders release of detained Brazilian boy. https://t.co/yKDYi4rIDx,2018-06-29,2018-06-29 00:02:00-04:00,-0.4019,0.278,0.722,0.0
+350,Fox News,OPINION: Trump-Putin summit is a good idea to deal with dangerous issues dividing the nuclear powers. https://t.co/f64Qk6X63A,2018-06-28,2018-06-28 23:45:00-04:00,-0.0516,0.155,0.7,0.145
+351,Fox News,".@adamputnam, @RepDeSantis spar over Trump support, shootings in Fox News GOP debate in Florida. https://t.co/W69FHphbEL",2018-06-28,2018-06-28 23:30:00-04:00,0.4019,0.0,0.838,0.162
+352,Fox News,Pennsylvania mayor's 'racist' Antwon Rose protest comments prompt calls for resignation. https://t.co/PKHIxw5eff,2018-06-28,2018-06-28 23:16:00-04:00,-0.4939,0.296,0.704,0.0
+353,Fox News,"After Thursday's deadly shooting at @capgaznews, @chaseacook, a reporter for the newspaper, tweeted, ""We are puttin… https://t.co/EYJrsEqy29",2018-06-28,2018-06-28 23:00:00-04:00,0.0,0.0,1.0,0.0
+354,Fox News,.@POTUS meets with lawmakers to discuss Supreme Court vacancy. https://t.co/c93j4a6ooi,2018-06-28,2018-06-28 22:51:00-04:00,0.5574,0.0,0.714,0.286
+355,Fox News,"Rob Hiaasen, Capital Gazette editor and brother of author Carl Hiaasen, among 5 newsroom shooting victims. https://t.co/TalrTMAh85",2018-06-28,2018-06-28 22:49:59-04:00,-0.7096,0.296,0.704,0.0
+356,Fox News,Dem congresswoman among anti-Trump protesters arrested inside Capitol office building. https://t.co/z4K9wnNuni,2018-06-28,2018-06-28 22:44:00-04:00,-0.6124,0.357,0.643,0.0
+357,Fox News,"TONIGHT: @SenateMajLdr speaks with @shannonbream on @foxnewsnight following the retirement of Justice Kennedy. 
 
-Two years ago, Antwon Rose wrote those lin… https://t.co/apTQLTotDk",2018-06-23,0.0772,0.0,0.944,0.056
-278,CNN,"Elvis Presley's abandoned private jet is up for auction. 
+Tu… https://t.co/kb7Vu2WMSx",2018-06-28,2018-06-28 22:40:00-04:00,0.5267,0.0,0.805,0.195
+358,Fox News,Kim Jong Un ordered army officer executed after giving soldiers extra food: report https://t.co/QVEQca88K1,2018-06-28,2018-06-28 22:35:00-04:00,0.34,0.0,0.844,0.156
+359,Fox News,Gazette journalists tweet about the shooting inside their building: 'Please help us' https://t.co/ewzoJNRh3i,2018-06-28,2018-06-28 22:28:33-04:00,0.6124,0.0,0.688,0.312
+360,Fox News,"Deputy Chief William Krampf: ""We know through the investigation that there are no further threats.""… https://t.co/qoe7KDAFCp",2018-06-28,2018-06-28 22:16:40-04:00,-0.296,0.128,0.872,0.0
+361,Fox News,BREAKING: Annapolis newspaper shooting suspect ID'd as Jarrod W. Ramos. https://t.co/v5FO5cbE8Y,2018-06-28,2018-06-28 22:13:40-04:00,-0.296,0.18,0.82,0.0
+362,Fox News,"Officials hold a press briefing with the latest on today's shooting at @capgaznews in Annapolis, MD.… https://t.co/5PlFc2GiMu",2018-06-28,2018-06-28 22:11:14-04:00,0.0,0.0,1.0,0.0
+363,Fox News,"JUST IN: Rob Hiaasen, Capital Gazette editor and brother of author Carl Hiaasen, identified as Annapolis shooting v… https://t.co/aAGUyT2j8B",2018-06-28,2018-06-28 22:04:10-04:00,-0.5574,0.167,0.833,0.0
+364,Fox News,".@marklevinshow: ""Progressives don't own the Supreme Court. They don't own seats on the Supreme Court. When they ta… https://t.co/BMThoBHQfz",2018-06-28,2018-06-28 21:56:48-04:00,-0.7048,0.256,0.744,0.0
+365,Fox News,"OPINION: Want to defeat lazy, corrupt and out-of-touch politicians in both parties? Here's what will really work https://t.co/wTz2jGVeNi",2018-06-28,2018-06-28 21:51:00-04:00,-0.3612,0.234,0.596,0.17
+366,Fox News,"Central America battles corruption, violence despite billions in US aid https://t.co/V9uGgAwX5x",2018-06-28,2018-06-28 21:47:00-04:00,-0.7717,0.427,0.573,0.0
+367,Fox News,Florida man sent back to jail after not paying for taxi ride home from jail https://t.co/z0zIFXpjyD,2018-06-28,2018-06-28 21:43:00-04:00,0.0,0.0,1.0,0.0
+368,Fox News,".@TuckerCarlson: ""The campaign against ICE is a campaign for open borders."" #Tucker https://t.co/zjo0pH6cT5",2018-06-28,2018-06-28 21:32:10-04:00,0.0,0.0,1.0,0.0
+369,Fox News,"RT @FoxNewsResearch: Florida GOP Gov Debate
+—Adam Putnam—
+•43 yrs old
+•FL's Agriculture Commissioner since 2011
+•2001-2011: Served 5 terms…",2018-06-28,2018-06-28 21:28:16-04:00,0.0,0.0,1.0,0.0
+370,Fox News,"RT @FoxNewsResearch: Florida GOP Gov Debate
+—Ron DeSantis—
+•39 years old
+•Iraq War veteran, Navy reservist
+•Former military prosecutor
+•Ser…",2018-06-28,2018-06-28 21:28:12-04:00,-0.5994,0.17,0.83,0.0
+371,Fox News,Arkansas lawmaker accused of filing no taxes for 15 years arrested https://t.co/hx66jofWMV,2018-06-28,2018-06-28 21:24:30-04:00,-0.7579,0.455,0.545,0.0
+372,Fox News,.@newtgingrich: We need welfare reform now – Here’s why https://t.co/31TeTnB5i0,2018-06-28,2018-06-28 21:17:10-04:00,0.0,0.0,1.0,0.0
+373,Fox News,"Annapolis newsroom shooting leaves 5 people dead; suspect in custody, officials say. https://t.co/jqKHHVLXCR https://t.co/mqIDADWpgk",2018-06-28,2018-06-28 21:07:51-04:00,-0.7579,0.371,0.629,0.0
+374,Fox News,Newly-discovered footage offers rare glimpse of FDR walking at the White House. https://t.co/q9JjfMOrcS,2018-06-28,2018-06-28 20:54:48-04:00,0.0,0.0,1.0,0.0
+375,Fox News,"BREAKING: Jahi McMath, girl at center of brain death debate, has died after surgery, family says. https://t.co/cAgCf1xYwT",2018-06-28,2018-06-28 20:48:40-04:00,-0.8176,0.333,0.667,0.0
+376,Fox News,"In Florida battleground, Puerto Ricans fleeing Maria's destruction reshape the electoral landscape. https://t.co/DHk2boykpb",2018-06-28,2018-06-28 20:40:40-04:00,-0.7506,0.368,0.632,0.0
+377,Fox News,"NYPD police officers probed for not helping slain Bronx teen, report says https://t.co/bEKGJV9B7O",2018-06-28,2018-06-28 20:34:34-04:00,-0.2235,0.136,0.864,0.0
+378,Fox News,"RT @FoxBusiness: Deputy Chief William Krampf : ""The Capital newspaper is our local newspaper. We interact with the Capital newspaper daily.…",2018-06-28,2018-06-28 20:32:40-04:00,0.0,0.0,1.0,0.0
+379,Fox News,Pennsylvania mayor's 'racist' Antwon Rose protest comments prompt calls for resignation. https://t.co/PKHIxw5eff,2018-06-28,2018-06-28 20:25:24-04:00,-0.4939,0.296,0.704,0.0
+380,Fox News,"RT @FoxBusiness: Deputy Chief William Krampf : ""This was a targeted attack... He entered the building with a shotgun and he looked for his…",2018-06-28,2018-06-28 20:20:00-04:00,0.0,0.0,1.0,0.0
+381,Fox News,"Deputy Chief William Krampf: ""[The suspect is] in his late 30s."" https://t.co/jqKHHVLXCR https://t.co/1zL68FokUM",2018-06-28,2018-06-28 20:16:15-04:00,-0.296,0.155,0.845,0.0
+382,Fox News,"Deputy Chief William Krampf: ""We mentioned before about the improvised explosive device. That is not an IED, it was… https://t.co/Y8A3KNT1vj",2018-06-28,2018-06-28 20:11:01-04:00,0.0,0.0,1.0,0.0
+383,Fox News,Officials in Maryland provide an update on the deadly shooting. https://t.co/TOWLLp3jO7  https://t.co/lSZXF1MGU8,2018-06-28,2018-06-28 20:02:34-04:00,0.0,0.0,1.0,0.0
+384,Fox News,".@GovMikeHuckabee: ""Democrats have alienated the Evangelical voters more than they ever have and I don't see it com… https://t.co/cyme63Wdl0",2018-06-28,2018-06-28 20:00:20-04:00,0.0,0.0,1.0,0.0
+385,Fox News,".@adamputnam, @RepDeSantis spar over Trump support, shootings in Fox News GOP debate in Florida https://t.co/OFvrvrmDYV",2018-06-28,2018-06-28 19:55:04-04:00,0.4019,0.0,0.838,0.162
+386,Fox News,".@RepMattGaetz on House Judiciary Committee hearing: ""This is going from just being Robert Mueller's probe to a pro… https://t.co/qUYwDRNvLI",2018-06-28,2018-06-28 19:47:29-04:00,0.0,0.0,1.0,0.0
+387,Fox News,Police have a suspect in custody in the Maryland newsroom shooting that left at least five dead and several injured… https://t.co/Spv1w30Uay,2018-06-28,2018-06-28 19:40:40-04:00,-0.7579,0.265,0.735,0.0
+388,Fox News,".@adamputnam: ""Able bodied individuals who are on public assistance ought to work."" https://t.co/sakkfCF04q https://t.co/up7UNy8Adm",2018-06-28,2018-06-28 19:33:46-04:00,0.0,0.0,1.0,0.0
+389,Fox News,".@RepDeSantis on @POTUS' tariffs: ""He's trying to get concessions on behalf of the American people, and I think we… https://t.co/ZjRsfinGIr",2018-06-28,2018-06-28 19:28:15-04:00,0.0,0.0,1.0,0.0
+390,Fox News,".@RepDeSantis on aftermath in the Parkland school shooting: ""If I had been governor, I would not have signed contro… https://t.co/5ZMVANbvnX",2018-06-28,2018-06-28 19:22:50-04:00,0.0,0.0,1.0,0.0
+391,Fox News,".@adamputnam: ""It is critically important that we defend our rights and protect our students in the schools. Those… https://t.co/lL13eXL3l4",2018-06-28,2018-06-28 19:18:17-04:00,0.5267,0.0,0.794,0.206
+392,Fox News,".@adamputnam: ""Our immigration laws need to be enforced."" https://t.co/sakkfCF04q https://t.co/LFHORC6yMu",2018-06-28,2018-06-28 19:13:37-04:00,0.0,0.0,1.0,0.0
+393,Fox News,".@RepDeSantis: ""I think that the folks who come illegally, if they come with minors, they should be reunited with t… https://t.co/3waiMxULtB",2018-06-28,2018-06-28 19:08:56-04:00,0.0,0.0,1.0,0.0
+394,Fox News,".@adamputnam: ""I think that it's important that we remember the things that were said by the last president that un… https://t.co/OKWdKSy1PZ",2018-06-28,2018-06-28 19:06:05-04:00,0.2023,0.0,0.917,0.083
+395,Fox News,".@RepDeSantis: ""I'm leading the fight right now in Congress to censure Maxine Waters for her conduct.""… https://t.co/6v6qtslSRl",2018-06-28,2018-06-28 19:00:30-04:00,-0.3818,0.14,0.86,0.0
+396,Fox News,".@AdamPutnam says he would endorse Trump for 2020 reelection bid: ""I support our president"" https://t.co/sakkfCF04q",2018-06-28,2018-06-28 18:53:07-04:00,0.6124,0.0,0.722,0.278
+397,Fox News,".@adamputnam: ""I care more about the schools in Washington County than what's going on in Washington, D.C.""… https://t.co/Hhw2D4IRJj",2018-06-28,2018-06-28 18:52:09-04:00,0.4939,0.0,0.842,0.158
+398,Fox News,".@RepDeSantis on the Mueller probe: ""There was no collusion.""  https://t.co/sakkfCF04q https://t.co/fvRzsuvWVw",2018-06-28,2018-06-28 18:46:00-04:00,-0.296,0.18,0.82,0.0
+399,Fox News,".@RepDeSantis: ""If we get it right, we can end judicial activism in Florida for a generation.""… https://t.co/po7Kmv7PWY",2018-06-28,2018-06-28 18:43:57-04:00,0.0,0.0,1.0,0.0
+400,The New York Times,The Senate has allocated $5 million to compensate all of its interns https://t.co/k4inV7zv04,2018-06-29,2018-06-29 08:00:14-04:00,0.0,0.0,1.0,0.0
+401,The New York Times,"The suspect in the Annapolis newsroom shooting had previously made ""general threats"" on social media against the ne… https://t.co/gQYskptYs7",2018-06-29,2018-06-29 07:44:03-04:00,-0.6124,0.227,0.773,0.0
+402,The New York Times,Justice Anthony Kennedy's final ruling could forever alter the role of labor unions https://t.co/WhOXQmrlhO,2018-06-29,2018-06-29 07:15:05-04:00,0.5267,0.0,0.793,0.207
+403,The New York Times,"At least 19 ICE investigators are seeking to dissolve the agency, concerned that the Trump administration's crackdo… https://t.co/lTyqUd911u",2018-06-29,2018-06-29 07:00:10-04:00,0.0,0.0,1.0,0.0
+404,The New York Times,"This World Cup, thus far, has belonged not to soccer's great aristocratic houses, but to its petite bourgeoisie,… https://t.co/VcdcCAR5FB",2018-06-29,2018-06-29 06:44:04-04:00,-0.284,0.107,0.893,0.0
+405,The New York Times,"""We've learned democracy just can't last long here,"" said an architecture major. ""It can easily turn into populism,… https://t.co/e5ui4B2808",2018-06-29,2018-06-29 06:30:07-04:00,0.34,0.0,0.882,0.118
+406,The New York Times,What the public knew about Emma Gatewood was already remarkable. But what they didn't know is even more remarkable. https://t.co/wMmro66L4Y,2018-06-29,2018-06-29 06:14:06-04:00,0.802,0.0,0.714,0.286
+407,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/5sRsmyBjrY https://t.co/AtXdGPNuyW,2018-06-29,2018-06-29 06:05:05-04:00,0.0,0.0,1.0,0.0
+408,The New York Times,"RT @nytimesworld: A trip through the @nytimes archives reveals stories about ""triddlybits"" and other Aussie slang, along with the harrowing…",2018-06-29,2018-06-29 06:00:50-04:00,0.0,0.0,1.0,0.0
+409,The New York Times,"A far-right group planned to kill veiled women, imams and recently released Islamist prisoners, and wanted to attac… https://t.co/Y6XU0IazwQ",2018-06-29,2018-06-29 05:46:06-04:00,-0.8402,0.333,0.667,0.0
+410,The New York Times,"European leaders agreed to establish voluntary screening centers for migrants on European soil, to ease the burden… https://t.co/wTBWSpuwm9",2018-06-29,2018-06-29 05:31:06-04:00,0.5574,0.0,0.777,0.223
+411,The New York Times,"The suspect in the Annapolis newsroom shooting had previously made ""general threats"" on social media against the ne… https://t.co/18W7bGdLWU",2018-06-29,2018-06-29 05:15:02-04:00,-0.6124,0.227,0.773,0.0
+412,The New York Times,"Inside the campaign to get Justice Kennedy to retire: strategic praise, assurances his legacy would remain intact a… https://t.co/UBRsaQ2t9F",2018-06-29,2018-06-29 05:00:12-04:00,0.8807,0.0,0.573,0.427
+413,The New York Times,Some women who worked at the United Nations said they were accused of being overly emotional when they tried to rep… https://t.co/zS7zYLs62i,2018-06-29,2018-06-29 04:30:11-04:00,0.296,0.086,0.742,0.172
+414,The New York Times,A guide to some of the biggest blockchain projects outside of Bitcoin https://t.co/K23DMlNvz5,2018-06-29,2018-06-29 04:20:24-04:00,0.0,0.0,1.0,0.0
+415,The New York Times,"Inside the campaign to get Justice Kennedy to retire: strategic praise, assurances his legacy would remain intact a… https://t.co/YMYgXzCRl4",2018-06-29,2018-06-29 04:02:03-04:00,0.8807,0.0,0.573,0.427
+416,The New York Times,The nation of Ambazonia doesn't officially exist. But a violent battle over attempts to create it in English-speaki… https://t.co/hnVeOzWQqm,2018-06-29,2018-06-29 03:47:03-04:00,-0.6597,0.275,0.636,0.089
+417,The New York Times,The identity of a London jogger who pushed a woman into the path of a bus will most likely remain a mystery as the… https://t.co/YVptFudPLY,2018-06-29,2018-06-29 03:32:02-04:00,0.0,0.0,1.0,0.0
+418,The New York Times,"RT @nytgraphics: The paradox of Europe’s migration crisis:
+The actual number of arriving migrants is down to its pre-2015 level, but the po…",2018-06-29,2018-06-29 03:17:01-04:00,-0.3818,0.151,0.803,0.046
+419,The New York Times,Defense Secretary Jim Mattis reaffirmed a commitment to South Korea amid moves to halt North Korea's nuclear ambiti… https://t.co/UiyNfKUTku,2018-06-29,2018-06-29 03:02:08-04:00,0.4767,0.0,0.796,0.204
+420,The New York Times,"RT @nytimesworld: The Chinese Communist Party is deeply worried about the ""ideological purity"" of university students, who have only a fain…",2018-06-29,2018-06-29 02:32:03-04:00,0.0534,0.107,0.776,0.116
+421,The New York Times,"RT @samdolnick: Here we go! Come work on the new @nytimes TV news show, The Weekly. We’ll be on the ground all over the world, telling the…",2018-06-29,2018-06-29 02:16:24-04:00,0.0,0.0,1.0,0.0
+422,The New York Times,"How long can humans live? The limit hasn't been reached, a study finds. https://t.co/HuRypbzmmr",2018-06-29,2018-06-29 01:59:52-04:00,-0.0762,0.097,0.903,0.0
+423,The New York Times,"RT @nytopinion: Many men on Twitter viewed my Ph.D. not as a sign of expertise but as a provocation, a pretension, says @bairdjulia https:/…",2018-06-29,2018-06-29 01:42:05-04:00,0.0,0.0,1.0,0.0
+424,The New York Times,"We’re looking for stories about sex that was troubling or awkward, hilarious or profound. Leave us a voicemail shar… https://t.co/hVmSdaFuZ8",2018-06-29,2018-06-29 01:27:04-04:00,-0.3818,0.263,0.625,0.113
+425,The New York Times,World Cup 2018 bracket: The 16 teams left and the schedule for the knockout stage https://t.co/FMD1Z5ivZj,2018-06-29,2018-06-29 01:08:04-04:00,0.0,0.0,1.0,0.0
+426,The New York Times,"Gerald Fischman
+Rob Hiaasen 
+John McNamara 
+Rebecca Smith
+Wendi Winters 
 
-It last reached a price of $430,000 in 2017.… https://t.co/KuCJPV8Kr6",2018-06-23,-0.3818,0.147,0.784,0.069
-279,CNN,A Japanese employee has been docked half a day's pay for repeatedly leaving his desk a few minutes early to eat lun… https://t.co/Gh9jLimaBj,2018-06-23,-0.1027,0.069,0.931,0.0
-280,CNN,"First, it was a small bump under her left eye. Five days later, it appeared above the eye. Her upper lip was bulgin… https://t.co/jjMrxLrRaB",2018-06-23,0.0,0.0,1.0,0.0
-281,CNN,"Game of Thrones stars Kit Harington and Rose Leslie are married
-https://t.co/FN5RiE4Wy2 https://t.co/pc7aR806nX",2018-06-23,0.0,0.0,1.0,0.0
-282,CNN,T-shirt makers are riffing on Melania Trump's jacket and donating the proceeds to refugee services… https://t.co/4fw7Ftm4yz,2018-06-23,0.0,0.0,1.0,0.0
-283,CNN,Time magazine stands by illustration of crying girl next to Trump amid backlash https://t.co/BgCT6Itl7M https://t.co/c3I9TJNNZe,2018-06-23,-0.4767,0.181,0.819,0.0
-284,CNN,The Department of Homeland Security stood by the decision to end the Deferred Action for Childhood Arrivals program… https://t.co/yoreoWhsjY,2018-06-23,0.34,0.0,0.882,0.118
-285,CNN,"Protesters briefly block a bus from leaving a Texas detention center in McAllen, Texas. https://t.co/tJdjXadYU4 https://t.co/cYkj1hOoZP",2018-06-23,-0.743,0.399,0.601,0.0
-286,CNN,"Koko, the gorilla who mastered sign language, died this week in her sleep at age 46, The Gorilla Foundation says. S… https://t.co/u8Xfalu2ls",2018-06-23,-0.5574,0.146,0.854,0.0
-287,CNN,JUST IN: Women in Saudi Arabia can now legally get behind the wheel of a car as the kingdom lifts its longstanding… https://t.co/PdMTYm52D0,2018-06-23,0.1027,0.0,0.938,0.062
-288,CNN,"How soybeans -- yes, soybeans -- could impact the midterm elections https://t.co/0ToHLQcRAV https://t.co/VhDhLj2KT8",2018-06-23,0.4019,0.0,0.816,0.184
-289,CNN,"""Welcome to America"": TIME magazine announced its new cover this week that shows President Trump and the two-year-o… https://t.co/P48zkdXmcs",2018-06-23,0.4588,0.0,0.857,0.143
-290,CNN,"Thousands of people marched Saturday through central London on the second anniversary of the Brexit referendum, dem… https://t.co/XuqmytD3yW",2018-06-23,0.0,0.0,1.0,0.0
-291,CNN,Trump's go-it-alone immigration strategy ends in chaos and confusion https://t.co/5jzmSEZALB https://t.co/UPH46ywmnA,2018-06-23,-0.7096,0.396,0.604,0.0
-292,CNN,"Protesters angry over the death of unarmed teen Antwon Rose, who was shot by police this week, marched for the thir… https://t.co/44Q55WGtHK",2018-06-23,-0.8442,0.324,0.676,0.0
-293,CNN,South Carolina congressional candidate Katie Arrington is in the hospital with serious injuries after being involve… https://t.co/an8CPHKQ5R,2018-06-23,-0.0772,0.075,0.925,0.0
-294,CNN,"RT @CNNnewsroom: There is ""zero"" proof that separated families have been reunified, says Democratic Rep. Jackie Speier https://t.co/HAFPXPA…",2018-06-23,0.0,0.0,1.0,0.0
-295,CNN,"Not long after President Trump signed an order to stop separating children from parents at the border, cautious rel… https://t.co/zyGHRliqJd",2018-06-23,-0.3818,0.167,0.833,0.0
-296,CNN,Zimbabwe blast rocks stadium in an apparent assassination attempt on President Emmerson Mnangagwa… https://t.co/Q2zbZXDhWB,2018-06-23,-0.5994,0.231,0.769,0.0
-297,CNN,Canada becomes the second nation in the world to legalize marijuana https://t.co/iTN2V4CEVM https://t.co/OlQ8gUQVFO,2018-06-23,0.0,0.0,1.0,0.0
-298,CNN,"American Outdoor Brands, the gun maker that owns the iconic Smith &amp; Wesson line of firearms, reported plunging sale… https://t.co/PAKQJHxBfZ",2018-06-23,-0.34,0.112,0.888,0.0
-299,CNN,"First, it was a small bump under her left eye. Five days later, it appeared above the eye. Her upper lip was bulgin… https://t.co/rUpZy6ibeA",2018-06-23,0.0,0.0,1.0,0.0
-300,Fox News,Dollywood sued for $2 million by mom who injured spinal cord on water park ride https://t.co/I4Tma6JOgM,2018-06-24,-0.4019,0.153,0.847,0.0
-301,Fox News,Explosion destroys building in Germany; 25 injured https://t.co/08i6GJOFhu https://t.co/FCdRMG5Di5,2018-06-24,-0.743,0.474,0.526,0.0
-302,Fox News,Red Hen eateries feel the heat after Sarah Sanders booted from Virginia restaurant with same name https://t.co/mCv5f61m8t,2018-06-24,0.0,0.0,1.0,0.0
-303,Fox News,"Sarah Sanders booted so restaurant could uphold 'certain standards,' co-owner says: report https://t.co/AAw9zwQ2R4",2018-06-24,0.2732,0.0,0.851,0.149
-304,Fox News,"RT @EricShawnTV: I anchor @FoxNews at 4pm EDT with @ArthelNeville: FBI official Peter Strozk's anti @POTUS @realDonaldTrump texts are ""deva…",2018-06-24,-0.3182,0.113,0.887,0.0
-305,Fox News,.@MichelleObama says her memoir is a 're-humanization' effort https://t.co/cjEWqcubKU,2018-06-24,0.0,0.0,1.0,0.0
-306,Fox News,"Fox News presents the moving story of Dr. Krauthammer’s life: ""Charles Krauthammer: His Words"" – Tonight at 8p ET. https://t.co/1erdyE7aQo",2018-06-24,0.0,0.0,1.0,0.0
-307,Fox News,.@RepRussell: “Let’s fix legal immigration and let’s secure our border.” https://t.co/HjIAHIta4Z,2018-06-24,0.4404,0.0,0.698,0.302
-308,Fox News,Charles Krauthammer laid to rest today https://t.co/RU8AZ45fpd,2018-06-24,0.0,0.0,1.0,0.0
-309,Fox News,'Free like a bird': Saudi women start driving as longstanding ban ends https://t.co/HeD1vbhKjI https://t.co/yWBKEingiS,2018-06-24,0.296,0.186,0.515,0.299
-310,Fox News,"TONIGHT: Don't miss @TheRealJohnHCox, @HeyTammyBruce, @TezlynFigaro, and Shelby Steele from @HooverInst on… https://t.co/CtofPiZDub",2018-06-24,0.1139,0.0,0.893,0.107
-311,Fox News,"‘Despair and Hope in America: Fox News Investigates’ – Don't miss part three of this special series on ‘Fox Report,… https://t.co/9fS86JrGLn",2018-06-24,0.7557,0.0,0.695,0.305
-312,Fox News,".@RepArrington: “We need to keep the families together, that’s why Congress has to act. The president is doing what… https://t.co/7Kn0aM5XPO",2018-06-24,0.0,0.0,1.0,0.0
-313,Fox News,".@RepArrington: “Ultimately, it’s on Congress to fix our broken immigration process.” https://t.co/J65tCzLdBO",2018-06-24,-0.4767,0.22,0.78,0.0
-314,Fox News,Thousands protest amid immigration confusion; @Jeff_Journalist reports https://t.co/QPpugxRGmh,2018-06-24,-0.4939,0.412,0.588,0.0
-315,Fox News,BEAUTIFUL: A mother is brought to tears of joy when her one-year-old daughter reacts to hearing sound for the first… https://t.co/dxcKIYlpnY,2018-06-24,0.8192,0.07,0.622,0.309
-316,Fox News,.@HowardKurtz on the legacy of Charles Krauthammer https://t.co/Q6UvwAgj6V,2018-06-24,0.0,0.0,1.0,0.0
-317,Fox News,US Navy IDs pilot killed in crash at New Mexico Air Force base https://t.co/R9MVCOsbIc,2018-06-24,-0.802,0.375,0.625,0.0
-318,Fox News,New video shows woman trying to resist YouTube stunt that killed boyfriend https://t.co/keSpcaNu0T,2018-06-24,-0.6705,0.273,0.727,0.0
-319,Fox News,"Fox News presents the moving story of Dr. Krauthammer’s life: ""Charles Krauthammer: His Words"" – Tonight at 8p ET. https://t.co/IKYWaHI0wV",2018-06-24,0.0,0.0,1.0,0.0
-320,Fox News,"Veteran's small business is gifted $15,000 worth of lawn equipment after his gear is stolen https://t.co/xwWUPZrH91",2018-06-24,-0.3182,0.168,0.733,0.099
-321,Fox News,"Rabbi Evan Moffic: “If we can’t share a meal together, if we can’t take a picture together and break bread together… https://t.co/qlh8sJhlL7",2018-06-24,0.296,0.0,0.896,0.104
-322,Fox News,Report: North Korea Erasing Anti-U.S. Propaganda https://t.co/4lcyis6cKq,2018-06-24,-0.25,0.25,0.75,0.0
-323,Fox News,U.S. Army Honors Country Music Singer With Civilian Service Medal https://t.co/vbzDjadNA8,2018-06-24,0.7506,0.0,0.584,0.416
-324,Fox News,McCaul optimistic immigration bill will pass House despite Trump's lament about 'wasting time' https://t.co/0x7tqjg2sF,2018-06-24,0.2686,0.146,0.595,0.259
-325,Fox News,.@RepPeteKing: “I am totally opposed to sanctuary cities but under Bob Goodlatte’s bill it would’ve cut off funding… https://t.co/sKdUrD2RHj,2018-06-24,-0.3919,0.128,0.872,0.0
-326,Fox News,".@RepGoodlatte: “People are figuring out the loopholes, we’ve got to close those.” #SundayFutures @MariaBartiromo https://t.co/VLu7HuyJTl",2018-06-24,0.0,0.0,1.0,0.0
-327,Fox News,TONIGHT: Don’t miss “Fox Report with Jon Scott” at 6p ET on Fox News Channel! @JonScottFNC https://t.co/5CDPopdFQ1,2018-06-24,-0.2244,0.106,0.894,0.0
-328,Fox News,".@RepGoodlatte: “There have been questions raised about the special counsel, but I have always said that they shoul… https://t.co/Mwnie27QTv",2018-06-24,0.2144,0.0,0.902,0.098
-329,Fox News,Woman dubbed '#PermitPatty' appears to call cops on 8-year-old girl selling water in viral video https://t.co/w6H6DSnu3K,2018-06-24,0.0,0.0,1.0,0.0
-330,Fox News,"TONIGHT: Don't miss ""Life, Liberty, &amp; Levin"" with @marklevinshow - Tune in at 10p ET on Fox News Channel! https://t.co/Z3yYi0I1kG",2018-06-24,-0.3867,0.143,0.79,0.067
-331,Fox News,Maldives resorts fed up with Instagram models requesting free stays https://t.co/6fomUHtcTe,2018-06-24,0.5106,0.0,0.752,0.248
-332,Fox News,Eggo waffle sales are dwindling during ‘Stranger Things’ hiatus https://t.co/MOvQzml5bL,2018-06-24,0.0,0.0,1.0,0.0
-333,Fox News,"RT @FoxNewsSunday: .@RepMcCaul suggests ""zero tolerance"" policy may be revisited: ""It’s very unclear how this executive order's playing out…",2018-06-24,0.1796,0.103,0.718,0.179
-334,Fox News,U.S. Army Honors Country Star @cmorganmusic https://t.co/SCEJioC8Ri,2018-06-24,0.5106,0.0,0.645,0.355
-335,Fox News,Michelle Obama says her memoir is a 're-humanization' effort https://t.co/cjEWqcubKU,2018-06-24,0.0,0.0,1.0,0.0
-336,Fox News,RT @FoxBusiness: Sam Adams teams to support veteran-owned small businesses https://t.co/WAccGlFt2c,2018-06-24,0.4019,0.0,0.787,0.213
-337,Fox News,Charles Krauthammer to be laid to rest today https://t.co/xCL2PcxoFn https://t.co/qQ6o1fRAIM,2018-06-24,0.0,0.0,1.0,0.0
-338,Fox News,'Fixer Upper' stars Chip and Joanna Gaines welcome baby No. 5 https://t.co/J3Qef9MBrA,2018-06-24,0.2023,0.155,0.634,0.211
-339,Fox News,"Michael Malice: “I think if they are starting to take down anti-U.S. propaganda, this would be a major step towards… https://t.co/hlsi6wZeTX",2018-06-24,-0.25,0.095,0.905,0.0
-340,Fox News,"Rabbi Evan Moffic: “If we can’t share a meal together, if we can’t take a picture together and break bread together… https://t.co/Wq7PUhdZB5",2018-06-24,0.296,0.0,0.896,0.104
-341,Fox News,'Free like a bird': Saudi women start driving as longstanding ban ends https://t.co/HeD1vbhKjI,2018-06-24,0.296,0.196,0.489,0.315
-342,Fox News,Priest suspended after viral video shows him slapping baby during baptism https://t.co/m2Dvr3GP0w,2018-06-24,-0.4767,0.22,0.78,0.0
-343,Fox News,"‘Despair and Hope in America: Fox News Investigates’ – Don't miss part three of this special series on ‘Fox Report,… https://t.co/2Pg8SxPlsp",2018-06-24,0.7557,0.0,0.695,0.305
-344,Fox News,"Sarah Sanders booted so restaurant could uphold 'certain standards,' co-owner says: report https://t.co/AAw9zwQ2R4",2018-06-24,0.2732,0.0,0.851,0.149
-345,Fox News,Cop killer who murdered New York police officer in 1973 granted parole https://t.co/sXmCUKqko1,2018-06-24,-0.8271,0.42,0.483,0.097
-346,Fox News,Alligator goes for a swim at Florida beach https://t.co/v764I8DRNP,2018-06-24,0.0,0.0,1.0,0.0
-347,Fox News,TODAY: Don't miss @RepMcCaul's exclusive interview on @FoxNewsSunday. Check your local listings and tune in to Fox… https://t.co/K9zumNTkf9,2018-06-24,0.0191,0.073,0.85,0.077
-348,Fox News,"Veteran's small business is gifted $15,000 worth of lawn equipment after his gear is stolen https://t.co/xwWUPZa6ht",2018-06-24,-0.3182,0.168,0.733,0.099
-349,Fox News,Explosion destroys building in Germany; 25 injured https://t.co/08i6GJOFhu,2018-06-24,-0.743,0.512,0.488,0.0
-350,Fox News,World's Ugliest Dog title goes to English bulldog named Zsa Zsa https://t.co/ULzFTGFgc1,2018-06-24,-0.5859,0.257,0.743,0.0
-351,Fox News,.@henrymcmaster: “We’re pulling for her. Katie… she’s a real fighter.” https://t.co/LF1KRUe30M https://t.co/SUVaFiqatJ,2018-06-24,0.0,0.0,1.0,0.0
-352,Fox News,"Fox News presents the moving story of Dr. Krauthammer’s life: ""Charles Krauthammer: His Words"" – Tonight at 8p ET. https://t.co/DNuFs4zD3c",2018-06-24,0.0,0.0,1.0,0.0
-353,Fox News,Saudi women are now driving as longstanding ban ends https://t.co/l96yWpjWDn https://t.co/ocG39vPi8Z,2018-06-24,-0.5574,0.265,0.735,0.0
-354,Fox News,Richard Slider on meeting with @POTUS at economic roundtable: “We were honored and privileged to be there with the… https://t.co/vAKI1tGcjV,2018-06-24,0.7717,0.0,0.729,0.271
-355,Fox News,Report: North Korea Erasing Anti-U.S. Propaganda https://t.co/rTb4PWRn88,2018-06-24,-0.25,0.25,0.75,0.0
-356,Fox News,President @realDonaldTrump backs @SenDeanHeller in Nevada https://t.co/4cqCOgKcoe,2018-06-24,-0.0516,0.167,0.833,0.0
-357,Fox News,"'No Way, Man': @Sethrogen Says He Turned Down Photo With @SpeakerRyan https://t.co/VszLIf1ztI",2018-06-24,-0.296,0.167,0.833,0.0
-358,Fox News,.@jasoninthehouse: “The democrats have embraced the principles of the resistance movement. It’s about a scorched ea… https://t.co/OrQz7kcTyf,2018-06-24,0.0,0.0,1.0,0.0
-359,Fox News,"Katie Arrington, who ousted Rep. Mark Sanford in primary, seriously injured in car crash https://t.co/ZtIXojLN0x https://t.co/MEEmCK7WFn",2018-06-24,-0.7269,0.353,0.647,0.0
-360,Fox News,Protesters heckle Florida AG Pam Bondi outside showing of Mr. Rogers documentary https://t.co/7BSyxGjHvr,2018-06-24,-0.2263,0.137,0.863,0.0
-361,Fox News,Gunman dead after 2 cops shot in San Diego standoff; 1 officer reported clinging to life https://t.co/25Kjutc8Y7,2018-06-24,-0.6486,0.235,0.765,0.0
-362,Fox News,OPINION: Turkish elections Sunday will create a problem for the world - a re-elected President Erdogan https://t.co/GjjYJYbTiT,2018-06-24,-0.1531,0.161,0.714,0.125
-363,Fox News,Virginia city votes to remove Jefferson Davis' name from highway https://t.co/UJaxOHYSPS,2018-06-24,0.0,0.0,1.0,0.0
-364,Fox News,"Female Pakistani pilots ace ‘very challenging’ flight, win praise on Twitter https://t.co/CdoB3JGqVr",2018-06-24,0.8126,0.0,0.575,0.425
-365,Fox News,".@seanspicer: “If we as Americans, if we as a society can’t talk to each other, if we can’t engage in civil discour… https://t.co/DEfwYKZcsl",2018-06-24,0.34,0.0,0.897,0.103
-366,Fox News,TODAY: Don't miss former Homeland Security Secretary Jeh Johnson's exclusive interview on @FoxNewsSunday. Check you… https://t.co/n68TOsZWRq,2018-06-24,0.5178,0.0,0.709,0.291
-367,Fox News,Woman detained in US for 2 weeks after accidentally jogging across Canada border https://t.co/HvGv9GEBfN,2018-06-24,-0.6249,0.317,0.683,0.0
-368,Fox News,Employees call on Amazon to cut ties with ICE https://t.co/ZhWUdnJ5KA,2018-06-24,-0.1027,0.178,0.678,0.144
-369,Fox News,Astronaut Ricky Arnold snaps a selfie from the International Space Station. https://t.co/UjiK8QSU80,2018-06-24,0.0,0.0,1.0,0.0
-370,Fox News,".@POTUS: ""The news back there - fake news."" https://t.co/22KdrLP0ix",2018-06-24,-0.4767,0.307,0.693,0.0
-371,Fox News,US Navy IDs pilot killed in crash at New Mexico Air Force base https://t.co/R9MVCOsbIc,2018-06-24,-0.802,0.375,0.625,0.0
-372,Fox News,".@DanPatrick: ""We have 30 border crossings with Mexico and Texas, where you can come up to the crossing if you were… https://t.co/6Q1vutHCjE",2018-06-24,0.0,0.0,1.0,0.0
-373,Fox News,".@POTUS on North Korea: ""You haven't had a rocket or tests in 7 months, 8 months, long time now. It used to be ever… https://t.co/3Fw0AuQ4Ab",2018-06-24,0.0,0.0,1.0,0.0
-374,Fox News,Longtime Tennessee Vols broadcaster John Ward dies at 88 https://t.co/hSmoXdzYCd,2018-06-24,0.0,0.0,1.0,0.0
-375,Fox News,Online photos of families being separated is causing migrants to think twice before crossing the border. William La… https://t.co/AjMGPl8Npe,2018-06-24,0.0,0.0,1.0,0.0
-376,Fox News,"A woman in Saudi Arabia drives her car for the first time through the capital's streets just minutes into Sunday, J… https://t.co/ntKzKsx4H5",2018-06-24,0.0,0.0,1.0,0.0
-377,Fox News,".@SenSanders' income tops $1M for second year in row, reports say https://t.co/ZaDbJDpozZ",2018-06-24,0.5106,0.0,0.769,0.231
-378,Fox News,Manuel Padilla: “This administration has been pushing for two main things: the first one is border security and the… https://t.co/HgER9R7AEO,2018-06-24,0.34,0.0,0.888,0.112
-379,Fox News,"On @foxandfriends, former @WhiteHouse Press Secretary @seanspicer commented on @Sethrogen's claim that he recently… https://t.co/dknyXQ98KQ",2018-06-24,0.0,0.0,1.0,0.0
-380,Fox News,.@AlanDersh: “I think the inspector general’s report shows us that we can get to the bottom of things without using… https://t.co/RRb0JugNJM,2018-06-24,0.0,0.0,1.0,0.0
-381,Fox News,A Florida sheriff's deputy reunites with a 3-year-old girl that he rescued after her mother allegedly left her alon… https://t.co/WhEKX6umRG,2018-06-24,0.4215,0.0,0.859,0.141
-382,Fox News,".@POTUS: ""Nobody fought harder to cut taxes than @DeanHeller."" https://t.co/QUyRVyQkRF",2018-06-24,-0.5267,0.355,0.645,0.0
-383,Fox News,"On this day in 1942, Prime Minister Winston Churchill of Great Britain watched the United States Army Paratroops fl… https://t.co/V8lAHXcjtG",2018-06-24,0.7845,0.0,0.723,0.277
-384,Fox News,"""The guy shouldn't have been there and we had many opportunities to get him out.""
+https://t.co/CxcAEaefWn",2018-06-29,2018-06-29 00:52:01-04:00,-0.5574,0.265,0.735,0.0
+427,The New York Times,Germany’s Great Unraveling https://t.co/u0T0KM35Mr,2018-06-29,2018-06-29 00:44:46-04:00,0.6249,0.0,0.423,0.577
+428,The New York Times,RT @daiwaka: California passes the most comprehensive privacy law in the US. Tech hated it but didn’t block it. Some privacy advocates feel…,2018-06-29,2018-06-29 00:32:05-04:00,-0.7007,0.23,0.712,0.059
+429,The New York Times,"Who Is Jarrod Ramos, the Suspect in the Annapolis Newsroom Shooting? https://t.co/cwRljeawHZ",2018-06-29,2018-06-29 00:29:50-04:00,-0.296,0.167,0.833,0.0
+430,The New York Times,The Victims of the Capital Gazette Newsroom Shooting https://t.co/pCac5Dy2gG,2018-06-29,2018-06-29 00:15:03-04:00,-0.3182,0.223,0.777,0.0
+431,The New York Times,"As Oumuamua passed through our solar system, something other than gravity was pushing the object away from the sun https://t.co/1Rv7qqqYuc",2018-06-29,2018-06-29 00:02:02-04:00,0.0,0.0,1.0,0.0
+432,The New York Times,"Far-Right Cell Plotted Attack on French Muslims, Authorities Say https://t.co/NmAeJO5T0I",2018-06-29,2018-06-29 00:00:29-04:00,-0.4767,0.256,0.744,0.0
+433,The New York Times,"Option A: Take in the music, art and beautiful people at MoMA PS1 Warm Up. 
+Option B: Watch films about New York wo… https://t.co/0T1vGX8cty",2018-06-28,2018-06-28 23:47:04-04:00,0.7003,0.0,0.791,0.209
+434,The New York Times,"South Korea Must Offer Alternatives to Military Draft, Court Rules https://t.co/IR7JaoXJvJ",2018-06-28,2018-06-28 23:36:30-04:00,0.0,0.0,1.0,0.0
+435,The New York Times,"Going public and saying #MeToo meant sleepless nights and tense discussions. Yet for these 20 people, there were fe… https://t.co/lbdwTeG7ve",2018-06-28,2018-06-28 23:32:04-04:00,-0.34,0.112,0.888,0.0
+436,The New York Times,"RT @StacyCowley: “Navient’s loan servicing abuses have compounded the misery of parents and students who sacrificed to pay for college,” ⁦@…",2018-06-28,2018-06-28 23:17:04-04:00,-0.8271,0.326,0.674,0.0
+437,The New York Times,A new vaccine appears to have helped bring an Ebola outbreak to a rapid close https://t.co/9v7PHVcNC8,2018-06-28,2018-06-28 23:02:05-04:00,0.0,0.0,1.0,0.0
+438,The New York Times,A break-in and fire at an animal sanctuary killed 43 alligators and crocodiles. One exceptionally rare white alliga… https://t.co/xehd2azz7J,2018-06-28,2018-06-28 22:47:04-04:00,-0.7845,0.301,0.699,0.0
+439,The New York Times,"RT @nytimesbusiness: The Fed dealt an embarrassing blow to Goldman Sachs and Morgan Stanley, who were given “conditional approval” to retur…",2018-06-28,2018-06-28 22:41:01-04:00,-0.3818,0.115,0.885,0.0
+440,The New York Times,Joseph Crowley may have been the last powerful party boss in a city once defined by them. Here's how his primary de… https://t.co/Ob5xHLMHKJ,2018-06-28,2018-06-28 22:25:05-04:00,0.6705,0.0,0.784,0.216
+441,The New York Times,"The Capital Gazette shooting suspect had long fought the organization, accusing it of damaging his reputation and i… https://t.co/AnUpnWBicp",2018-06-28,2018-06-28 22:20:04-04:00,-0.8176,0.388,0.612,0.0
+442,The New York Times,"RT @juliebosman: The reunion I saw in Chicago today: Diogo, his eyes downcast, when he recalled his weeks spent at the shelter here. “I cri…",2018-06-28,2018-06-28 22:17:02-04:00,-0.4215,0.109,0.891,0.0
+443,The New York Times,A former lawyer for ICE was sentenced to 4 years in prison for stealing the identities of 7 people in immigration p… https://t.co/9a7Oj1EUkJ,2018-06-28,2018-06-28 22:02:02-04:00,-0.7964,0.323,0.677,0.0
+444,The New York Times,"Inside the campaign to get Justice Kennedy to retire: strategic praise, assurances his legacy would remain intact a… https://t.co/mJd0yQ9LFk",2018-06-28,2018-06-28 21:47:05-04:00,0.8807,0.0,0.573,0.427
+445,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/d3h63uIT9Z,2018-06-28,2018-06-28 21:32:06-04:00,0.0,0.0,1.0,0.0
+446,The New York Times,"RT @jodikantor: Coming forward about harassment, abuse or assault is often terrifying.
 
-At a @WhiteHouse event with… https://t.co/vj30FZtsbh",2018-06-24,0.3818,0.0,0.88,0.12
-385,Fox News,'Sounds Like @realDonaldTrump': @GaryKaltbaum Calls Out @BarackObama's Immigration Views from 2005… https://t.co/ECVQlp0sTX,2018-06-24,0.3612,0.0,0.815,0.185
-386,Fox News,Child scales 'un-climbable' pool ladder in viral video https://t.co/hky2uzJHXI https://t.co/yEvw2rYFcO,2018-06-24,0.0,0.0,1.0,0.0
-387,Fox News,Rep. DeSantis: Strzok Is 'Walking Into a Buzzsaw' After Being Subpoenaed to Testify https://t.co/Ck1DHLeKeA,2018-06-24,0.0,0.0,1.0,0.0
-388,Fox News,"Crying migrant girl on @TIME magazine cover was not separated from mother, family says; @BryanLlenas reports.… https://t.co/JBOfuYtLox",2018-06-24,-0.4767,0.162,0.838,0.0
-389,Fox News,A co-owner of a restaurant that refused to serve @WhiteHouse @PressSec Sarah Sanders on Friday reportedly cited mor… https://t.co/ysvKKYgMMr,2018-06-24,-0.296,0.121,0.879,0.0
-390,Fox News,"JUST IN: Two San Diego police officers shot; suspect barricaded, report says https://t.co/25Kjutc8Y7",2018-06-24,-0.296,0.155,0.845,0.0
-391,Fox News,"Bill Maher calls out #Trump, says a recession could end his presidency https://t.co/dTzzEpsfgD",2018-06-24,-0.4215,0.203,0.797,0.0
-392,Fox News,".@POTUS: ""I don't believe any administration, any president, has come even close to doing what we've done in the fi… https://t.co/Yb0Zc4VNeR",2018-06-24,0.0,0.0,1.0,0.0
-393,Fox News,".@POTUS: ""It's called the Democrat Party."" https://t.co/MVFZrppXiP",2018-06-24,0.0,0.0,1.0,0.0
-394,Fox News,Saudi women are now driving as longstanding ban ends https://t.co/l96yWpjWDn https://t.co/mjOgu1oHLU,2018-06-24,-0.5574,0.265,0.735,0.0
-395,Fox News,US moves 100 caskets to DMZ for service members’ remains from North Korea https://t.co/avwD2cSpVt,2018-06-24,0.0,0.0,1.0,0.0
-396,Fox News,"Border Patrol Agent Hector Garza: ""We can't have open borders."" https://t.co/xDCTRvFb5a",2018-06-24,0.0,0.0,1.0,0.0
-397,Fox News,"'Ashamed' @Comey weighs calling himself Canadian, rips @POTUS border actions during Ireland visit… https://t.co/ouLRsqPMGT",2018-06-24,0.0,0.0,1.0,0.0
-398,Fox News,"DARING: A brave deputy was called to rescue a bear trapped inside a vehicle in Carnelian Bay, California. https://t.co/3zsNx5qS3C",2018-06-24,0.7603,0.134,0.474,0.392
-399,Fox News,World's Ugliest Dog title goes to English bulldog named Zsa Zsa https://t.co/ULzFTGWR3z,2018-06-24,-0.5859,0.257,0.743,0.0
-400,The New York Times,"As school shootings mount — more than 200 have occurred since the one in Newtown, Conn., in 2012 — educators face t… https://t.co/ogUTp7iLeB",2018-06-24,0.0,0.0,1.0,0.0
-401,The New York Times,"Everyone who ever spent even a few minutes with Obama, it seems, has written a book about it https://t.co/A4k099SlVk",2018-06-24,0.0,0.0,1.0,0.0
-402,The New York Times,President Trump suggested sending people who “invade” the United States “back from where they came” without legal p… https://t.co/QB1pcQY9FX,2018-06-24,0.3464,0.065,0.803,0.132
-403,The New York Times,"Here are the week’s top stories, and a look ahead https://t.co/O9yP5DbHux",2018-06-24,0.2023,0.0,0.833,0.167
-404,The New York Times,"U.S. politicians talk a lot about the importance of families, but their policies don't match up to their words https://t.co/y9xW0GrzGr",2018-06-24,0.1901,0.0,0.911,0.089
-405,The New York Times,"Colombia, a team many thought could win the Group H, will look to rebound after losing its opener to Japan https://t.co/F28DqKpOWx",2018-06-24,0.296,0.107,0.738,0.156
-406,The New York Times,Tens of thousands of Britons opposed to the country’s withdrawal from the European Union marched through the street… https://t.co/lSR9QKbdcF,2018-06-24,0.0258,0.0,0.942,0.058
-407,The New York Times,"Under President Trump, once stately medallions have gotten glitzier, and at least one featured a Trump property https://t.co/SiId7NtLU2",2018-06-24,0.0,0.0,1.0,0.0
-408,The New York Times,"RT @NYTStyles: Every day is so wonderful
-Then suddenly 
-It's hard to breathe
-Now and then I get insecure 
-From all the pain
-I'm so ashamed…",2018-06-24,-0.1923,0.226,0.632,0.143
-409,The New York Times,"Prince William has kicked off a ""historic"" visit to the Middle East, with planned stops in Jordan, Israel and the P… https://t.co/Gpdq2TvOQ8",2018-06-24,-0.1531,0.074,0.926,0.0
-410,The New York Times,"@NYTStyles You are beautiful
-No matter what they say
-Words can't bring you down
-Oh no
-You are beautiful
-In every si… https://t.co/g75JRurQMj",2018-06-24,0.6705,0.141,0.575,0.284
-411,The New York Times,"In Opinion
+Here's what 20 women found on the other side.
 
-Op-Ed columnist @MaureenDowd writes, ""Donald and Ivanka are consumed with protecting their own brands.… https://t.co/K4qjgTQsmx",2018-06-24,0.0,0.0,1.0,0.0
-412,The New York Times,The federal government said it had reunited 522 migrant children who were separated at the border as part of Presid… https://t.co/WXpZnDyfA3,2018-06-24,0.0,0.0,1.0,0.0
-413,The New York Times,Japan takes on Senegal in a Group H match between 2 underdogs who pulled off upsets in their first games of this Wo… https://t.co/MNcWYoZR92,2018-06-24,-0.3612,0.111,0.889,0.0
-414,The New York Times,"The World’s Ugliest Dog contest is actually a celebration of the dogs, many of which were rescued from shelters or… https://t.co/dwpcORBEVR",2018-06-24,-0.25,0.154,0.732,0.114
-415,The New York Times,"Jared Kushner, President Trump’s top adviser on the Middle East, told a Palestinian newspaper that the Palestinian… https://t.co/z4lZlGAB6B",2018-06-24,0.2023,0.0,0.899,0.101
-416,The New York Times,"The first goal in England’s 6-1 rout of Panama was instructive, and in retrospect a preview of what was to come https://t.co/0jv7GWveWb",2018-06-24,0.0,0.0,1.0,0.0
-417,The New York Times,"During a visit to Nevada, President Trump delivered a message he has repeated at rallies for weeks: “We need more R… https://t.co/FE5Ytmi594",2018-06-24,0.0,0.0,1.0,0.0
-418,The New York Times,RT @patrickhealynyt: A Red Wave? Here’s some of what we do know: Trump voters have become a resilient force for 2018. The more he’s attacke…,2018-06-24,0.0,0.0,1.0,0.0
-419,The New York Times,"RT @nytvideo: What does an election look like when democracy’s very survival is in question? To find out, we came to Turkey, where Presiden…",2018-06-24,0.3612,0.0,0.902,0.098
-420,The New York Times,@nytimesbusiness @nytimesworld @NYTNational @NYTStyles @NYTMetro Amid shifting global terrain for the LGBTQ communi… https://t.co/zdYgVnFsUD,2018-06-24,0.0,0.0,1.0,0.0
-421,The New York Times,"@NYTStyles @NYTMetro The nature of Pride has changed as well. In 2018, The Times has been telling stories of how qu… https://t.co/WJMCDn1vUf",2018-06-24,0.5423,0.0,0.816,0.184
-422,The New York Times,The word “gay” was banned from The Times five years later — because of an article that upset the publisher's 82-yea… https://t.co/FGwAtPcQmL,2018-06-24,-0.6808,0.228,0.772,0.0
-423,The New York Times,"New York City’s annual Pride parade, which takes place today, got its start in 1970, a year after the Stonewall rio… https://t.co/oynpIV417d",2018-06-24,0.34,0.0,0.893,0.107
-424,The New York Times,How big a deal is a trade war with China? It depends very much on which products you are talking about. https://t.co/JuL5YbaWam,2018-06-24,-0.5994,0.17,0.83,0.0
-425,The New York Times,"RT @nytlizrobbins: Inside a New York state-regulated facility for young immigrants, some recently separated from their parents at the borde…",2018-06-24,0.0,0.0,1.0,0.0
-426,The New York Times,"A new pattern of behavior in domestic abuse cases is tied to smart home technology. Internet-connected locks, speak… https://t.co/JHPHPriX5r",2018-06-24,-0.3612,0.183,0.699,0.118
-427,The New York Times,The ABCs of L.G.B.T.Q.I.A.+ https://t.co/ztSIXxTlL8,2018-06-24,0.0,0.0,1.0,0.0
-428,The New York Times,"5 years ago, the Supreme Court struck down a key part of the Voting Rights Act. Since then, it's become harder to v… https://t.co/7B6xAbFF9D",2018-06-24,0.3818,0.078,0.781,0.141
-429,The New York Times,England vs. Panama: World Cup 2018 Live https://t.co/NJdB4CvONd,2018-06-24,0.0,0.0,1.0,0.0
-430,The New York Times,"RT @abbygoodnough: She treats diabetes, rashes, strep throat - and opioid addiction. The country needs many more doctors like her. https://…",2018-06-24,0.4173,0.0,0.872,0.128
-431,The New York Times,"75% of Americans say immigration is good for the nation, the most to say so since at least 2001, according to a new… https://t.co/VnJwL8aZss",2018-06-24,0.4404,0.0,0.884,0.116
-432,The New York Times,"As the numbers show, there is a stark disconnect between Trump's border rhetoric and the reality of life in border… https://t.co/HhaRSRU3Hq",2018-06-24,0.0,0.0,1.0,0.0
-433,The New York Times,"A Space Force? The Idea May Have Merit, Some Say https://t.co/bJMjH70Wfz",2018-06-24,0.4215,0.0,0.763,0.237
-434,The New York Times,Travel Tips: 5 Tips to Enjoy a Tween- and Teen-Friendly Vacation https://t.co/lCufX0BWQ1,2018-06-24,0.4939,0.0,0.738,0.262
-435,The New York Times,"""That’s what I do, is deals,"" President Trump said one day last month. Except that so far he has not. https://t.co/sdOOsqy3MW",2018-06-24,0.0,0.0,1.0,0.0
-436,The New York Times,"Trump voters have become a resilient force for the midterms. They leap to his defense, they say, because criticism… https://t.co/STaUp7dw68",2018-06-24,0.128,0.0,0.923,0.077
-437,The New York Times,RT @NYTFashion: Now THAT'S what I call sustainable fashion https://t.co/R4GH37YfpO,2018-06-24,0.0,0.0,1.0,0.0
-438,The New York Times,“We’ve seen more nonstate armed groups emerge in the last 7 years than in the previous 70 years” https://t.co/VZDCzdUeGn,2018-06-24,0.0,0.0,1.0,0.0
-439,The New York Times,Michael Jackson’s estate is developing a Broadway-bound bio-musical https://t.co/PsdtC7XUex,2018-06-24,0.0,0.0,1.0,0.0
-440,The New York Times,The Final Hours of the Iceman’s Tools https://t.co/mHvUecy4Al,2018-06-24,0.0,0.0,1.0,0.0
-441,The New York Times,Instagram will now allow videos up to an hour long https://t.co/AFIYEcBvxJ,2018-06-24,0.2263,0.0,0.84,0.16
-442,The New York Times,Jacinda Ardern is the first world leader in almost 3 decades to give birth while in office https://t.co/0kGjBzZjSv,2018-06-24,0.0,0.0,1.0,0.0
-443,The New York Times,"Nina Simone's childhood home is now a National Treasure
-https://t.co/U51a577uKM",2018-06-24,0.296,0.0,0.784,0.216
-444,The New York Times,"“And Italian Roma?"" Unfortunately we have to keep them."" https://t.co/EktnnC1d9h",2018-06-24,-0.34,0.211,0.789,0.0
-445,The New York Times,"The Warped Tour has showcased female stars over the years, including No Doubt, Katy Perry and Paramore, but its gen… https://t.co/9yscZYH4rA",2018-06-24,-0.3291,0.15,0.85,0.0
-446,The New York Times,RT @nytimesworld: Tens of thousands of anti-Brexit protesters gathered in London to demand citizens have a say in the final Brexit deal  ht…,2018-06-24,-0.34,0.145,0.855,0.0
-447,The New York Times,Why train travel is a good way to go when you're bringing your dog along https://t.co/BX4yEWnI1x https://t.co/bEXighUTO1,2018-06-24,0.4404,0.0,0.838,0.162
-448,The New York Times,How Apple’s Tim Cook became tech’s top diplomat https://t.co/fVIKblQtdX https://t.co/3OnD0OH5Sy,2018-06-24,0.2023,0.0,0.833,0.167
-449,The New York Times,"The World Cup fans descended on Volgograd, Russia. Then the bugs descended on them. https://t.co/6ozvd28Mtf",2018-06-24,0.0,0.0,1.0,0.0
-450,The New York Times,RT @Neil_Irwin: What does a trade war with China mean in practical terms? It depends a lot on the microeconomics of each particular product…,2018-06-24,-0.5994,0.157,0.843,0.0
-451,The New York Times,"RT @nytimesworld: Kim Jong-pil, who died Saturday at 92, was the last of the “Three Kims” who dominated South Korean politics for decades h…",2018-06-24,-0.5574,0.135,0.865,0.0
-452,The New York Times,The current system favors low-risk research and proposals by older scientists and white men https://t.co/wC26bswhk3,2018-06-24,0.25,0.0,0.875,0.125
-453,The New York Times,Astronomers have discovered thousands of exoplanets circling other stars within our galaxy. Is life only possible o… https://t.co/v4wzfQLnrg,2018-06-24,0.0,0.0,1.0,0.0
-454,The New York Times,Few primary care doctors are willing to do what Nicole Gastala does: treat patients who are addicted to opioid pain… https://t.co/Km6d1PJMmE,2018-06-24,0.7096,0.0,0.763,0.237
-455,The New York Times,"""YES WE ALL CARE. Y-DON’T-U.""
+http…",2018-06-28,2018-06-28 21:17:04-04:00,-0.9451,0.458,0.542,0.0
+447,The New York Times,"If you have complicated feelings about Weezer's ""El Scorcho,"" you're not alone. Here's film critic Emily Yoshida ta… https://t.co/Go4uYYe6fT",2018-06-28,2018-06-28 21:00:26-04:00,-0.0926,0.101,0.816,0.083
+448,The New York Times,"RT @jdavidgoodman: What happens when the Democratic Party boss can’t get himself re-elected?
 
-See some of the messages that people are painting and taping on their jackets in res… https://t.co/kMHsVfe0LQ",2018-06-24,0.8109,0.0,0.731,0.269
-456,The New York Times,"""I hoped I would experience this one day. But I never thought it would happen in my lifetime."" https://t.co/gsYGXOMLUz",2018-06-24,0.3818,0.0,0.86,0.14
-457,The New York Times,U.S. Government Reunites 522 Children Removed Under 'Zero Tolerance' https://t.co/VobVBA1VAL,2018-06-24,0.296,0.0,0.804,0.196
-458,The New York Times,Elizabeth Warren denounced President Trump's policies in Reno. Hours later he responded in Las Vegas with a slur. S… https://t.co/FpisO0R6E5,2018-06-24,0.0,0.0,1.0,0.0
-459,The New York Times,"-Men’s earnings increase by 6% when they become fathers
--A woman's hourly wages decrease by 4% with each child
+ https://t.co/FkvOtyCLdI https://t.co/aOUYSmf…",2018-06-28,2018-06-28 20:52:07-04:00,0.4019,0.0,0.838,0.162
+449,The New York Times,"Escaping an abusive marriage, Emma Gatewood sought refuge in the wilderness. Then she became the first woman to hik… https://t.co/XwoALyF7HT",2018-06-28,2018-06-28 20:45:02-04:00,-0.6124,0.179,0.769,0.051
+450,The New York Times,At least 19 ICE investigators are seeking to dissolve the agency https://t.co/AoTNqLcN6E,2018-06-28,2018-06-28 20:32:03-04:00,0.0,0.0,1.0,0.0
+451,The New York Times,"RT @NYTNational: Joel Davis, a 22-year-old Columbia student who drew fame with his campaign against sexual violence directed at children, h…",2018-06-28,2018-06-28 20:17:03-04:00,-0.296,0.164,0.72,0.116
+452,The New York Times,World Cup 2018 bracket: The 16 teams left and the schedule for the knockout stage https://t.co/jeUCfbqXIt,2018-06-28,2018-06-28 20:02:05-04:00,0.0,0.0,1.0,0.0
+453,The New York Times,Toni Sallie said Russell Simmons raped her in his Manhattan apartment. (Simmons has denied all instances of non-con… https://t.co/jDtiaxftQw,2018-06-28,2018-06-28 19:55:00-04:00,-0.8176,0.306,0.694,0.0
+454,The New York Times,"In 2014, he left Columbia University for an ISIS camp in Syria. It was a mistake: “I was surrounded by emptiness,”… https://t.co/b9OAnbuycL",2018-06-28,2018-06-28 19:47:02-04:00,-0.34,0.107,0.893,0.0
+455,The New York Times,The retirement of Justice Anthony Kennedy from the Supreme Court could significantly reshape environmental law in t… https://t.co/YaeX8O0uzn,2018-06-28,2018-06-28 19:32:06-04:00,0.7906,0.0,0.696,0.304
+456,The New York Times,"Abby Schachner detailed how Louis C.K. audibly masturbated during a business phone call with her, which he later ad… https://t.co/wiQGu8Smoe",2018-06-28,2018-06-28 18:58:00-04:00,0.0,0.0,1.0,0.0
+457,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/4bjEtdEv5L,2018-06-28,2018-06-28 18:47:03-04:00,0.0,0.0,1.0,0.0
+458,The New York Times,Let’s talk about what we never talk about. Leave The New York Times a voicemail with the story of a time you had a… https://t.co/1trOasmgL9,2018-06-28,2018-06-28 18:32:05-04:00,0.0382,0.0,0.95,0.05
+459,The New York Times,RT @NYTSports: The Spurs may finally be ready to let Kawhi Leonard go https://t.co/Cp7AN6P7VU by @TheSteinLine,2018-06-28,2018-06-28 18:17:02-04:00,0.3612,0.0,0.857,0.143
+460,The New York Times,So that every week can be Shark Week https://t.co/IDR1AhTkdk,2018-06-28,2018-06-28 18:00:19-04:00,0.0,0.0,1.0,0.0
+461,The New York Times,"Amazon is entering the pharmacy business. It bought an online provider and the news sent shares of CVS, Walgreens a… https://t.co/hx47S97edQ",2018-06-28,2018-06-28 17:45:04-04:00,0.4404,0.0,0.83,0.17
+462,The New York Times,Rachel Renock and her co-founders at a startup said an investor made lewd and sexist comments while offering them $… https://t.co/6V7BAFrs0Z,2018-06-28,2018-06-28 17:37:00-04:00,0.0,0.0,1.0,0.0
+463,The New York Times,Belgium has assumed the role of sexy dark horse at the World Cup. England is seen as a work in progress. Either tea… https://t.co/9oATtUh4bK,2018-06-28,2018-06-28 17:30:15-04:00,0.7351,0.0,0.772,0.228
+464,The New York Times,"A State Department report was called “an indictment of the Trump administration’s own policies, with respect to asy… https://t.co/bvcSXP91hL",2018-06-28,2018-06-28 17:20:08-04:00,0.4767,0.0,0.846,0.154
+465,The New York Times,"Tina Baker, a singer, described being raped by Russell Simmons in his Manhattan apartment. (Simmons has denied all… https://t.co/7BDz15qR2S",2018-06-28,2018-06-28 17:07:00-04:00,-0.8176,0.319,0.681,0.0
+466,The New York Times,"At least 5 people were killed in a shooting at the offices of the Capital Gazette newspaper in Maryland, the author… https://t.co/ZuqAacydt6",2018-06-28,2018-06-28 17:01:14-04:00,-0.6705,0.191,0.809,0.0
+467,The New York Times,"John Brennan, the CIA director under President Obama, is stepping out of the shadows to rail against President Trum… https://t.co/5BAcMwyHNR",2018-06-28,2018-06-28 17:00:13-04:00,0.0,0.0,1.0,0.0
+468,The New York Times,"This week, @jennydeluxe and @Wesley_Morris hand the mics over to their Asian-American friends and listeners to talk… https://t.co/5uwy1Qt2Uj",2018-06-28,2018-06-28 16:50:16-04:00,0.743,0.0,0.717,0.283
+469,The New York Times,Emma Gatewood hiking the entire Appalachian Trail by herself in one season at 67 was remarkable enough. But so is t… https://t.co/X9HjGAnhlk,2018-06-28,2018-06-28 16:40:06-04:00,0.5574,0.0,0.854,0.146
+470,The New York Times,"Breaking News: Multiple people were shot at the Capital-Gazette newspaper in Annapolis, Md., the police said https://t.co/dR8tAPh00Y",2018-06-28,2018-06-28 16:28:31-04:00,0.0,0.0,1.0,0.0
+471,The New York Times,"Kenny Sale, a model, said he was assaulted by the photographer Mario Testino, who denied any wrongdoing.
 
-(Th… https://t.co/KSiQWRXymq",2018-06-24,0.3182,0.0,0.897,0.103
-460,The New York Times,"""The kingdom has fallen. The park is gone. Welcome to the petting zoo,"" our critic A.O. Scott writes. https://t.co/KVReZSg6le",2018-06-23,-0.1531,0.195,0.678,0.127
-461,The New York Times,"For the past 3 years, she hasn’t been able to keep anything down. There’s no evidence of a parasitic infection, and… https://t.co/WqpPLPiIIX",2018-06-23,-0.296,0.104,0.896,0.0
-462,The New York Times,Elizabeth Warren Condemned Trump in Reno. He Answered in Las Vegas With a Slur. https://t.co/imWIdFqGjF,2018-06-23,-0.4404,0.182,0.818,0.0
-463,The New York Times,"This year’s list of the World’s 50 Best Restaurants was revealed in Bilbao, Spain https://t.co/1bS05P4lal",2018-06-23,0.6369,0.0,0.769,0.231
-464,The New York Times,"Scientists are desperate to solve the puzzle. If the answer isn’t found soon, then 32 years of work to end the scou… https://t.co/5k602GHJbr",2018-06-23,-0.128,0.092,0.837,0.072
-465,The New York Times,"“I’m not 20. I don’t want to be 20, but I’m really freaking cool.” Meet the grandmas of Instagram. https://t.co/dUtRWwRlvP",2018-06-23,-0.6429,0.236,0.764,0.0
-466,The New York Times,"New Zealand’s Leader, Jacinda Ardern, Introduces Baby Daughter https://t.co/nqmEnV1Nbp",2018-06-23,0.0,0.0,1.0,0.0
-467,The New York Times,"The giant sequoias of Yosemite, a “forest masterpiece,” are open for visitors again after a renovation to add walki… https://t.co/6G0a6KaLm7",2018-06-23,0.0,0.0,1.0,0.0
-468,The New York Times,"RT @patrickhealynyt: Add it up: These maps &amp; data points show Alabama’s constant determination to make voting harder for African-Americans,…",2018-06-23,0.4019,0.0,0.876,0.124
-469,The New York Times,RT @randyNYT: How New York Times editor ⁦@apchavira⁩ got the Mexican soccer team to fix spelling mistakes on their jerseys. https://t.co/hS…,2018-06-23,-0.3612,0.111,0.889,0.0
-470,The New York Times,Iraqi Political Alliance Unites a U.S. Friend and Foe https://t.co/BEJEUXqswH,2018-06-23,0.0772,0.221,0.534,0.244
-471,The New York Times,"RT @nytimesworld: “During the last few years, I discovered that I have rights that have been usurped for a very long time” https://t.co/t3q…",2018-06-23,0.0,0.0,1.0,0.0
-472,The New York Times,The Koch brothers are waging a sophisticated fight against public transit initiatives across the U.S. And they are… https://t.co/Uvk8ReTMlz,2018-06-23,0.25,0.117,0.721,0.162
-473,The New York Times,This summery recipe from Jacques Pépin couldn't be easier https://t.co/ljldp9UFUX,2018-06-23,-0.3252,0.206,0.794,0.0
-474,The New York Times,"RT @anniecorreal: Here’s what we know so far about the separated children in New York. They could represent about a third of the 2,300 chil…",2018-06-23,0.0,0.0,1.0,0.0
-475,The New York Times,A Moment to Savor: A Saudi Woman Rejoices as Driving Ban Ends https://t.co/Dc4xSW7mMY,2018-06-23,-0.128,0.229,0.573,0.197
-476,The New York Times,"""We have same-sex dance competitions; we are a lot more visible. We are more open about our sexuality and our right… https://t.co/Gugy4V4NpN",2018-06-23,0.0,0.0,1.0,0.0
-477,The New York Times,"Trump Appeals to Republicans in Las Vegas, Leaving Behind Washington’s Legislative Chaos https://t.co/YXuletoYFv",2018-06-23,-0.5719,0.236,0.764,0.0
-478,The New York Times,RT @jwpetersNYT: We did dozens of interviews across the country and found how the furor over Trump's migrant policy actually bonds him clos…,2018-06-23,0.0,0.0,1.0,0.0
-479,The New York Times,"There is compelling evidence for the idea that viruses might be involved in Alzheimer’s, particularly 2 types of he… https://t.co/9mQQSeat9S",2018-06-23,0.2263,0.0,0.905,0.095
-480,The New York Times,The Littlest Don Quixotes Versus the World https://t.co/Lp1VyFT7EC,2018-06-23,0.0,0.0,1.0,0.0
-481,The New York Times,Nonfiction: What Would Shakespeare Have Made of Donald Trump? https://t.co/Zre4hBg27B,2018-06-23,0.0,0.0,1.0,0.0
-482,The New York Times,Why does every thrift store (and their clothes) smell the same? And how do I get rid of the smell? Science to the r… https://t.co/hw2LREq6Sw,2018-06-23,0.0,0.0,1.0,0.0
-483,The New York Times,"Vinnie Paul, Pantera Drummer and Heavy Metal Innovator, Is Dead at 54 https://t.co/vj6LAcyKNx",2018-06-23,-0.6486,0.264,0.736,0.0
-484,The New York Times,Thousands of Brexit Protesters March in London on Referendum Anniversary https://t.co/RJfWJiLQmg,2018-06-23,-0.2263,0.16,0.84,0.0
-485,The New York Times,Voters in Turkey will head to the polls on Sunday in a race is proving tighter than expected for President Recep Ta… https://t.co/yTBViSoN15,2018-06-23,0.0,0.0,1.0,0.0
-486,The New York Times,Luka Doncic Feels the Burn of the Spotlight — and the Thrill https://t.co/QiCyDzRrgY,2018-06-23,0.3612,0.0,0.815,0.185
-487,The New York Times,11 great movies and TV shows that are leaving Netflix in July https://t.co/38x4mKtqXA,2018-06-23,0.6249,0.0,0.745,0.255
-488,The New York Times,Lens: Photographing Syrians Who Share an Uncertain Future https://t.co/T22qZNUw0A,2018-06-23,0.0,0.193,0.614,0.193
-489,The New York Times,His brush with death made the couple realize that tomorrow wasn't promised to either of them and their views on mar… https://t.co/iKlOEexFlF,2018-06-23,-0.7193,0.231,0.769,0.0
-490,The New York Times,You will leave “Watching Oprah” at the Smithsonian’s National Museum of African American History and Culture with a… https://t.co/hM7Z02JVRi,2018-06-23,-0.0516,0.062,0.938,0.0
-491,The New York Times,It started with a simple battery. Now Amazon is using the power of its global marketplace to steer shoppers to its… https://t.co/Fj1am4IRxf,2018-06-23,0.1779,0.0,0.922,0.078
-492,The New York Times,"Thanks to an editor at The New York Times en Español, the Mexican national team’s jerseys are finally correct https://t.co/XNJluKeiNi",2018-06-23,0.4404,0.0,0.868,0.132
-493,The New York Times,"Domestic abuse victims, their lawyers, shelter workers and emergency responders describe how smart home technology… https://t.co/e3Sxugpklz",2018-06-23,-0.7506,0.382,0.504,0.113
-494,The New York Times,"""Queer students who are openly attending proms — or organizing alternative events in safe spaces outside of school… https://t.co/DXEbImwU15",2018-06-23,0.4404,0.0,0.854,0.146
-495,The New York Times,"RT @alexburnsNYT: Big ol’ 2020 wink from Warren: Says the country needs more women in power, in board rooms and committee rooms and “that r…",2018-06-23,0.0,0.0,1.0,0.0
-496,The New York Times,Telemundo's message during the World Cup? Soccer is better in Spanish. https://t.co/IbgjYlR3Il,2018-06-23,0.4404,0.0,0.791,0.209
-497,The New York Times,"Germany saved its World Cup with one swing of Toni Kross’s right foot, snatching a 2-1 victory over Sweden https://t.co/5ljoyBYRDc",2018-06-23,0.4215,0.0,0.865,0.135
-498,The New York Times,"In @NYTOpinion 
+“People w… https://t.co/7L6qMUs4kB",2018-06-28,2018-06-28 16:24:26-04:00,-0.743,0.27,0.73,0.0
+472,The New York Times,"Kim Rubenstein alleged sexual misconduct by Gordon Edelstein, the artistic director of the Long Wharf Theater in Ne… https://t.co/NPNSb96jD1",2018-06-28,2018-06-28 16:22:00-04:00,0.0,0.0,1.0,0.0
+473,The New York Times,"“Your use of this to attack me personally is deeply wrong,” said Rod Rosenstein, who oversees the special counsel i… https://t.co/hqlzdRH2OG",2018-06-28,2018-06-28 16:15:04-04:00,-0.1027,0.125,0.766,0.109
+474,The New York Times,"Gunshots were fired at the Capital Gazette, a newspaper in Annapolis, Md., according to a police spokesman and mult… https://t.co/iDo3ZNIcBA",2018-06-28,2018-06-28 16:03:29-04:00,-0.5574,0.175,0.825,0.0
+475,The New York Times,China’s stock market has now fallen close to levels not seen since a crash shocked global investors 3 years ago https://t.co/zFFoe0opnl,2018-06-28,2018-06-28 16:00:15-04:00,-0.3699,0.208,0.694,0.098
+476,The New York Times,"Classic architecture, international cuisine, adventurous activities and serious art: This Western New York city is… https://t.co/4hIoOHa2fa",2018-06-28,2018-06-28 15:50:03-04:00,0.2732,0.073,0.791,0.136
+477,The New York Times,"Vanessa Carlton: ""It feels terrifying to speak on the record. Once you jump off the cliff and you say it, you reali… https://t.co/Jn5xIPKYYP",2018-06-28,2018-06-28 15:44:00-04:00,-0.5719,0.144,0.856,0.0
+478,The New York Times,"Another Equifax worker tried to profit off the huge data breach, the SEC says https://t.co/jxvARa4xBc",2018-06-28,2018-06-28 15:40:09-04:00,0.6369,0.0,0.714,0.286
+479,The New York Times,"In a rare legal move, French authorities have charged the cement giant Lafarge with terrorist financing and crimes… https://t.co/E7nIfk7cjC",2018-06-28,2018-06-28 15:30:07-04:00,-0.7184,0.283,0.652,0.065
+480,The New York Times,"The Supreme Court ended a bruising term on Wednesday, one marked by division, disruption and an extraordinary strin… https://t.co/pkmC0iviCK",2018-06-28,2018-06-28 15:20:04-04:00,0.2732,0.113,0.724,0.163
+481,The New York Times,"Helen Donahue, a former Vice Media employee who said a company executive groped her at a party: “It was like every… https://t.co/w5X2INrTuL",2018-06-28,2018-06-28 15:15:45-04:00,0.6369,0.0,0.766,0.234
+482,The New York Times,Karin Bruckner spoke about having the architect Richard Meier rub his body up against hers at work. (Meier later ap… https://t.co/GjZBDa3K0D,2018-06-28,2018-06-28 15:15:28-04:00,0.0,0.0,1.0,0.0
+483,The New York Times,"Our Politics editor, @patrickhealynyt, answered readers’ questions on The Times’s political coverage and plans for… https://t.co/mZkDGnkxVl",2018-06-28,2018-06-28 15:10:09-04:00,0.0,0.0,1.0,0.0
+484,The New York Times,The group stage of the 2018 World Cup is nearly over. Here is the schedule for the rest of the tournament. https://t.co/dD6jSI9PKB,2018-06-28,2018-06-28 15:00:06-04:00,0.0,0.0,1.0,0.0
+485,The New York Times,Investigators with the Department of Homeland Security made an unannounced visit to the home of a former ICE spokes… https://t.co/o7HG8DcdLm,2018-06-28,2018-06-28 14:50:04-04:00,0.34,0.0,0.882,0.118
+486,The New York Times,"Jerry Richardson, the owner of the Carolina Panthers who is in the process of selling the team for $2.2 billion, wa… https://t.co/AzhVuSCHZf",2018-06-28,2018-06-28 14:40:05-04:00,0.0,0.0,1.0,0.0
+487,The New York Times,"How long can humans live? The limit hasn't been reached, a study finds. https://t.co/9TCvx9XqOR",2018-06-28,2018-06-28 14:30:07-04:00,-0.0762,0.097,0.903,0.0
+488,The New York Times,"Lindsay Meyer, who spoke about Silicon Valley’s culture of harassment: “I was on the verge of getting my big second… https://t.co/7laDAOMham",2018-06-28,2018-06-28 14:24:00-04:00,-0.5423,0.149,0.851,0.0
+489,The New York Times,"A politician who is trying to get rid of speed cameras around city schools has racked up tickets in March, April an… https://t.co/ojYfTFHPXA",2018-06-28,2018-06-28 14:20:01-04:00,0.0,0.0,1.0,0.0
+490,The New York Times,England vs. Belgium is a World Cup heavyweight battle. But both teams may be better off losing this game. Live upda… https://t.co/jYUQFuomOS,2018-06-28,2018-06-28 14:15:09-04:00,-0.3182,0.199,0.69,0.111
+491,The New York Times,"As Amazon continues its pursuit to own everyone and everything, it is buying an online pharmacy, PillPack https://t.co/DL8J5HK4Cp",2018-06-28,2018-06-28 14:10:01-04:00,0.1779,0.0,0.909,0.091
+492,The New York Times,"RT @adamliptak: My look back at the last Supreme Court term, with stunning, telling graphics from @aliciaparlap https://t.co/GD85hKMcjR",2018-06-28,2018-06-28 14:06:06-04:00,0.7351,0.0,0.721,0.279
+493,The New York Times,"“There was no evidence in our case. And there is no evidence of terrorism here now,” George Takei said. “What the c… https://t.co/8zmgRAg2RK",2018-06-28,2018-06-28 14:00:11-04:00,-0.8402,0.31,0.69,0.0
+494,The New York Times,"Chris Brown said he'd been sexually abused at 17 by the conductor James Levine, who denied the accusations.
 
-Ryan Park writes, ""I’ve assumed my parenting style means my daughters might someday bring home gra… https://t.co/GUBrunvryA",2018-06-23,0.0,0.0,1.0,0.0
-499,The New York Times,How big a deal is a trade war with China? It depends very much on which products you are talking about. https://t.co/b8vt4hePh5,2018-06-23,-0.5994,0.17,0.83,0.0
+""I did… https://t.co/AH3wZri9Zb",2018-06-28,2018-06-28 13:55:00-04:00,-0.8176,0.321,0.679,0.0
+495,The New York Times,"Setting down his glass of rosé, John Legend performed a handful of songs including “La Vie en Rose” (of course) https://t.co/abH9V8Xfdf",2018-06-28,2018-06-28 13:50:03-04:00,0.0,0.0,1.0,0.0
+496,The New York Times,Britain’s intelligence services tolerated and abetted “inexcusable” abuse of terrorism suspects by their American c… https://t.co/UUN0UZXGfE,2018-06-28,2018-06-28 13:40:05-04:00,-0.8442,0.426,0.456,0.118
+497,The New York Times,"2018 is ""officially, extremely canceled"" https://t.co/rSVC5CCQYs",2018-06-28,2018-06-28 13:30:13-04:00,0.0,0.0,1.0,0.0
+498,The New York Times,Julie Ruvolo spoke about Silicon Valley's use of nondisclosure agreements to resolve harassment claims. She said An… https://t.co/tl2CHXj3wM,2018-06-28,2018-06-28 13:24:00-04:00,0.0516,0.151,0.647,0.203
+499,The New York Times,"While students publicly praise ideological classes on Mao, in private many say they find the courses dull and irrel… https://t.co/xTdxiNnBWF",2018-06-28,2018-06-28 13:20:05-04:00,0.2263,0.111,0.741,0.148
