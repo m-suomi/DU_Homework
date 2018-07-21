@@ -35,13 +35,11 @@ SELECT c.country_id, c.country
 FROM country c
 WHERE c.country IN ('Afghanistan', 'Bangladesh', 'China');
 
--- ???reorder middle column??? 3a. Add a middle_name column to the table actor. Position it between first_name and last_name. Hint:
+-- 3a. Add a middle_name column to the table actor. Position it between first_name and last_name. Hint:
 --     you will need to specify the data type.
 ALTER TABLE actor
-ADD middle_name VARCHAR(45);
-
-SELECT a.actor_id, a.first_name, a.middle_name, a.last_name, a.last_update -- reorder columns appearance in output
-FROM actor a;
+ADD middle_name VARCHAR(45)
+AFTER first_name; -- note: apparently AFTER command doesn't work in all SQL programs
 
 -- 3b. You realize that some of these actors have tremendously long last names. Change the data type of
 --     the middle_name column to blobs.
@@ -92,11 +90,12 @@ UPDATE actor
 -- SELECT * from actor WHERE last_name='Williams'; -- see what current name is
 
 
--- ???? 5a. You cannot locate the schema of the address table. Which query would you use to re-create it?
+-- 5a. You cannot locate the schema of the address table. Which query would you use to re-create it?
 --     Hint: https://dev.mysql.com/doc/refman/5.7/en/show-create-table.html
 SHOW CREATE TABLE address;
-
-'CREATE TABLE `address` (
+-- then would copy the Field value from the query return and run that query - the code
+-- to recreate it is below:
+CREATE TABLE `address` (
   `address_id` smallint(5) unsigned NOT NULL AUTO_INCREMENT,
   `address` varchar(50) NOT NULL,
   `address2` varchar(50) DEFAULT NULL,
@@ -110,7 +109,7 @@ SHOW CREATE TABLE address;
   KEY `idx_fk_city_id` (`city_id`),
   SPATIAL KEY `idx_location` (`location`),
   CONSTRAINT `fk_address_city` FOREIGN KEY (`city_id`) REFERENCES `city` (`city_id`) ON UPDATE CASCADE
-) ENGINE=InnoDB AUTO_INCREMENT=606 DEFAULT CHARSET=utf8'
+) ENGINE=InnoDB AUTO_INCREMENT=606 DEFAULT CHARSET=utf8
 
 -- 6a. Use JOIN to display the first and last names, as well as the address, of each staff member. 
 --     Use the tables staff and address:
@@ -148,21 +147,50 @@ JOIN payment p ON c.customer_id=p.customer_id
 GROUP BY 1, 2
 ORDER BY 2;
 
--- ??why need subqueries?? 7a. The music of Queen and Kris Kristofferson have seen an unlikely resurgence. As an unintended
---     consequence, films starting with the letters K and Q have also soared in popularity. Use 
---     subqueries to display the titles of movies starting with the letters K and Q whose language is
+-- 7a. The music of Queen and Kris Kristofferson have seen an unlikely resurgence.
+--     As an unintended consequence, films starting with the letters K and Q have also soared in popularity.
+--     Use subqueries to display the titles of movies starting with the letters K and Q whose language is
 --     English.
+-- solution without needing subquery:
 SELECT f.title
 FROM film f 
 WHERE (f.title LIKE 'K%' OR f.title LIKE 'Q%')
 AND f.language_id=1;  -- language_id=1 is English
+-- solution using the requested subquery procedure:
+SELECT feng.title
+FROM (	SELECT f.* 
+        FROM film f
+        WHERE f.language_id=1  -- language_id=1 is English
+        ) feng 
+WHERE feng.title LIKE 'K%' OR feng.title LIKE 'Q%';
 
--- ?? why need subqueries?? 7b. Use subqueries to display all actors who appear in the film Alone Trip.
+-- 7b. Use subqueries to display all actors who appear in the film Alone Trip.
+-- solution without needing subquery:
 SELECT a.first_name, a.last_name
 FROM actor a
 JOIN film_actor fa ON a.actor_id=fa.actor_id
 JOIN film f ON fa.film_id=f.film_id
 WHERE f.title='Alone Trip';
+-- solution using the requested subquery procedure - version 1, within FROM clause:
+SELECT a.first_name, a.last_name
+FROM (	SELECT f.*
+		FROM film f
+        WHERE f.title='Alone Trip'
+        ) f_alone
+JOIN film_actor fa ON f_alone.film_id=fa.film_id
+JOIN actor a ON fa.actor_id=a.actor_id;
+-- solution using the requested subquery procedure - version 2, within WHERE clause:
+SELECT a.first_name, a.last_name
+FROM actor a 
+WHERE a.actor_id IN
+	(SELECT fa.actor_id
+	 FROM film_actor fa
+     WHERE film_id IN
+		(SELECT f.film_id
+         FROM film f
+         WHERE f.title='Alone Trip'
+         )
+	);
 
 -- 7c. You want to run an email marketing campaign in Canada, for which you will need the names
 --     and email addresses of all Canadian customers. Use joins to retrieve this information.
