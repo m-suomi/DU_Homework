@@ -129,9 +129,9 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 * `/api/v1.0/precipitation`
 
-  * Query for the dates and temperature observations from the last year.
+  * Query for the dates and precipitation observations from the last year.
 
-  * Convert the query results to a Dictionary using `date` as the key and `tobs` as the value.
+  * Convert the query results to a Dictionary using `date` as the key and `precip` as the value.
 
   * Return the JSON representation of your dictionary.
 
