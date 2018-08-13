@@ -1,0 +1,95 @@
+<!-- navbar code to be inserted into other pages-->
+<style>
+    .navbar {
+        margin-bottom: 0;
+        background-color: rgb(15, 15, 66);
+        z-index: 9999;
+        border: 0;
+        font-size: 12px !important;
+        line-height: 1.42857143 !important;
+        letter-spacing: 4px;
+        border-radius: 0;
+        /* box-shadow: 0px 5px 30px 0px rgb(48, 48, 48); */
+    }
+
+    .navbar li a,
+    .navbar .navbar-brand {
+        color: #fff !important;
+    }
+
+    .navbar-nav li a:hover,
+    .navbar-nav li.active a {
+        color: rgb(15, 15, 66) !important;
+        background-color: rgb(218, 226, 247) !important;
+    }
+
+    .dropdown-menu {
+        background-color: rgb(15, 15, 66);
+        font-size: smaller;
+    }
+
+    .navbar-default .navbar-toggle {
+        border-color: transparent;
+        color: #fff !important;
+    }
+</style>
+
+<!-- navbar -->
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="index.html">Portfolio</a>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
+                        Visualizations
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="plot_medianhousevalue.html">Denver Neighborhoods</a>
+                        <br>
+                        <br>
+                        <a class="dropdown-item" href="plot_temperature.html">What's the Weather?</a>
+                        <br>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
+                        Data
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="data_denver.html">Denver Neighborhoods</a>
+                        <br>
+                        <br>
+                        <a class="dropdown-item" href="data_weather.html">What's the Weather?</a>
+                        <br>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
+                        Code
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="https://github.com/mtsuomi/DU_Homework/tree/master/Week%206%20HW%20-%20APIs%2C%20JSON" target="_blank">Denver Neighborhoods</a>
+                        <br>
+                        <br>
+                        <a class="dropdown-item" href="https://github.com/mtsuomi/Project_1_Denver_Neighborhood_Analysis" target="_blank">What's the Weather?</a>
+                        <br>
+                    </div>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/michael-suomi/" target="_blank">About Me</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>

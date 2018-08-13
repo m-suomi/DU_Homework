@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Mike Suomi's Portfolio</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+
+<style>
+    * {
+        font-family: 'Poppins';
+    }
+
+    /* force scroll bar so navbar and page doesn't shift */
+    body { 
+    overflow-y: scroll; 
+    }
+
+    .jumbotron {
+        background-color: rgb(15, 15, 66);
+        color: #fff;
+        margin-bottom: 0;
+        padding-top: 150px;
+        text-shadow: 5px 5px 0px black;
+    }
+
+    .container-fluid {
+        padding: 60px 50px;
+    }
+
+    .bg-grey {
+        background-color: #D5DBDB;
+    }
+
+    .bg-bluegrey {
+        background-color: #AEB6BF;
+    }
+
+    .project-header-text {
+        margin-bottom: 10px;
+        /* color: #fff; */
+        text-shadow: 1.5px 1.5px 5px #fff;
+    }
+
+    .project-sub-header-text {
+        margin-top: 0;
+        margin-bottom: 15px;
+    }
+
+    .project-description {
+        padding-right: 30px;
+    }
+
+    .pull-left {
+        padding-right: 10px;
+        padding-bottom: 0px;
+    }
+
+    .thumbnail {
+        /* background-color: rgb(0, 0, 0); */
+        padding: 1px;
+        margin-bottom: 0px;
+    }
+
+    .thumbnail:hover {
+        box-shadow: 1px 1px 20px 0px rgb(48, 48, 48);
+    }
+
+    /* .visualize-image-row {
+        margin: 0px;
+    } */
+
+    .col-xs-6 {
+        padding: 5px;
+    }
+
+    p {
+        font-size: medium;
+    }
+
+    /* * {
+      border: 1px solid red
+    } */
+</style>
+
+<body>
+
+    <!--Navigation bar imported from navbar.html file-->
+    <div id="nav-placeholder">
+
+    </div>
+
+    <script>
+        $(function () {
+            $("#nav-placeholder").load("navbar.html");
+        });
+    </script>
+
+    <!-- jumbotron header -->
+    <div class='jumbotron text-center'>
+        <h1>Mike Suomi</h1>
+        <h3>Aspiring Data Scientist</h3>
+    </div>
+
+    <!-- First Project - Denver Neighborhoods group project -->
+    <div class="container-fluid bg-grey">
+        <div class="row">
+            <div class="col-sm-8 project-description">
+                <h1 class="text-center project-header-text">
+                    <strong>Denver Neighborhoods</strong>
+                </h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-8 project-description">
+                <h3 class="text-center project-sub-header-text"><strong>House Value, Accidents, Crime, and
+                    <br> Public Transit by Neighborhood</strong></h3>
+                <img src="./images/gmaps_medianhousevalue_cropped.png" class="rounded pull-left" width=60% alt="Denver Neighborhood Median House Value">
+                <p class="text-left">
+
+                    We investigated Denver Neighborhoods for our first group project. We started off by pulling the Median House Price for each
+                    Neighborhood from Zillow's API (the image to the left shows relative median house prices by neighborhood
+                    - the darker the shade of the purple, the higher the median house price of the neighborhood). We then
+                    pulled in arrest and accident data from the Denver Police Department. Lastly, we pulled in traffic commute
+                    data from each neighborhood to four different common commute destinations from Google Directions API
+                    in order to determine how much slower commute times for both driving and public transit were during common
+                    rush hour times of the work week. Lastly, we performed some cool visualizations using the gmaps python
+                    library and the Google API. We imported a geocode json of the Denver neighborhood boundaries from City
+                    of Denver's webpage, normalized each data set we were graphing by neighborhood, and then mapped the normalized
+                    value as an opacity to the google map.
+                </p>
+            </div>
+            <div class="col-sm-4 visualizations">
+                <h3 class="text-center project-sub-header-text"><strong>
+                    <br>Visualizations</strong></h3>
+                <div class="row visualize-image-row">
+                    <div class="col-xs-6">
+                        <a href="plot_medianhousevalue.html">
+                            <img src="./images/gmaps_medianhousevalue.png" class="thumbnail float-center" width=100% alt="Median House Value">
+                        </a>
+                    </div>
+
+                    <div class="col-xs-6">
+                        <a href="plot_accidents.html">
+                            <img src="./images/gmaps_accidents.png" class="thumbnail float-center" width=100% alt="Accidents">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="row visualize-image-row">
+                    <div class="col-xs-6">
+                        <a href="plot_accidents_bikers.html">
+                            <img src="./images/gmaps_accidents_bikers.png" class="thumbnail float-center" width=100% alt="Bike Accidents">
+                        </a>
+                    </div>
+
+                    <div class="col-xs-6">
+                        <a href="plot_accidents_pedestrians.html">
+                            <img src="./images/gmaps_accidents_pedestrians.png" class="thumbnail float-center" width=100% alt="Pedestrian Accidents">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="row visualize-image-row">
+                    <div class="col-xs-6">
+                        <a href="plot_arrests.html">
+                            <img src="./images/gmaps_arrests.png" class="thumbnail float-center" width=100% alt="Arrests">
+                        </a>
+                    </div>
+
+                    <div class="col-xs-6">
+                        <a href="plot_citations.html">
+                            <img src="./images/gmaps_citations.png" class="thumbnail float-center" width=100% alt="Citations">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="row visualize-image-row">
+                    <div class="col-xs-6">
+                        <a href="plot_transitslower.html">
+                            <img src="./images/gmaps_transitslower.png" class="thumbnail float-center" width=100% alt="Transit Percent Slower">
+                        </a>
+                    </div>
+
+                    <div class="col-xs-6">
+                        <!-- <img src="./images/gmaps_citations.png" class="thumbnail float-center" width=100% alt="Cloudiness"> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Second Project - Weather Data-->
+    <div class="container-fluid bg-bluegrey">
+        <div class="row">
+            <div class="col-sm-8 project-description">
+                <h1 class="text-center project-header-text">
+                    <strong>What's the Weather Like?</strong>
+                </h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-8 project-description">
+                <h3 class="text-center project-sub-header-text"><strong>A Data Based Investigation of Latitude</strong></h3>
+                <img src="./images/maxtemp_latitude.png" class="rounded pull-left" width=60% alt="Maximum Temp Example">
+                <p class="text-left">
+
+                    What's the weather like as we approach the equator? In this example, we created a Python script to visualize the weather
+                    of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing
+                    a simple Python library citipy, the OpenWeatherMap API, and a little common sense to create a representative
+                    model of weather across world cities. We built a series of scatter plots to showcase the following relationships:
+                    Temperature (F) vs. Latitude, Wind Speed (mph) vs. Latitude, Humidity (%) vs. Latitude, Cloudiness (%)
+                    vs. Latitude.
+                </p>
+            </div>
+            <div class="col-sm-4 visualizations">
+                <h3 class="text-center project-sub-header-text"><strong>Visualizations</strong></h3>
+                <div class="row visualize-image-row">
+                    <div class="col-xs-6">
+                        <a href="plot_temperature.html">
+                            <img src="./images/maxtemp_latitude.png" class="thumbnail float-center" width=100% alt="Maximum Temperature">
+                        </a>
+                    </div>
+
+                    <div class="col-xs-6">
+                        <a href="plot_windspeed.html">
+                            <img src="./images/windspeed_latitude.png" class="thumbnail float-center" width=100% alt="Windspeed">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="row visualize-image-row">
+                    <div class="col-xs-6">
+                        <a href="plot_humidity.html">
+                            <img src="./images/humidity_latitude.png" class="thumbnail float-center" width=100% alt="Humidity">
+                        </a>
+                    </div>
+
+                    <div class="col-xs-6">
+                        <a href="plot_cloudiness.html">
+                            <img src="./images/cloudiness_latitude.png" class="thumbnail float-center" width=100% alt="Cloudiness">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Footer from footer.html file-->
+    <div id="footer-placeholder">
+    </div>
+
+    <script>
+        $(function () {
+            $("#footer-placeholder").load("footer.html");
+        });
+    </script>
+
+</body>
+
+</html>
