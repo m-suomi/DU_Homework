@@ -39,27 +39,27 @@ function buildGauge(WFREQ) {
   var path = mainPath.concat(pathX,space,pathY,pathEnd);
 
   var data = [{ type: 'scatter',
-    x: [0], y:[0],
+      x: [0], y:[0],
       marker: {size: 28, color:'850000'},
       showlegend: false,
       name: 'Wash Frequency',
       text: WFREQ,
       hoverinfo: 'text+name'},
+
     { values: [50/10, 50/10, 50/10, 50/10, 50/10, 50/10, 50/10, 50/10, 50/10, 50/10, 50],
-    rotation: 90,
-    //some very weird things going on with the order of the array and how it applies it to the
-    //gauge, rather than in descending order, it wants it in this order to display correctly:
-    //['9', '5', '8', '7', '6', '0', '4', '3', '2', '1', '']
-    text: ['9', '5', '8', '7', '6', '0', '4', '3', '2', '1', ''],
+    rotation: 72, //seems like a bug that we have to rotate by 72 degrees, instead of 90 to appear correctly
+    direction: "counterclockwise",
+    sort: false, //including this prevented a weird chrome mis-rendering that re-arranged the order incorrectly
+    text: ['9', '8', '7', '6', '5', '4', '3', '2', '1', '0', ''],
     textinfo: 'text',
     textposition:'inside',
-    marker: {colors:['rgba(0, 115, 0, .5)', 'rgba(96,164,76, .5)', 'rgba(14, 127, 12.5, .5)',
-                     'rgba(41,139,25, .5)',
-                          'rgba(69,152,51, .5)', 'rgba(232,226,202, .5)',
-                          'rgba(123,177,101, .5)', 'rgba(150,189,126, .5)',
-                          'rgba(178,201,152, .5)', 'rgba(205,214,177, .5)',
-                          'rgba(255, 255, 255, 0)']},
-    labels: ['9', '5', '8', '7', '6', '0', '4', '3', '2', '1', ''],
+    marker: {colors:['rgba(0, 115, 0, .5)',  
+                      'rgba(14, 127, 12.5, .5)','rgba(41,139,25, .5)',
+                      'rgba(69,152,51, .5)', 'rgba(96,164,76, .5)', 
+                      'rgba(123,177,101, .5)', 'rgba(150,189,126, .5)',
+                      'rgba(178,201,152, .5)', 'rgba(205,214,177, .5)',
+                      'rgba(232,226,202, .5)', 'rgba(255, 255, 255, 0)']},
+    labels: ['9', '8', '7', '6', '5', '4', '3', '2', '1', '0', ' '],
     hoverinfo: 'label',
     hole: .5,
     type: 'pie',
