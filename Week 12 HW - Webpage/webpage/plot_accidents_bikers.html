@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Mike Suomi's Portfolio</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+
+<style>
+    * {
+        font-family: 'Poppins';
+    }
+    
+    /* force scroll bar so navbar and page doesn't shift */
+    body { 
+    overflow-y: scroll; 
+    }
+    
+    .container-fluid {
+        padding: 60px 50px;
+    }
+
+    .bg-grey {
+        background-color: #D5DBDB;
+    }
+
+    .bg-bluegrey {
+        background-color: #AEB6BF;
+    }
+
+    .project-header-text {
+        margin-bottom: 0;
+        /* color: #fff; */
+        text-shadow: 1.5px 1.5px 5px #fff;
+    }
+
+    .project-sub-header-text {
+        margin-top: 0;
+        margin-bottom: 15px;
+    }
+
+    .project-description {
+        padding-right: 30px;
+    }
+
+    .rounded {
+        padding-bottom: 10px;
+    }
+
+    .thumbnail {
+        /* background-color: rgb(0, 0, 0); */
+        padding: 1px;
+        margin-bottom: 0px;
+    }
+
+    .thumbnail:hover {
+        box-shadow: 1px 1px 20px 0px rgb(48, 48, 48);
+    }
+
+    #current-visualization {
+        box-shadow: 1px 1px 20px 4px rgb(48, 48, 48);
+    }
+
+
+    /* .visualize-image-row {
+        margin: 0px;
+    } */
+
+    .col-xs-6 {
+        padding: 5px;
+    }
+
+    #graph-list {
+        font-size: medium;
+    }
+    /* * {
+      border: 1px solid red
+    } */
+</style>
+
+<body class="bg-grey">
+
+    <!--Navigation bar imported from navbar.html file-->
+    <div id="nav-placeholder">
+
+    </div>
+
+    <script>
+        $(function () {
+            $("#nav-placeholder").load("navbar.html");
+        });
+    </script>
+
+    <!-- Denver Neighborhoods group project Visualizations-->
+    <div class="container-fluid bg-grey">
+        <div class="row">
+            <div class="col-sm-9 project-description">
+                <h1 class="text-center project-header-text">
+                    <strong>Denver Neighborhoods</strong>
+                </h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-9 project-description">
+                <h3 class="text-center project-sub-header-text">
+                    <br>
+                    <strong>Total Accidents Including Bicyclists</strong>
+                </h3>
+                <img src="./images/gmaps_accidents_bikers.png" class="rounded" width=100% alt="Bike Accidents">
+                <ul id="graph-list">
+                    <li>
+                        <strong>Maximum Opacity = 116 Bike Accidents (Five Points)
+                            </strong>
+                    </li>
+                    <li>
+                        <strong>Minimum Opacity = 0 Bike Accidents (DIA)</strong>
+                    </li>
+                </ul>
+                <p class="text-right"> Data sourced from Denver Police Department, includes all data from 2012 to mid-2018.</p>
+            </div>
+            <div class="col-sm-3 visualizations">
+                <h3 class="text-center project-sub-header-text">
+                    <strong>
+                        <br>Visualizations</strong>
+                </h3>
+                <div class="row visualize-image-row">
+                    <div class="col-xs-6">
+                        <a href="plot_medianhousevalue.html">
+                            <img src="./images/gmaps_medianhousevalue.png" class="thumbnail float-center" width=100% alt="Median House Value">
+                        </a>
+                    </div>
+
+                    <div class="col-xs-6">
+                        <a href="plot_accidents.html">
+                            <img src="./images/gmaps_accidents.png" class="thumbnail float-center" width=100% alt="Accidents">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="row visualize-image-row">
+                    <div class="col-xs-6">
+                        <a href="plot_accidents_bikers.html">
+                            <img id="current-visualization" src="./images/gmaps_accidents_bikers.png" class="thumbnail float-center" width=100% alt="Bike Accidents">
+                        </a>
+                    </div>
+
+                    <div class="col-xs-6">
+                        <a href="plot_accidents_pedestrians.html">
+                            <img src="./images/gmaps_accidents_pedestrians.png" class="thumbnail float-center" width=100% alt="Pedestrian Accidents">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="row visualize-image-row">
+                    <div class="col-xs-6">
+                        <a href="plot_arrests.html">
+                            <img src="./images/gmaps_arrests.png" class="thumbnail float-center" width=100% alt="Arrests">
+                        </a>
+                    </div>
+
+                    <div class="col-xs-6">
+                        <a href="plot_citations.html">
+                            <img src="./images/gmaps_citations.png" class="thumbnail float-center" width=100% alt="Citations">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="row visualize-image-row">
+                    <div class="col-xs-6">
+                        <a href="plot_transitslower.html">
+                            <img src="./images/gmaps_transitslower.png" class="thumbnail float-center" width=100% alt="Transit Percent Slower">
+                        </a>
+                    </div>
+
+                    <div class="col-xs-6">
+                        <!-- <img src="./images/gmaps_citations.png" class="thumbnail float-center" width=100% alt="Cloudiness"> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Footer from footer.html file-->
+    <div id="footer-placeholder">
+    </div>
+
+    <script>
+        $(function () {
+            $("#footer-placeholder").load("footer.html");
+        });
+    </script>
+
+</body>
+
+</html>
