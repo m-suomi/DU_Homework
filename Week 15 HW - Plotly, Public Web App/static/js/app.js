@@ -80,7 +80,7 @@ function buildGauge(WFREQ) {
         color: '850000'
       }
     }],
-    title: "Belly Button Washing Frequency <br> Scrubs per Week",
+    title: "<b>Belly Button Washing Frequency <br> Scrubs per Week</b>",
     // height: 1000,
     // width: 1000,
     xaxis: {
@@ -116,7 +116,7 @@ function buildCharts(sample) {
     }];
 
     let layout = {
-      title: 'Top Ten Microbial Species (OTUs)<br> by Amount in Sample'
+      title: '<b>Top Ten Microbial Species (OTUs)<br> by Amount in Sample</b>'
     };
 
     Plotly.newPlot("pie", data, layout);
@@ -139,7 +139,7 @@ function buildCharts(sample) {
     }];
 
     let layoutB = {
-      title: 'Amount of All Microbial Species (OTUs) Present in Sample',
+      title: '<b>Amount of All Microbial Species (OTUs) Present in Sample</b>',
       xaxis: { title: 'OTU IDs' },
       yaxis: { title: 'Amount in Sample' },
       showlegend: false,
