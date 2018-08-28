@@ -5,21 +5,29 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="icon" type="image/x-icon" href="/templates/favicon.ico" />
   <title>Mike Suomi's Web App</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
 
 <body>
 
-  <div class="container">
+  
     <div class="row">
       <div class="col-md-12 jumbotron text-center">
+        <style>
+        .jumbotron {
+          background-color: rgb(212, 142, 61);
+        }
+        </style>  
+        
         <h1>Belly Button Biodiversity Dashboard</h1>
-        <h3>Use the interactive charts below to explore the dataset</h3>
+        <h3>Use the interactive charts below to explore the dataset.</h3>
         <p style="font-style: italic">For background on the dataset go to
           <a href="http://robdunnlab.com/projects/belly-button-biodiversity/" target="_blank">Rob Dunn Lab's Project</a>.</p>
       </div>
     </div>
+    <div class="container">
     <div class="row">
       <div class="col-md-2">
         <div class="well">
@@ -49,13 +57,39 @@
 
     <div class="row">
       <div class="col-md-12">
-        <br>
-        <p style="font-style: italic">For additional exploratory data analysis of the Belly Button Microbes, see this
+        <hr>
+        <h4 style="font-style: italic">For additional exploratory data analysis of the Belly Button Microbes, see this
           <a href="https://github.com/mtsuomi/DU_Homework/blob/master/Week%2015%20HW%20-%20Plotly%2C%20Public%20Web%20App/initial_data_explorations.ipynb"
-            target="_blank">jupyter notebook</a>.</p>
+            target="_blank">jupyter notebook</a>.</h4>
+        <br>
+        <br>
       </div>
     </div>
   </div>
+
+  <footer class="footer text-center">
+    <style>
+      .footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        /* Set the fixed height of the footer here */
+        height: 25px;
+        line-height: 25px;
+        /* Vertically center the text there */
+        background-color: rgb(212, 142, 61);
+        box-shadow: 0px 0px 30px 0px rgb(141, 141, 141);
+      }
+
+      .text {
+        color: rgba(255, 255, 255, 0.596);
+        font-size: smaller;
+      }
+    </style>
+
+    <span class="text">Created by Michael Suomi, 2018</span>
+  </footer>
+
 
   <!-- <script src="https://cdn.plot.ly/plotly-1.31.2.min.js"></script> -->
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
