@@ -116,8 +116,7 @@ function buildCharts(sample) {
     }];
 
     let layout = {
-      title: 'Top Ten Microbial Species (OTUs)<br> by Amount in Sample',
-
+      title: 'Top Ten Microbial Species (OTUs)<br> by Amount in Sample'
     };
 
     Plotly.newPlot("pie", data, layout);
