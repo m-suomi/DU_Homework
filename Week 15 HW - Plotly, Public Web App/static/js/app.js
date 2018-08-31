@@ -24,19 +24,25 @@ function buildMetadata(sample) {
 //BONUS: build a gauge chart with wash frequency (WFREQ) data for values ranging 0-9
 function buildGauge(WFREQ) {
   // Trig to calc gauge meter point
-  var degrees = 170 - (WFREQ * 18), //convert WREQ to degrees make 10 ranges for each number 0-9 and want to place marker at mid-pt of each range
-    radius = .5;
+  // var degrees = 170 - (WFREQ * 18), //convert WREQ to degrees make 10 ranges for each number 0-9 and want to place marker at mid-pt of each range
+  //   radius = .5;
+  let degrees = 170 - (WFREQ * 18); //convert WREQ to degrees make 10 ranges for each number 0-9 and want to place marker at mid-pt of each range
+  // console.log(degrees)
+  let radius = .5;
+  // console.log(radius)
   var radians = degrees * Math.PI / 180;
   var x = radius * Math.cos(radians);
   var y = radius * Math.sin(radians);
+  // console.log(x, y)
 
   // Path of the triangular gauge meter
-  var mainPath = 'M -.0 -0.025 L .0 0.025 L ',
-    pathX = String(x),
-    space = ' ',
-    pathY = String(y),
-    pathEnd = ' Z';
+  var mainPath = 'M0 -0.025 L0 0.025 L';
+  var pathX = String(x);
+  var space = ' ';
+  var pathY = String(y);
+  var pathEnd = ' Z';
   var path = mainPath.concat(pathX, space, pathY, pathEnd);
+  // console.log(path)
 
   var data = [{
     type: 'scatter',
@@ -50,8 +56,7 @@ function buildGauge(WFREQ) {
 
   {
     values: [50 / 10, 50 / 10, 50 / 10, 50 / 10, 50 / 10, 50 / 10, 50 / 10, 50 / 10, 50 / 10, 50 / 10, 50],
-    rotation: 72, //seems like a bug that we have to rotate by 72 degrees, instead of 90 to appear correctly
-    direction: "counterclockwise",
+    rotation: 72, //first pie slice starts verticaly and goes to right, so already rotated 18 deg and need to rotate another 72 to get it all flat
     sort: false, //including this prevented a weird chrome mis-rendering that re-arranged the order incorrectly
     text: ['9', '8', '7', '6', '5', '4', '3', '2', '1', '0', ''],
     textinfo: 'text',
@@ -71,6 +76,12 @@ function buildGauge(WFREQ) {
     showlegend: false
   }];
 
+  //use jquery to identify the inner width of the bootstrap column where the gauge div is located
+  //will use this variable to constrain the height to be equal to this so that aspect ratio stays 1:1
+  //and location of gauge marker geometry works correclty no longer how website scaled
+  var colWidth = $( "#gauge" ).innerWidth();
+  // console.log(colWidth)
+
   var layout = {
     shapes: [{
       type: 'path',
@@ -81,8 +92,7 @@ function buildGauge(WFREQ) {
       }
     }],
     title: "<b>Belly Button Washing Frequency <br> Scrubs per Week</b>",
-    // height: 1000,
-    // width: 1000,
+    height: colWidth,
     xaxis: {
       zeroline: false, showticklabels: false,
       showgrid: false, range: [-1, 1]
